@@ -1,0 +1,21 @@
+The software is composed of two pieces:
+
+1. The PreProcessor
+This piece takes a of emojis and records the metadata associated with each image.
+For now, we will just record the average-color of each emoji and it's location. 
+
+
+2. The ImageProcessor
+Given an image to process, the image processor will divide it into small squares
+and will substitute each such square with an emoji that looks simillar to the content in that square.
+To determine simillarity between the square and the emoji, we will compare the average color of the square and the emoji,
+and pick the emoji with the closest average color.
+In order to do so efficiently, we wouldn't compute the average color of all emojis each time,
+but rather record the average color in the meta data and reffer to it while processing.
+
+
+#######################################################################################
+
+For starters, let's get the PreProcessor working, take a look at the file "pre_processor.py" to see what needs to get done.
+
+After you finish writting, commit your work and push it back into github.
