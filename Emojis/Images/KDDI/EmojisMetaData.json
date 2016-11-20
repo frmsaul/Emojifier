@@ -1,0 +1,6304 @@
+{
+    "emojis": [
+        {
+            "channel_values": 0.009449112978524743, 
+            "number_of_combined_emojis": 3, 
+            "file_path": "Images/KDDI/0023_fe0f_20e3.jpg", 
+            "html_name": "&#x0000023&#x000fe0f&#x00020e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013370681605975723, 
+            "number_of_combined_emojis": 3, 
+            "file_path": "Images/KDDI/0030_fe0f_20e3.jpg", 
+            "html_name": "&#x0000030&#x000fe0f&#x00020e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.014211017740429505, 
+            "number_of_combined_emojis": 3, 
+            "file_path": "Images/KDDI/0031_fe0f_20e3.jpg", 
+            "html_name": "&#x0000031&#x000fe0f&#x00020e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017329598506069094, 
+            "number_of_combined_emojis": 3, 
+            "file_path": "Images/KDDI/0032_fe0f_20e3.jpg", 
+            "html_name": "&#x0000032&#x000fe0f&#x00020e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013688141923436042, 
+            "number_of_combined_emojis": 3, 
+            "file_path": "Images/KDDI/0033_fe0f_20e3.jpg", 
+            "html_name": "&#x0000033&#x000fe0f&#x00020e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013370681605975723, 
+            "number_of_combined_emojis": 3, 
+            "file_path": "Images/KDDI/0034_fe0f_20e3.jpg", 
+            "html_name": "&#x0000034&#x000fe0f&#x00020e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01361344537815126, 
+            "number_of_combined_emojis": 3, 
+            "file_path": "Images/KDDI/0035_fe0f_20e3.jpg", 
+            "html_name": "&#x0000035&#x000fe0f&#x00020e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01353874883286648, 
+            "number_of_combined_emojis": 3, 
+            "file_path": "Images/KDDI/0036_fe0f_20e3.jpg", 
+            "html_name": "&#x0000036&#x000fe0f&#x00020e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01404295051353875, 
+            "number_of_combined_emojis": 3, 
+            "file_path": "Images/KDDI/0037_fe0f_20e3.jpg", 
+            "html_name": "&#x0000037&#x000fe0f&#x00020e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013352007469654528, 
+            "number_of_combined_emojis": 3, 
+            "file_path": "Images/KDDI/0038_fe0f_20e3.jpg", 
+            "html_name": "&#x0000038&#x000fe0f&#x00020e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01353874883286648, 
+            "number_of_combined_emojis": 3, 
+            "file_path": "Images/KDDI/0039_fe0f_20e3.jpg", 
+            "html_name": "&#x0000039&#x000fe0f&#x00020e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.012586367880485528, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/00a9.jpg", 
+            "html_name": "&#x00000a9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.008291316526610644, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/00ae.jpg", 
+            "html_name": "&#x00000ae", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01942110177404295, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f004.jpg", 
+            "html_name": "&#x0001f004", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02138188608776844, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f0cf.jpg", 
+            "html_name": "&#x0001f0cf", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006797385620915033, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f170.jpg", 
+            "html_name": "&#x0001f170", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006722689075630252, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f171.jpg", 
+            "html_name": "&#x0001f171", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006872082166199813, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f17e.jpg", 
+            "html_name": "&#x0001f17e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020933706816059754, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f17f.jpg", 
+            "html_name": "&#x0001f17f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006498599439775911, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f18e.jpg", 
+            "html_name": "&#x0001f18e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01445378151260504, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f191.jpg", 
+            "html_name": "&#x0001f191", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02138188608776844, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f192.jpg", 
+            "html_name": "&#x0001f192", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016974789915966387, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f193.jpg", 
+            "html_name": "&#x0001f193", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013333333333333332, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f194.jpg", 
+            "html_name": "&#x0001f194", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01096171802054155, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f195.jpg", 
+            "html_name": "&#x0001f195", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018263305322128852, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f197.jpg", 
+            "html_name": "&#x0001f197", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009075630252100841, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f198.jpg", 
+            "html_name": "&#x0001f198", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.004463118580765639, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f199.jpg", 
+            "html_name": "&#x0001f199", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017777777777777778, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f19a.jpg", 
+            "html_name": "&#x0001f19a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01887955182072829, 
+            "number_of_combined_emojis": 2, 
+            "file_path": "Images/KDDI/1f1e8_1f1f3.jpg", 
+            "html_name": "&#x0001f1e8&#x0001f1f3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017591036414565827, 
+            "number_of_combined_emojis": 2, 
+            "file_path": "Images/KDDI/1f1e9_1f1ea.jpg", 
+            "html_name": "&#x0001f1e9&#x0001f1ea", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025210084033613446, 
+            "number_of_combined_emojis": 2, 
+            "file_path": "Images/KDDI/1f1ea_1f1f8.jpg", 
+            "html_name": "&#x0001f1ea&#x0001f1f8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01710550887021475, 
+            "number_of_combined_emojis": 2, 
+            "file_path": "Images/KDDI/1f1eb_1f1f7.jpg", 
+            "html_name": "&#x0001f1eb&#x0001f1f7", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.031503267973856205, 
+            "number_of_combined_emojis": 2, 
+            "file_path": "Images/KDDI/1f1ec_1f1e7.jpg", 
+            "html_name": "&#x0001f1ec&#x0001f1e7", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01710550887021475, 
+            "number_of_combined_emojis": 2, 
+            "file_path": "Images/KDDI/1f1ee_1f1f9.jpg", 
+            "html_name": "&#x0001f1ee&#x0001f1f9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01488328664799253, 
+            "number_of_combined_emojis": 2, 
+            "file_path": "Images/KDDI/1f1ef_1f1f5.jpg", 
+            "html_name": "&#x0001f1ef&#x0001f1f5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.036713352007469655, 
+            "number_of_combined_emojis": 2, 
+            "file_path": "Images/KDDI/1f1f0_1f1f7.jpg", 
+            "html_name": "&#x0001f1f0&#x0001f1f7", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020784313725490194, 
+            "number_of_combined_emojis": 2, 
+            "file_path": "Images/KDDI/1f1f7_1f1fa.jpg", 
+            "html_name": "&#x0001f1f7&#x0001f1fa", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02057889822595705, 
+            "number_of_combined_emojis": 2, 
+            "file_path": "Images/KDDI/1f1fa_1f1f8.jpg", 
+            "html_name": "&#x0001f1fa&#x0001f1f8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009934640522875817, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f202.jpg", 
+            "html_name": "&#x0001f202", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020466853408029877, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f22f.jpg", 
+            "html_name": "&#x0001f22f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02020541549953315, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f233.jpg", 
+            "html_name": "&#x0001f233", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.012866479925303454, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f235.jpg", 
+            "html_name": "&#x0001f235", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016563958916900094, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f239.jpg", 
+            "html_name": "&#x0001f239", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013071895424836602, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f23a.jpg", 
+            "html_name": "&#x0001f23a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.011447245564892622, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f250.jpg", 
+            "html_name": "&#x0001f250", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0047619047619047615, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f251.jpg", 
+            "html_name": "&#x0001f251", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013370681605975723, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f300.jpg", 
+            "html_name": "&#x0001f300", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013034547152194213, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f301.jpg", 
+            "html_name": "&#x0001f301", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.014416433239962652, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f302.jpg", 
+            "html_name": "&#x0001f302", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0115406162464986, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f303.jpg", 
+            "html_name": "&#x0001f303", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.05225023342670402, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f305.jpg", 
+            "html_name": "&#x0001f305", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022334267040149392, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f306.jpg", 
+            "html_name": "&#x0001f306", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04526610644257703, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f308.jpg", 
+            "html_name": "&#x0001f308", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01891690009337068, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f309.jpg", 
+            "html_name": "&#x0001f309", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015088702147525678, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f30a.jpg", 
+            "html_name": "&#x0001f30a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.027133520074696545, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f30b.jpg", 
+            "html_name": "&#x0001f30b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02532212885154062, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f30c.jpg", 
+            "html_name": "&#x0001f30c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.024201680672268907, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f30f.jpg", 
+            "html_name": "&#x0001f30f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.008291316526610644, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f311.jpg", 
+            "html_name": "&#x0001f311", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015462184873949581, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f313.jpg", 
+            "html_name": "&#x0001f313", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.011223155929038282, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f314.jpg", 
+            "html_name": "&#x0001f314", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02069094304388422, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f319.jpg", 
+            "html_name": "&#x0001f319", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02253968253968254, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f31b.jpg", 
+            "html_name": "&#x0001f31b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021755368814192343, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f320.jpg", 
+            "html_name": "&#x0001f320", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029785247432306254, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f330.jpg", 
+            "html_name": "&#x0001f330", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013370681605975723, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f331.jpg", 
+            "html_name": "&#x0001f331", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.045583566760037345, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f334.jpg", 
+            "html_name": "&#x0001f334", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01549953314659197, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f335.jpg", 
+            "html_name": "&#x0001f335", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03342670401493931, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f337.jpg", 
+            "html_name": "&#x0001f337", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025639589169000932, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f338.jpg", 
+            "html_name": "&#x0001f338", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.027096171802054158, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f339.jpg", 
+            "html_name": "&#x0001f339", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.024014939309056953, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f33a.jpg", 
+            "html_name": "&#x0001f33a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0388422035480859, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f33b.jpg", 
+            "html_name": "&#x0001f33b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.026591970121381887, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f33c.jpg", 
+            "html_name": "&#x0001f33c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025994397759103643, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f33d.jpg", 
+            "html_name": "&#x0001f33d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017366946778711485, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f33f.jpg", 
+            "html_name": "&#x0001f33f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009337068160597572, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f340.jpg", 
+            "html_name": "&#x0001f340", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02464985994397759, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f341.jpg", 
+            "html_name": "&#x0001f341", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018151260504201683, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f342.jpg", 
+            "html_name": "&#x0001f342", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03531279178338002, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f344.jpg", 
+            "html_name": "&#x0001f344", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02937441643323996, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f345.jpg", 
+            "html_name": "&#x0001f345", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02061624649859944, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f346.jpg", 
+            "html_name": "&#x0001f346", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01865546218487395, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f347.jpg", 
+            "html_name": "&#x0001f347", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016115779645191407, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f348.jpg", 
+            "html_name": "&#x0001f348", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.041008403361344536, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f349.jpg", 
+            "html_name": "&#x0001f349", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.031073762838468723, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f34a.jpg", 
+            "html_name": "&#x0001f34a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023790849673202615, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f34c.jpg", 
+            "html_name": "&#x0001f34c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0223155929038282, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f34d.jpg", 
+            "html_name": "&#x0001f34d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04317460317460317, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f34e.jpg", 
+            "html_name": "&#x0001f34e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0296171802054155, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f34f.jpg", 
+            "html_name": "&#x0001f34f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02287581699346405, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f351.jpg", 
+            "html_name": "&#x0001f351", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023716153127917833, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f352.jpg", 
+            "html_name": "&#x0001f352", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.038618113912231564, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f353.jpg", 
+            "html_name": "&#x0001f353", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03830065359477124, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f354.jpg", 
+            "html_name": "&#x0001f354", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022931839402427635, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f355.jpg", 
+            "html_name": "&#x0001f355", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030289449112978525, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f356.jpg", 
+            "html_name": "&#x0001f356", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02681605975723623, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f357.jpg", 
+            "html_name": "&#x0001f357", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017833800186741362, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f358.jpg", 
+            "html_name": "&#x0001f358", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019178338001867416, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f359.jpg", 
+            "html_name": "&#x0001f359", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02588235294117647, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f35a.jpg", 
+            "html_name": "&#x0001f35a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0349953314659197, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f35b.jpg", 
+            "html_name": "&#x0001f35b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023716153127917833, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f35c.jpg", 
+            "html_name": "&#x0001f35c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03561157796451914, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f35d.jpg", 
+            "html_name": "&#x0001f35d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023828197945845002, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f35e.jpg", 
+            "html_name": "&#x0001f35e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021045751633986927, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f35f.jpg", 
+            "html_name": "&#x0001f35f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025863678804855274, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f360.jpg", 
+            "html_name": "&#x0001f360", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.052343604108309995, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f361.jpg", 
+            "html_name": "&#x0001f361", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03964519140989729, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f362.jpg", 
+            "html_name": "&#x0001f362", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0457516339869281, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f363.jpg", 
+            "html_name": "&#x0001f363", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023473389355742297, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f364.jpg", 
+            "html_name": "&#x0001f364", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.007955182072829131, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f365.jpg", 
+            "html_name": "&#x0001f365", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.026591970121381887, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f366.jpg", 
+            "html_name": "&#x0001f366", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02704014939309057, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f367.jpg", 
+            "html_name": "&#x0001f367", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03839402427637722, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f368.jpg", 
+            "html_name": "&#x0001f368", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01811391223155929, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f369.jpg", 
+            "html_name": "&#x0001f369", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01484593837535014, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f36a.jpg", 
+            "html_name": "&#x0001f36a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03275443510737629, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f36b.jpg", 
+            "html_name": "&#x0001f36b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02446311858076564, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f36c.jpg", 
+            "html_name": "&#x0001f36c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03581699346405229, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f36d.jpg", 
+            "html_name": "&#x0001f36d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03777777777777778, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f36e.jpg", 
+            "html_name": "&#x0001f36e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03361344537815126, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f36f.jpg", 
+            "html_name": "&#x0001f36f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03598506069094304, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f370.jpg", 
+            "html_name": "&#x0001f370", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.07777777777777778, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f371.jpg", 
+            "html_name": "&#x0001f371", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.05185807656395892, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f372.jpg", 
+            "html_name": "&#x0001f372", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.035854341736694675, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f373.jpg", 
+            "html_name": "&#x0001f373", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013930905695611577, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f374.jpg", 
+            "html_name": "&#x0001f374", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03284780578898226, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f375.jpg", 
+            "html_name": "&#x0001f375", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.027936507936507936, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f376.jpg", 
+            "html_name": "&#x0001f376", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02834733893557423, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f377.jpg", 
+            "html_name": "&#x0001f377", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03198879551820728, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f378.jpg", 
+            "html_name": "&#x0001f378", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04984126984126984, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f379.jpg", 
+            "html_name": "&#x0001f379", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025527544351073763, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f37a.jpg", 
+            "html_name": "&#x0001f37a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.033706816059757234, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f37b.jpg", 
+            "html_name": "&#x0001f37b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.011223155929038282, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f380.jpg", 
+            "html_name": "&#x0001f380", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03396825396825397, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f381.jpg", 
+            "html_name": "&#x0001f381", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.039047619047619046, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f382.jpg", 
+            "html_name": "&#x0001f382", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02291316526610644, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f383.jpg", 
+            "html_name": "&#x0001f383", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03355742296918767, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f384.jpg", 
+            "html_name": "&#x0001f384", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03919701213818861, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f385.jpg", 
+            "html_name": "&#x0001f385", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028702147525676937, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f386.jpg", 
+            "html_name": "&#x0001f386", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019645191409897293, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f387.jpg", 
+            "html_name": "&#x0001f387", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.034939309056956115, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f388.jpg", 
+            "html_name": "&#x0001f388", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.037628384687208215, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f389.jpg", 
+            "html_name": "&#x0001f389", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03985060690943044, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f38a.jpg", 
+            "html_name": "&#x0001f38a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03510737628384687, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f38b.jpg", 
+            "html_name": "&#x0001f38b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028328664799253035, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f38c.jpg", 
+            "html_name": "&#x0001f38c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02638655462184874, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f38d.jpg", 
+            "html_name": "&#x0001f38d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.05096171802054155, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f38e.jpg", 
+            "html_name": "&#x0001f38e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.047002801120448176, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f38f.jpg", 
+            "html_name": "&#x0001f38f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.037740429505135384, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f390.jpg", 
+            "html_name": "&#x0001f390", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.024070961718020544, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f391.jpg", 
+            "html_name": "&#x0001f391", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02216619981325864, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f392.jpg", 
+            "html_name": "&#x0001f392", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028888888888888888, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f393.jpg", 
+            "html_name": "&#x0001f393", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04530345471521942, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3a1.jpg", 
+            "html_name": "&#x0001f3a1", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.036657329598506073, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3a2.jpg", 
+            "html_name": "&#x0001f3a2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.044799253034547154, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3a3.jpg", 
+            "html_name": "&#x0001f3a3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.035256769374416436, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3a4.jpg", 
+            "html_name": "&#x0001f3a4", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01688141923436041, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3a5.jpg", 
+            "html_name": "&#x0001f3a5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0169187675070028, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3a7.jpg", 
+            "html_name": "&#x0001f3a7", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.026293183940242763, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3a8.jpg", 
+            "html_name": "&#x0001f3a8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.012567693744164334, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3a9.jpg", 
+            "html_name": "&#x0001f3a9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.026741363211951447, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3aa.jpg", 
+            "html_name": "&#x0001f3aa", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01975723622782446, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3ab.jpg", 
+            "html_name": "&#x0001f3ab", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019477124183006535, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3ac.jpg", 
+            "html_name": "&#x0001f3ac", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.036041083099906626, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3ad.jpg", 
+            "html_name": "&#x0001f3ad", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.034752567693744164, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3ae.jpg", 
+            "html_name": "&#x0001f3ae", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04048552754435108, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3af.jpg", 
+            "html_name": "&#x0001f3af", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030438842203548085, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3b0.jpg", 
+            "html_name": "&#x0001f3b0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.07632119514472456, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3b1.jpg", 
+            "html_name": "&#x0001f3b1", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022446311858076565, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3b2.jpg", 
+            "html_name": "&#x0001f3b2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.034397759103641457, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3b3.jpg", 
+            "html_name": "&#x0001f3b3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01880485527544351, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3b4.jpg", 
+            "html_name": "&#x0001f3b4", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017535014005602242, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3b5.jpg", 
+            "html_name": "&#x0001f3b5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013968253968253968, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3b6.jpg", 
+            "html_name": "&#x0001f3b6", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017180205415499535, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3b8.jpg", 
+            "html_name": "&#x0001f3b8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01738562091503268, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3b9.jpg", 
+            "html_name": "&#x0001f3b9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013856209150326797, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3ba.jpg", 
+            "html_name": "&#x0001f3ba", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016937441643323996, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3bb.jpg", 
+            "html_name": "&#x0001f3bb", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013408029878618114, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3bc.jpg", 
+            "html_name": "&#x0001f3bc", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028067226890756303, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3be.jpg", 
+            "html_name": "&#x0001f3be", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028814192343604106, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3bf.jpg", 
+            "html_name": "&#x0001f3bf", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02711484593837535, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3c0.jpg", 
+            "html_name": "&#x0001f3c0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015312791783380018, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3c1.jpg", 
+            "html_name": "&#x0001f3c1", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028496732026143792, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3c2.jpg", 
+            "html_name": "&#x0001f3c2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0361344537815126, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3c3.jpg", 
+            "html_name": "&#x0001f3c3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0469094304388422, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3c4.jpg", 
+            "html_name": "&#x0001f3c4", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02276377217553688, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3c6.jpg", 
+            "html_name": "&#x0001f3c6", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03200746965452848, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3c8.jpg", 
+            "html_name": "&#x0001f3c8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03828197945845005, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3ca.jpg", 
+            "html_name": "&#x0001f3ca", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018095238095238095, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3e0.jpg", 
+            "html_name": "&#x0001f3e0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03736694677871148, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3e1.jpg", 
+            "html_name": "&#x0001f3e1", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025042016806722692, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3e2.jpg", 
+            "html_name": "&#x0001f3e2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.024444444444444446, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3e3.jpg", 
+            "html_name": "&#x0001f3e3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.027693744164332398, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3e5.jpg", 
+            "html_name": "&#x0001f3e5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016022408963585432, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3e6.jpg", 
+            "html_name": "&#x0001f3e6", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.024201680672268907, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3e7.jpg", 
+            "html_name": "&#x0001f3e7", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02515406162464986, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3e8.jpg", 
+            "html_name": "&#x0001f3e8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03159663865546218, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3e9.jpg", 
+            "html_name": "&#x0001f3e9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03210084033613445, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3ea.jpg", 
+            "html_name": "&#x0001f3ea", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0346218487394958, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3eb.jpg", 
+            "html_name": "&#x0001f3eb", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.05454715219421102, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3ec.jpg", 
+            "html_name": "&#x0001f3ec", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02261437908496732, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3ed.jpg", 
+            "html_name": "&#x0001f3ed", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02565826330532213, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3ee.jpg", 
+            "html_name": "&#x0001f3ee", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03919701213818861, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3ef.jpg", 
+            "html_name": "&#x0001f3ef", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03546218487394958, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f3f0.jpg", 
+            "html_name": "&#x0001f3f0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016732026143790848, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f40c.jpg", 
+            "html_name": "&#x0001f40c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02872082166199813, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f40d.jpg", 
+            "html_name": "&#x0001f40d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.027394957983193278, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f414.jpg", 
+            "html_name": "&#x0001f414", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03510737628384687, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f417.jpg", 
+            "html_name": "&#x0001f417", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022707749766573294, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f418.jpg", 
+            "html_name": "&#x0001f418", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02761904761904762, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f419.jpg", 
+            "html_name": "&#x0001f419", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020653594771241828, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f41a.jpg", 
+            "html_name": "&#x0001f41a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019477124183006535, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f41b.jpg", 
+            "html_name": "&#x0001f41b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013389355742296919, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f41c.jpg", 
+            "html_name": "&#x0001f41c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023286647992530347, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f41d.jpg", 
+            "html_name": "&#x0001f41d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.041120448179271706, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f41e.jpg", 
+            "html_name": "&#x0001f41e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.031185807656395892, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f420.jpg", 
+            "html_name": "&#x0001f420", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0338375350140056, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f421.jpg", 
+            "html_name": "&#x0001f421", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03409897292250233, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f422.jpg", 
+            "html_name": "&#x0001f422", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02591970121381886, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f423.jpg", 
+            "html_name": "&#x0001f423", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02035480859010271, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f424.jpg", 
+            "html_name": "&#x0001f424", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023323996265172738, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f425.jpg", 
+            "html_name": "&#x0001f425", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029019607843137257, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f427.jpg", 
+            "html_name": "&#x0001f427", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025191409897292252, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f428.jpg", 
+            "html_name": "&#x0001f428", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020112044817927173, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f429.jpg", 
+            "html_name": "&#x0001f429", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023753501400560224, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f42b.jpg", 
+            "html_name": "&#x0001f42b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02834733893557423, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f42c.jpg", 
+            "html_name": "&#x0001f42c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023566760037348273, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f42d.jpg", 
+            "html_name": "&#x0001f42d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015947712418300654, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f42e.jpg", 
+            "html_name": "&#x0001f42e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030065359477124184, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f42f.jpg", 
+            "html_name": "&#x0001f42f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02664799253034547, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f430.jpg", 
+            "html_name": "&#x0001f430", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022633053221288515, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f431.jpg", 
+            "html_name": "&#x0001f431", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02726423902894491, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f432.jpg", 
+            "html_name": "&#x0001f432", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.027600373482726422, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f433.jpg", 
+            "html_name": "&#x0001f433", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01703081232492997, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f434.jpg", 
+            "html_name": "&#x0001f434", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03716153127917834, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f435.jpg", 
+            "html_name": "&#x0001f435", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.034080298786181136, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f436.jpg", 
+            "html_name": "&#x0001f436", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01880485527544351, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f437.jpg", 
+            "html_name": "&#x0001f437", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019234360410831, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f438.jpg", 
+            "html_name": "&#x0001f438", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022558356676003734, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f43b.jpg", 
+            "html_name": "&#x0001f43b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.011633986928104575, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f43c.jpg", 
+            "html_name": "&#x0001f43c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01238095238095238, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f43d.jpg", 
+            "html_name": "&#x0001f43d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006909430438842203, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f43e.jpg", 
+            "html_name": "&#x0001f43e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013258636788048552, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f440.jpg", 
+            "html_name": "&#x0001f440", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01680672268907563, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f442.jpg", 
+            "html_name": "&#x0001f442", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009206349206349206, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f443.jpg", 
+            "html_name": "&#x0001f443", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023940242763772174, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f444.jpg", 
+            "html_name": "&#x0001f444", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01626517273576097, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f445.jpg", 
+            "html_name": "&#x0001f445", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020597572362278244, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f446.jpg", 
+            "html_name": "&#x0001f446", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020597572362278244, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f447.jpg", 
+            "html_name": "&#x0001f447", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023958916900093368, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f448.jpg", 
+            "html_name": "&#x0001f448", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023958916900093368, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f449.jpg", 
+            "html_name": "&#x0001f449", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01822595704948646, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f44a.jpg", 
+            "html_name": "&#x0001f44a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02239028944911298, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f44b.jpg", 
+            "html_name": "&#x0001f44b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02664799253034547, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f44c.jpg", 
+            "html_name": "&#x0001f44c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02649859943977591, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f44d.jpg", 
+            "html_name": "&#x0001f44d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029897292250233427, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f44e.jpg", 
+            "html_name": "&#x0001f44e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022296918767507005, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f44f.jpg", 
+            "html_name": "&#x0001f44f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03353874883286648, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f451.jpg", 
+            "html_name": "&#x0001f451", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02302521008403361, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f452.jpg", 
+            "html_name": "&#x0001f452", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02119514472455649, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f453.jpg", 
+            "html_name": "&#x0001f453", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029206349206349208, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f454.jpg", 
+            "html_name": "&#x0001f454", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022128851540616248, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f455.jpg", 
+            "html_name": "&#x0001f455", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01910364145658263, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f456.jpg", 
+            "html_name": "&#x0001f456", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020037348272642388, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f457.jpg", 
+            "html_name": "&#x0001f457", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030065359477124184, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f458.jpg", 
+            "html_name": "&#x0001f458", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0056022408963585435, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f459.jpg", 
+            "html_name": "&#x0001f459", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015462184873949581, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f45a.jpg", 
+            "html_name": "&#x0001f45a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0123062558356676, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f45b.jpg", 
+            "html_name": "&#x0001f45b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01934640522875817, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f45c.jpg", 
+            "html_name": "&#x0001f45c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016283846872082168, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f45e.jpg", 
+            "html_name": "&#x0001f45e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020112044817927173, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f45f.jpg", 
+            "html_name": "&#x0001f45f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01027077497665733, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f460.jpg", 
+            "html_name": "&#x0001f460", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019794584500466852, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f462.jpg", 
+            "html_name": "&#x0001f462", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009486461251167132, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f463.jpg", 
+            "html_name": "&#x0001f463", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03775910364145658, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f468.jpg", 
+            "html_name": "&#x0001f468", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04722689075630252, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f469.jpg", 
+            "html_name": "&#x0001f469", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04317460317460317, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f46a.jpg", 
+            "html_name": "&#x0001f46a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.049691876750700276, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f46e.jpg", 
+            "html_name": "&#x0001f46e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03294117647058824, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f46f.jpg", 
+            "html_name": "&#x0001f46f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04089635854341737, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f470.jpg", 
+            "html_name": "&#x0001f470", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03208216619981326, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f471.jpg", 
+            "html_name": "&#x0001f471", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04201680672268907, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f472.jpg", 
+            "html_name": "&#x0001f472", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01895424836601307, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f473.jpg", 
+            "html_name": "&#x0001f473", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028982259570494866, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f474.jpg", 
+            "html_name": "&#x0001f474", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028104575163398694, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f475.jpg", 
+            "html_name": "&#x0001f475", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03294117647058824, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f476.jpg", 
+            "html_name": "&#x0001f476", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028739495798319328, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f477.jpg", 
+            "html_name": "&#x0001f477", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0526797385620915, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f478.jpg", 
+            "html_name": "&#x0001f478", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018860877684407095, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f479.jpg", 
+            "html_name": "&#x0001f479", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03350140056022409, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f47a.jpg", 
+            "html_name": "&#x0001f47a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02351073762838469, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f47b.jpg", 
+            "html_name": "&#x0001f47b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03833800186741364, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f47c.jpg", 
+            "html_name": "&#x0001f47c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.027208216619981327, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f47d.jpg", 
+            "html_name": "&#x0001f47d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02054154995331466, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f47e.jpg", 
+            "html_name": "&#x0001f47e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020336134453781515, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f47f.jpg", 
+            "html_name": "&#x0001f47f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009187675070028012, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f480.jpg", 
+            "html_name": "&#x0001f480", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04235294117647059, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f483.jpg", 
+            "html_name": "&#x0001f483", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.031316526610644255, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f484.jpg", 
+            "html_name": "&#x0001f484", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04440709617180206, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f485.jpg", 
+            "html_name": "&#x0001f485", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.035256769374416436, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f486.jpg", 
+            "html_name": "&#x0001f486", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04102707749766573, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f487.jpg", 
+            "html_name": "&#x0001f487", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.033221288515406164, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f488.jpg", 
+            "html_name": "&#x0001f488", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025396825396825397, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f489.jpg", 
+            "html_name": "&#x0001f489", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03895424836601307, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f48a.jpg", 
+            "html_name": "&#x0001f48a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017012138188608774, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f48b.jpg", 
+            "html_name": "&#x0001f48b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01484593837535014, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f48c.jpg", 
+            "html_name": "&#x0001f48c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.054117647058823534, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f48d.jpg", 
+            "html_name": "&#x0001f48d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.035070028011204485, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f48f.jpg", 
+            "html_name": "&#x0001f48f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.039999999999999994, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f490.jpg", 
+            "html_name": "&#x0001f490", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04492997198879552, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f491.jpg", 
+            "html_name": "&#x0001f491", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021960784313725487, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f493.jpg", 
+            "html_name": "&#x0001f493", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016937441643323996, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f494.jpg", 
+            "html_name": "&#x0001f494", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0292436974789916, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f495.jpg", 
+            "html_name": "&#x0001f495", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.027675070028011204, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f496.jpg", 
+            "html_name": "&#x0001f496", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0353874883286648, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f498.jpg", 
+            "html_name": "&#x0001f498", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020280112044817927, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f499.jpg", 
+            "html_name": "&#x0001f499", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.024014939309056953, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f49a.jpg", 
+            "html_name": "&#x0001f49a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02773109243697479, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f49b.jpg", 
+            "html_name": "&#x0001f49b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020373482726423902, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f49c.jpg", 
+            "html_name": "&#x0001f49c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03142857142857143, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f49d.jpg", 
+            "html_name": "&#x0001f49d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04177404295051353, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f49e.jpg", 
+            "html_name": "&#x0001f49e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04943043884220354, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4a1.jpg", 
+            "html_name": "&#x0001f4a1", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.012324929971988795, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4a2.jpg", 
+            "html_name": "&#x0001f4a2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04433239962651728, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4a3.jpg", 
+            "html_name": "&#x0001f4a3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015238095238095238, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4a4.jpg", 
+            "html_name": "&#x0001f4a4", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.008814192343604109, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4a5.jpg", 
+            "html_name": "&#x0001f4a5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006797385620915033, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4a6.jpg", 
+            "html_name": "&#x0001f4a6", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02812324929971989, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4a7.jpg", 
+            "html_name": "&#x0001f4a7", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.00995331465919701, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4a8.jpg", 
+            "html_name": "&#x0001f4a8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.005975723622782446, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4a9.jpg", 
+            "html_name": "&#x0001f4a9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022521008403361343, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4aa.jpg", 
+            "html_name": "&#x0001f4aa", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02173669467787115, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4ab.jpg", 
+            "html_name": "&#x0001f4ab", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0196078431372549, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4ac.jpg", 
+            "html_name": "&#x0001f4ac", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0028011204481792717, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4ae.jpg", 
+            "html_name": "&#x0001f4ae", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.002633053221288515, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4af.jpg", 
+            "html_name": "&#x0001f4af", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03658263305322129, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4b0.jpg", 
+            "html_name": "&#x0001f4b0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.011708683473389356, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4b2.jpg", 
+            "html_name": "&#x0001f4b2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.034341736694677875, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4b3.jpg", 
+            "html_name": "&#x0001f4b3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01927170868347339, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4b4.jpg", 
+            "html_name": "&#x0001f4b4", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01910364145658263, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4b5.jpg", 
+            "html_name": "&#x0001f4b5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030289449112978525, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4b8.jpg", 
+            "html_name": "&#x0001f4b8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01568627450980392, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4b9.jpg", 
+            "html_name": "&#x0001f4b9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02943043884220355, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4bb.jpg", 
+            "html_name": "&#x0001f4bb", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018188608776844074, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4bc.jpg", 
+            "html_name": "&#x0001f4bc", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019794584500466852, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4bd.jpg", 
+            "html_name": "&#x0001f4bd", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.012997198879551822, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4be.jpg", 
+            "html_name": "&#x0001f4be", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04438842203548086, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4bf.jpg", 
+            "html_name": "&#x0001f4bf", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.026106442577030813, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4c1.jpg", 
+            "html_name": "&#x0001f4c1", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021830065359477124, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4c2.jpg", 
+            "html_name": "&#x0001f4c2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018132586367880482, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4c3.jpg", 
+            "html_name": "&#x0001f4c3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022857142857142857, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4c4.jpg", 
+            "html_name": "&#x0001f4c4", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.024892623716153126, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4c5.jpg", 
+            "html_name": "&#x0001f4c5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.032380952380952385, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4c6.jpg", 
+            "html_name": "&#x0001f4c6", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02580765639589169, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4c7.jpg", 
+            "html_name": "&#x0001f4c7", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.014416433239962652, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4c8.jpg", 
+            "html_name": "&#x0001f4c8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01822595704948646, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4c9.jpg", 
+            "html_name": "&#x0001f4c9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01990662931839402, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4ca.jpg", 
+            "html_name": "&#x0001f4ca", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01861811391223156, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4cb.jpg", 
+            "html_name": "&#x0001f4cb", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02084033613445378, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4cc.jpg", 
+            "html_name": "&#x0001f4cc", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.031073762838468723, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4cd.jpg", 
+            "html_name": "&#x0001f4cd", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.007021475256769375, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4ce.jpg", 
+            "html_name": "&#x0001f4ce", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013650793650793651, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4cf.jpg", 
+            "html_name": "&#x0001f4cf", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019850606909430437, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4d0.jpg", 
+            "html_name": "&#x0001f4d0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023716153127917833, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4d1.jpg", 
+            "html_name": "&#x0001f4d1", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017852474323062556, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4d2.jpg", 
+            "html_name": "&#x0001f4d2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02364145658263305, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4d3.jpg", 
+            "html_name": "&#x0001f4d3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018188608776844074, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4d4.jpg", 
+            "html_name": "&#x0001f4d4", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01208216619981326, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4d5.jpg", 
+            "html_name": "&#x0001f4d5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02431372549019608, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4d6.jpg", 
+            "html_name": "&#x0001f4d6", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020149393090569564, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4d7.jpg", 
+            "html_name": "&#x0001f4d7", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020410830999066293, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4d8.jpg", 
+            "html_name": "&#x0001f4d8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020410830999066293, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4d9.jpg", 
+            "html_name": "&#x0001f4d9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03495798319327731, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4da.jpg", 
+            "html_name": "&#x0001f4da", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022427637721755368, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4db.jpg", 
+            "html_name": "&#x0001f4db", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013632119514472456, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4dc.jpg", 
+            "html_name": "&#x0001f4dc", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04453781512605042, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4dd.jpg", 
+            "html_name": "&#x0001f4dd", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016732026143790848, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4de.jpg", 
+            "html_name": "&#x0001f4de", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03357609710550887, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4df.jpg", 
+            "html_name": "&#x0001f4df", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018020541549953313, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4e0.jpg", 
+            "html_name": "&#x0001f4e0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04140056022408963, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4e1.jpg", 
+            "html_name": "&#x0001f4e1", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015387488328664798, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4e4.jpg", 
+            "html_name": "&#x0001f4e4", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015424836601307189, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4e5.jpg", 
+            "html_name": "&#x0001f4e5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02545284780578898, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4e6.jpg", 
+            "html_name": "&#x0001f4e6", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.011428571428571429, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4e7.jpg", 
+            "html_name": "&#x0001f4e7", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017217553688141925, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4e8.jpg", 
+            "html_name": "&#x0001f4e8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02020541549953315, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4e9.jpg", 
+            "html_name": "&#x0001f4e9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025994397759103643, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4ea.jpg", 
+            "html_name": "&#x0001f4ea", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030905695611577966, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4eb.jpg", 
+            "html_name": "&#x0001f4eb", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01912231559290383, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4f0.jpg", 
+            "html_name": "&#x0001f4f0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020821661998132585, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4f1.jpg", 
+            "html_name": "&#x0001f4f1", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028104575163398694, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4f2.jpg", 
+            "html_name": "&#x0001f4f2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016937441643323996, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4f3.jpg", 
+            "html_name": "&#x0001f4f3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016788048552754436, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4f4.jpg", 
+            "html_name": "&#x0001f4f4", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0059197012138188605, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4f6.jpg", 
+            "html_name": "&#x0001f4f6", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030065359477124184, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4f7.jpg", 
+            "html_name": "&#x0001f4f7", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029505135387488328, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4f9.jpg", 
+            "html_name": "&#x0001f4f9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.012717086834733894, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4fa.jpg", 
+            "html_name": "&#x0001f4fa", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03411764705882352, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4fb.jpg", 
+            "html_name": "&#x0001f4fb", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01977591036414566, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f4fc.jpg", 
+            "html_name": "&#x0001f4fc", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006125116713352008, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f503.jpg", 
+            "html_name": "&#x0001f503", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019831932773109243, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f50a.jpg", 
+            "html_name": "&#x0001f50a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029355742296918768, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f50b.jpg", 
+            "html_name": "&#x0001f50b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01910364145658263, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f50c.jpg", 
+            "html_name": "&#x0001f50c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030980392156862747, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f50d.jpg", 
+            "html_name": "&#x0001f50d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03275443510737629, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f50e.jpg", 
+            "html_name": "&#x0001f50e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025938375350140055, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f50f.jpg", 
+            "html_name": "&#x0001f50f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02857142857142857, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f510.jpg", 
+            "html_name": "&#x0001f510", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020746965452847804, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f511.jpg", 
+            "html_name": "&#x0001f511", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.037385620915032676, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f512.jpg", 
+            "html_name": "&#x0001f512", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022950513538748833, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f514.jpg", 
+            "html_name": "&#x0001f514", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02112044817927171, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f516.jpg", 
+            "html_name": "&#x0001f516", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.024369747899159664, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f517.jpg", 
+            "html_name": "&#x0001f517", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01266106442577031, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f518.jpg", 
+            "html_name": "&#x0001f518", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016414565826330534, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f519.jpg", 
+            "html_name": "&#x0001f519", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.011858076563958916, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f51e.jpg", 
+            "html_name": "&#x0001f51e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013015873015873017, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f51f.jpg", 
+            "html_name": "&#x0001f51f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013986928104575164, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f520.jpg", 
+            "html_name": "&#x0001f520", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022128851540616248, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f521.jpg", 
+            "html_name": "&#x0001f521", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018599439775910363, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f522.jpg", 
+            "html_name": "&#x0001f522", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01757236227824463, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f523.jpg", 
+            "html_name": "&#x0001f523", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016545284780578897, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f524.jpg", 
+            "html_name": "&#x0001f524", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015144724556489263, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f525.jpg", 
+            "html_name": "&#x0001f525", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02351073762838469, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f526.jpg", 
+            "html_name": "&#x0001f526", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028590102707749768, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f527.jpg", 
+            "html_name": "&#x0001f527", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022296918767507005, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f528.jpg", 
+            "html_name": "&#x0001f528", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02427637721755369, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f529.jpg", 
+            "html_name": "&#x0001f529", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017198879551820728, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f52a.jpg", 
+            "html_name": "&#x0001f52a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009729225023342671, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f52b.jpg", 
+            "html_name": "&#x0001f52b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029281045751633986, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f52e.jpg", 
+            "html_name": "&#x0001f52e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02291316526610644, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f530.jpg", 
+            "html_name": "&#x0001f530", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.020336134453781515, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f534.jpg", 
+            "html_name": "&#x0001f534", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01971988795518207, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f535.jpg", 
+            "html_name": "&#x0001f535", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017217553688141925, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f536.jpg", 
+            "html_name": "&#x0001f536", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017198879551820728, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f537.jpg", 
+            "html_name": "&#x0001f537", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029150326797385624, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f538.jpg", 
+            "html_name": "&#x0001f538", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021624649859943976, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f539.jpg", 
+            "html_name": "&#x0001f539", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016676003734827263, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f53a.jpg", 
+            "html_name": "&#x0001f53a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016862745098039214, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f53b.jpg", 
+            "html_name": "&#x0001f53b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.010569561157796453, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f53c.jpg", 
+            "html_name": "&#x0001f53c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.010588235294117648, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f53d.jpg", 
+            "html_name": "&#x0001f53d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.027563025210084035, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f5fb.jpg", 
+            "html_name": "&#x0001f5fb", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02875816993464052, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f5fc.jpg", 
+            "html_name": "&#x0001f5fc", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013576097105508871, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f5fe.jpg", 
+            "html_name": "&#x0001f5fe", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01604108309990663, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f5ff.jpg", 
+            "html_name": "&#x0001f5ff", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025826330532212883, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f601.jpg", 
+            "html_name": "&#x0001f601", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.032567693744164336, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f602.jpg", 
+            "html_name": "&#x0001f602", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02203548085901027, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f603.jpg", 
+            "html_name": "&#x0001f603", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025938375350140055, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f609.jpg", 
+            "html_name": "&#x0001f609", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02214752567693744, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f60a.jpg", 
+            "html_name": "&#x0001f60a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025788982259570496, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f60c.jpg", 
+            "html_name": "&#x0001f60c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025975723622782446, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f60d.jpg", 
+            "html_name": "&#x0001f60d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022091503267973857, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f60f.jpg", 
+            "html_name": "&#x0001f60f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022240896358543417, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f612.jpg", 
+            "html_name": "&#x0001f612", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03742296918767507, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f613.jpg", 
+            "html_name": "&#x0001f613", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025975723622782446, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f614.jpg", 
+            "html_name": "&#x0001f614", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025938375350140055, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f616.jpg", 
+            "html_name": "&#x0001f616", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.026031746031746034, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f618.jpg", 
+            "html_name": "&#x0001f618", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029953314659197015, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f61a.jpg", 
+            "html_name": "&#x0001f61a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04780578898225957, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f61c.jpg", 
+            "html_name": "&#x0001f61c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025023342670401495, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f620.jpg", 
+            "html_name": "&#x0001f620", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.026031746031746034, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f621.jpg", 
+            "html_name": "&#x0001f621", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04156862745098039, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f622.jpg", 
+            "html_name": "&#x0001f622", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025938375350140055, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f623.jpg", 
+            "html_name": "&#x0001f623", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025863678804855274, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f624.jpg", 
+            "html_name": "&#x0001f624", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04481792717086835, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f628.jpg", 
+            "html_name": "&#x0001f628", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03357609710550887, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f629.jpg", 
+            "html_name": "&#x0001f629", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04354808590102707, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f62a.jpg", 
+            "html_name": "&#x0001f62a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0403921568627451, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f62b.jpg", 
+            "html_name": "&#x0001f62b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0303828197945845, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f62d.jpg", 
+            "html_name": "&#x0001f62d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029897292250233427, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f630.jpg", 
+            "html_name": "&#x0001f630", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029934640522875818, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f631.jpg", 
+            "html_name": "&#x0001f631", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.036414565826330535, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f632.jpg", 
+            "html_name": "&#x0001f632", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028832866479925303, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f633.jpg", 
+            "html_name": "&#x0001f633", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02511671335200747, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f635.jpg", 
+            "html_name": "&#x0001f635", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02853408029878618, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f637.jpg", 
+            "html_name": "&#x0001f637", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03019607843137255, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f638.jpg", 
+            "html_name": "&#x0001f638", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03295985060690943, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f639.jpg", 
+            "html_name": "&#x0001f639", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.026554621848739496, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f63a.jpg", 
+            "html_name": "&#x0001f63a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030102707749766575, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f63b.jpg", 
+            "html_name": "&#x0001f63b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.026554621848739496, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f63c.jpg", 
+            "html_name": "&#x0001f63c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.026554621848739496, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f63d.jpg", 
+            "html_name": "&#x0001f63d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022558356676003734, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f63e.jpg", 
+            "html_name": "&#x0001f63e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03820728291316526, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f63f.jpg", 
+            "html_name": "&#x0001f63f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.026535947712418302, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f640.jpg", 
+            "html_name": "&#x0001f640", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0226890756302521, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f645.jpg", 
+            "html_name": "&#x0001f645", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02679738562091503, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f646.jpg", 
+            "html_name": "&#x0001f646", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.035070028011204485, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f647.jpg", 
+            "html_name": "&#x0001f647", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021456582633053223, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f648.jpg", 
+            "html_name": "&#x0001f648", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03208216619981326, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f649.jpg", 
+            "html_name": "&#x0001f649", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029355742296918768, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f64a.jpg", 
+            "html_name": "&#x0001f64a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0338562091503268, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f64b.jpg", 
+            "html_name": "&#x0001f64b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03727357609710551, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f64c.jpg", 
+            "html_name": "&#x0001f64c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03740429505135388, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f64d.jpg", 
+            "html_name": "&#x0001f64d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.029953314659197015, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f64e.jpg", 
+            "html_name": "&#x0001f64e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018636788048552753, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f64f.jpg", 
+            "html_name": "&#x0001f64f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.044556489262371615, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f680.jpg", 
+            "html_name": "&#x0001f680", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03251167133520075, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f683.jpg", 
+            "html_name": "&#x0001f683", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.033520074696545284, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f685.jpg", 
+            "html_name": "&#x0001f685", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03447245564892624, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f687.jpg", 
+            "html_name": "&#x0001f687", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015966386554621848, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f689.jpg", 
+            "html_name": "&#x0001f689", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0342296918767507, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f68c.jpg", 
+            "html_name": "&#x0001f68c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03146591970121382, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f68f.jpg", 
+            "html_name": "&#x0001f68f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03598506069094304, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f691.jpg", 
+            "html_name": "&#x0001f691", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04623716153127918, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f692.jpg", 
+            "html_name": "&#x0001f692", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0411577964519141, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f693.jpg", 
+            "html_name": "&#x0001f693", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04181139122315593, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f697.jpg", 
+            "html_name": "&#x0001f697", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028702147525676937, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f69a.jpg", 
+            "html_name": "&#x0001f69a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03398692810457516, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6a2.jpg", 
+            "html_name": "&#x0001f6a2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.07957049486461251, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6a5.jpg", 
+            "html_name": "&#x0001f6a5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009019607843137253, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6a7.jpg", 
+            "html_name": "&#x0001f6a7", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.034752567693744164, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6a8.jpg", 
+            "html_name": "&#x0001f6a8", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021512605042016807, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6a9.jpg", 
+            "html_name": "&#x0001f6a9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018674136321195144, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6ab.jpg", 
+            "html_name": "&#x0001f6ab", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02791783380018674, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6ac.jpg", 
+            "html_name": "&#x0001f6ac", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025060690943043886, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6ad.jpg", 
+            "html_name": "&#x0001f6ad", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017254901960784316, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6b2.jpg", 
+            "html_name": "&#x0001f6b2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.028067226890756303, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6b6.jpg", 
+            "html_name": "&#x0001f6b6", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.033408029878618115, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6bb.jpg", 
+            "html_name": "&#x0001f6bb", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02842203548085901, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/1f6c0.jpg", 
+            "html_name": "&#x0001f6c0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017329598506069094, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/203c.jpg", 
+            "html_name": "&#x000203c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01684407096171802, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2049.jpg", 
+            "html_name": "&#x0002049", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0056022408963585435, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2122.jpg", 
+            "html_name": "&#x0002122", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017628384687208218, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2139.jpg", 
+            "html_name": "&#x0002139", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.010438842203548085, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2194.jpg", 
+            "html_name": "&#x0002194", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.010438842203548085, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2195.jpg", 
+            "html_name": "&#x0002195", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013295985060690943, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2196.jpg", 
+            "html_name": "&#x0002196", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017049486461251165, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2197.jpg", 
+            "html_name": "&#x0002197", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013632119514472456, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2198.jpg", 
+            "html_name": "&#x0002198", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013352007469654528, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2199.jpg", 
+            "html_name": "&#x0002199", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006013071895424837, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/21a9.jpg", 
+            "html_name": "&#x00021a9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006013071895424837, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/21aa.jpg", 
+            "html_name": "&#x00021aa", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019365079365079366, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/231a.jpg", 
+            "html_name": "&#x000231a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03540616246498599, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/231b.jpg", 
+            "html_name": "&#x000231b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009747899159663866, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/23e9.jpg", 
+            "html_name": "&#x00023e9", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009785247432306255, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/23ea.jpg", 
+            "html_name": "&#x00023ea", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009374416433239963, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/23eb.jpg", 
+            "html_name": "&#x00023eb", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009411764705882352, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/23ec.jpg", 
+            "html_name": "&#x00023ec", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.023473389355742297, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/23f0.jpg", 
+            "html_name": "&#x00023f0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03753501400560224, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/23f3.jpg", 
+            "html_name": "&#x00023f3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018132586367880482, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/25aa.jpg", 
+            "html_name": "&#x00025aa", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018132586367880482, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/25ab.jpg", 
+            "html_name": "&#x00025ab", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.010756302521008404, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/25b6.jpg", 
+            "html_name": "&#x00025b6", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.010774976657329599, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/25c0.jpg", 
+            "html_name": "&#x00025c0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015742296918767506, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/25fb.jpg", 
+            "html_name": "&#x00025fb", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015742296918767506, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/25fc.jpg", 
+            "html_name": "&#x00025fc", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01716153127917834, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/25fd.jpg", 
+            "html_name": "&#x00025fd", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01716153127917834, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/25fe.jpg", 
+            "html_name": "&#x00025fe", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02483660130718954, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2600.jpg", 
+            "html_name": "&#x0002600", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016115779645191407, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2601.jpg", 
+            "html_name": "&#x0002601", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021718020541549952, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/260e.jpg", 
+            "html_name": "&#x000260e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.010756302521008404, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2611.jpg", 
+            "html_name": "&#x0002611", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02091503267973856, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2614.jpg", 
+            "html_name": "&#x0002614", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021979458450046684, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2615.jpg", 
+            "html_name": "&#x0002615", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019701213818860877, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/261d.jpg", 
+            "html_name": "&#x000261d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02311858076563959, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/263a.jpg", 
+            "html_name": "&#x000263a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04364145658263305, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2648.jpg", 
+            "html_name": "&#x0002648", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03441643323996266, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2649.jpg", 
+            "html_name": "&#x0002649", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03282913165266107, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/264a.jpg", 
+            "html_name": "&#x000264a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.0234547152194211, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/264b.jpg", 
+            "html_name": "&#x000264b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01942110177404295, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/264c.jpg", 
+            "html_name": "&#x000264c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.044500466853408034, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/264d.jpg", 
+            "html_name": "&#x000264d", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03404295051353875, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/264e.jpg", 
+            "html_name": "&#x000264e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013520074696545285, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/264f.jpg", 
+            "html_name": "&#x000264f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02304388422035481, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2650.jpg", 
+            "html_name": "&#x0002650", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.022222222222222223, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2651.jpg", 
+            "html_name": "&#x0002651", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.033464052287581696, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2652.jpg", 
+            "html_name": "&#x0002652", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.047357609710550884, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2653.jpg", 
+            "html_name": "&#x0002653", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016078431372549017, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2660.jpg", 
+            "html_name": "&#x0002660", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019869281045751634, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2663.jpg", 
+            "html_name": "&#x0002663", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02679738562091503, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2665.jpg", 
+            "html_name": "&#x0002665", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02788048552754435, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2666.jpg", 
+            "html_name": "&#x0002666", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01647058823529412, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2668.jpg", 
+            "html_name": "&#x0002668", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013221288515406163, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/267b.jpg", 
+            "html_name": "&#x000267b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.010289449112978525, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/267f.jpg", 
+            "html_name": "&#x000267f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013949579831932773, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2693.jpg", 
+            "html_name": "&#x0002693", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030662931839402427, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26a0.jpg", 
+            "html_name": "&#x00026a0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.012829131652661065, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26a1.jpg", 
+            "html_name": "&#x00026a1", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021288515406162466, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26aa.jpg", 
+            "html_name": "&#x00026aa", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021288515406162466, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26ab.jpg", 
+            "html_name": "&#x00026ab", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018356676003734827, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26bd.jpg", 
+            "html_name": "&#x00026bd", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.018636788048552753, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26be.jpg", 
+            "html_name": "&#x00026be", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030513538748832867, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26c4.jpg", 
+            "html_name": "&#x00026c4", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02631185807656396, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26c5.jpg", 
+            "html_name": "&#x00026c5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.030177404295051356, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26ce.jpg", 
+            "html_name": "&#x00026ce", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021101774042950515, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26d4.jpg", 
+            "html_name": "&#x00026d4", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03140989729225023, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26ea.jpg", 
+            "html_name": "&#x00026ea", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02890756302521008, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26f2.jpg", 
+            "html_name": "&#x00026f2", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.027357609710550887, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26f3.jpg", 
+            "html_name": "&#x00026f3", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03843137254901961, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26f5.jpg", 
+            "html_name": "&#x00026f5", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.04244631185807657, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26fa.jpg", 
+            "html_name": "&#x00026fa", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017740429505135387, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/26fd.jpg", 
+            "html_name": "&#x00026fd", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.010737628384687208, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2702.jpg", 
+            "html_name": "&#x0002702", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01469654528478058, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2705.jpg", 
+            "html_name": "&#x0002705", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02812324929971989, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2708.jpg", 
+            "html_name": "&#x0002708", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015182072829131654, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2709.jpg", 
+            "html_name": "&#x0002709", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.021176470588235297, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/270a.jpg", 
+            "html_name": "&#x000270a", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.019028944911297852, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/270b.jpg", 
+            "html_name": "&#x000270b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02366013071895425, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/270c.jpg", 
+            "html_name": "&#x000270c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.03338935574229692, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/270f.jpg", 
+            "html_name": "&#x000270f", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02646125116713352, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2712.jpg", 
+            "html_name": "&#x0002712", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006872082166199813, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2714.jpg", 
+            "html_name": "&#x0002714", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006349206349206349, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2716.jpg", 
+            "html_name": "&#x0002716", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02173669467787115, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2728.jpg", 
+            "html_name": "&#x0002728", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.003305322128851541, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2733.jpg", 
+            "html_name": "&#x0002733", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.014341736694677872, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2734.jpg", 
+            "html_name": "&#x0002734", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006386554621848739, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2744.jpg", 
+            "html_name": "&#x0002744", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.01899159663865546, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2747.jpg", 
+            "html_name": "&#x0002747", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.005901027077497666, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/274c.jpg", 
+            "html_name": "&#x000274c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.007208216619981326, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/274e.jpg", 
+            "html_name": "&#x000274e", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.017404295051353876, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2753.jpg", 
+            "html_name": "&#x0002753", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.025583566760037348, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2757.jpg", 
+            "html_name": "&#x0002757", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016862745098039214, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2764.jpg", 
+            "html_name": "&#x0002764", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013874883286647993, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2795.jpg", 
+            "html_name": "&#x0002795", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006834733893557423, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2796.jpg", 
+            "html_name": "&#x0002796", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.006647992530345472, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2797.jpg", 
+            "html_name": "&#x0002797", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.016900093370681605, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/27a1.jpg", 
+            "html_name": "&#x00027a1", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.003361344537815126, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/27b0.jpg", 
+            "html_name": "&#x00027b0", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013706816059757236, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2934.jpg", 
+            "html_name": "&#x0002934", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.013818860877684407, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2935.jpg", 
+            "html_name": "&#x0002935", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02061624649859944, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2b05.jpg", 
+            "html_name": "&#x0002b05", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02087768440709617, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2b06.jpg", 
+            "html_name": "&#x0002b06", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.02095238095238095, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2b07.jpg", 
+            "html_name": "&#x0002b07", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.014435107376283847, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2b1b.jpg", 
+            "html_name": "&#x0002b1b", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.014435107376283847, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2b1c.jpg", 
+            "html_name": "&#x0002b1c", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009934640522875817, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2b50.jpg", 
+            "html_name": "&#x0002b50", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.009225023342670401, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/2b55.jpg", 
+            "html_name": "&#x0002b55", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.004295051353874884, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/3297.jpg", 
+            "html_name": "&#x0003297", 
+            "size": [
+                15, 
+                14
+            ]
+        }, 
+        {
+            "channel_values": 0.015219421101774043, 
+            "number_of_combined_emojis": 1, 
+            "file_path": "Images/KDDI/3299.jpg", 
+            "html_name": "&#x0003299", 
+            "size": [
+                15, 
+                14
+            ]
+        }
+    ]
+}
