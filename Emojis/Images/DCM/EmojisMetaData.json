@@ -1,2440 +1,5025 @@
 {
     "emojis": [
         {
-            "channel_values": 0.0027233115468409583, 
             "number_of_combined_emojis": 3, 
-            "file_path": "Images/DCM/0023_fe0f_20e3.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0000023&#x000fe0f&#x00020e3", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "keycap"
+            ], 
+            "actual_name": "keycap: #", 
+            "file_path": "Images/DCM/0023_fe0f_20e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002505446623093682, 
             "number_of_combined_emojis": 3, 
-            "file_path": "Images/DCM/0030_fe0f_20e3.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0000030&#x000fe0f&#x00020e3", 
+            "channel_values": [
+                0.5822984749455338, 
+                0.5822984749455338, 
+                0.5822984749455338
+            ], 
+            "key_words": [
+                "keycap"
+            ], 
+            "actual_name": "keycap: 0", 
+            "file_path": "Images/DCM/0030_fe0f_20e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002696078431372549, 
             "number_of_combined_emojis": 3, 
-            "file_path": "Images/DCM/0031_fe0f_20e3.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0000031&#x000fe0f&#x00020e3", 
+            "channel_values": [
+                0.6304193899782136, 
+                0.6304193899782136, 
+                0.6304193899782136
+            ], 
+            "key_words": [
+                "keycap"
+            ], 
+            "actual_name": "keycap: 1", 
+            "file_path": "Images/DCM/0031_fe0f_20e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0025326797385620916, 
             "number_of_combined_emojis": 3, 
-            "file_path": "Images/DCM/0032_fe0f_20e3.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0000032&#x000fe0f&#x00020e3", 
+            "channel_values": [
+                0.5889705882352941, 
+                0.5889705882352941, 
+                0.5889705882352941
+            ], 
+            "key_words": [
+                "keycap"
+            ], 
+            "actual_name": "keycap: 2", 
+            "file_path": "Images/DCM/0032_fe0f_20e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0024509803921568627, 
             "number_of_combined_emojis": 3, 
-            "file_path": "Images/DCM/0033_fe0f_20e3.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0000033&#x000fe0f&#x00020e3", 
+            "channel_values": [
+                0.5684095860566449, 
+                0.5684095860566449, 
+                0.5684095860566449
+            ], 
+            "key_words": [
+                "keycap"
+            ], 
+            "actual_name": "keycap: 3", 
+            "file_path": "Images/DCM/0033_fe0f_20e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002478213507625272, 
             "number_of_combined_emojis": 3, 
-            "file_path": "Images/DCM/0034_fe0f_20e3.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0000034&#x000fe0f&#x00020e3", 
+            "channel_values": [
+                0.5750816993464053, 
+                0.5750816993464053, 
+                0.5750816993464053
+            ], 
+            "key_words": [
+                "keycap"
+            ], 
+            "actual_name": "keycap: 4", 
+            "file_path": "Images/DCM/0034_fe0f_20e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002559912854030501, 
             "number_of_combined_emojis": 3, 
-            "file_path": "Images/DCM/0035_fe0f_20e3.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0000035&#x000fe0f&#x00020e3", 
+            "channel_values": [
+                0.5958333333333333, 
+                0.5958333333333333, 
+                0.5958333333333333
+            ], 
+            "key_words": [
+                "keycap"
+            ], 
+            "actual_name": "keycap: 5", 
+            "file_path": "Images/DCM/0035_fe0f_20e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0025326797385620916, 
             "number_of_combined_emojis": 3, 
-            "file_path": "Images/DCM/0036_fe0f_20e3.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0000036&#x000fe0f&#x00020e3", 
+            "channel_values": [
+                0.589161220043573, 
+                0.589161220043573, 
+                0.589161220043573
+            ], 
+            "key_words": [
+                "keycap"
+            ], 
+            "actual_name": "keycap: 6", 
+            "file_path": "Images/DCM/0036_fe0f_20e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00264161220043573, 
             "number_of_combined_emojis": 3, 
-            "file_path": "Images/DCM/0037_fe0f_20e3.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0000037&#x000fe0f&#x00020e3", 
+            "channel_values": [
+                0.6167211328976034, 
+                0.6167211328976034, 
+                0.6167211328976034
+            ], 
+            "key_words": [
+                "keycap"
+            ], 
+            "actual_name": "keycap: 7", 
+            "file_path": "Images/DCM/0037_fe0f_20e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0024509803921568627, 
             "number_of_combined_emojis": 3, 
-            "file_path": "Images/DCM/0038_fe0f_20e3.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0000038&#x000fe0f&#x00020e3", 
+            "channel_values": [
+                0.56849128540305, 
+                0.56849128540305, 
+                0.56849128540305
+            ], 
+            "key_words": [
+                "keycap"
+            ], 
+            "actual_name": "keycap: 8", 
+            "file_path": "Images/DCM/0038_fe0f_20e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0025326797385620916, 
             "number_of_combined_emojis": 3, 
-            "file_path": "Images/DCM/0039_fe0f_20e3.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0000039&#x000fe0f&#x00020e3", 
+            "channel_values": [
+                0.5891067538126362, 
+                0.5891067538126362, 
+                0.5891067538126362
+            ], 
+            "key_words": [
+                "keycap"
+            ], 
+            "actual_name": "keycap: 9", 
+            "file_path": "Images/DCM/0039_fe0f_20e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029956427015250544, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/00a9.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x00000a9", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "copyright"
+            ], 
+            "actual_name": "copyright", 
+            "file_path": "Images/DCM/00a9.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029956427015250544, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/00ae.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x00000ae", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "registered"
+            ], 
+            "actual_name": "registered", 
+            "file_path": "Images/DCM/00ae.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002559912854030501, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f17f.jpg", 
+            "year_introduced": "2009", 
             "html_name": "&#x0001f17f", 
+            "channel_values": [
+                0.011410675381263616, 
+                0.010212418300653595, 
+                0.3515522875816993
+            ], 
+            "key_words": [
+                "parking"
+            ], 
+            "actual_name": "P button", 
+            "file_path": "Images/DCM/1f17f.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0025871459694989107, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f191.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f191", 
+            "channel_values": [
+                0.34074074074074073, 
+                0.008006535947712418, 
+                0.011383442265795206
+            ], 
+            "key_words": [
+                "cl"
+            ], 
+            "actual_name": "CL button", 
+            "file_path": "Images/DCM/1f191.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0024237472766884534, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f193.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f193", 
+            "channel_values": [
+                0.3826797385620915, 
+                0.007815904139433552, 
+                0.01326252723311547
+            ], 
+            "key_words": [
+                "free"
+            ], 
+            "actual_name": "FREE button", 
+            "file_path": "Images/DCM/1f193.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0024509803921568627, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f194.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f194", 
+            "channel_values": [
+                0.37687908496732025, 
+                0.008360566448801744, 
+                0.015005446623093681
+            ], 
+            "key_words": [
+                "id", 
+                "identity"
+            ], 
+            "actual_name": "ID button", 
+            "file_path": "Images/DCM/1f194.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.001906318082788671, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f195.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f195", 
+            "channel_values": [
+                0.5117374727668845, 
+                0.008306100217864923, 
+                0.013289760348583878
+            ], 
+            "key_words": [
+                "new"
+            ], 
+            "actual_name": "NEW button", 
+            "file_path": "Images/DCM/1f195.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002233115468409586, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f196.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f196", 
+            "channel_values": [
+                0.43186274509803924, 
+                0.007543572984749456, 
+                0.015904139433551196
+            ], 
+            "key_words": [
+                "ng"
+            ], 
+            "actual_name": "NG button", 
+            "file_path": "Images/DCM/1f196.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0024509803921568627, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f197.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f197", 
+            "channel_values": [
+                0.3767429193899782, 
+                0.00857843137254902, 
+                0.011900871459694989
+            ], 
+            "key_words": [
+                "OK"
+            ], 
+            "actual_name": "OK button", 
+            "file_path": "Images/DCM/1f197.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00196078431372549, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f232.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f232", 
+            "channel_values": [
+                0.4983115468409586, 
+                0.007788671023965142, 
+                0.013807189542483661
+            ], 
+            "key_words": [
+                "prohibited", 
+                "ideograph", 
+                "Japanese", 
+                ""
+            ], 
+            "actual_name": "Japanese \u201cprohibited\u201d button", 
+            "file_path": "Images/DCM/1f232.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.001906318082788671, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f233.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f233", 
+            "channel_values": [
+                0.010811546840958607, 
+                0.008959694989106754, 
+                0.5108932461873638
+            ], 
+            "key_words": [
+                "vacancy", 
+                "ideograph", 
+                "Japanese", 
+                ""
+            ], 
+            "actual_name": "Japanese \u201cvacancy\u201d button", 
+            "file_path": "Images/DCM/1f233.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0020697167755991284, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f234.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f234", 
+            "channel_values": [
+                0.47219498910675384, 
+                0.00857843137254902, 
+                0.014324618736383441
+            ], 
+            "key_words": [
+                "passing grade", 
+                "ideograph", 
+                "Japanese", 
+                ""
+            ], 
+            "actual_name": "Japanese \u201cpassing grade\u201d button", 
+            "file_path": "Images/DCM/1f234.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0018790849673202615, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f235.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f235", 
+            "channel_values": [
+                0.5192538126361657, 
+                0.008687363834422658, 
+                0.013643790849673203
+            ], 
+            "key_words": [
+                "no vacancy", 
+                "ideograph", 
+                "Japanese", 
+                ""
+            ], 
+            "actual_name": "Japanese \u201cno vacancy\u201d button", 
+            "file_path": "Images/DCM/1f235.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002696078431372549, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f300.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f300", 
+            "channel_values": [
+                0.3159858387799564, 
+                0.007107843137254902, 
+                0.014733115468409587
+            ], 
+            "key_words": [
+                "dizzy", 
+                "twister", 
+                "typhoon"
+            ], 
+            "actual_name": "cyclone", 
+            "file_path": "Images/DCM/1f300.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003213507625272331, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f301.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f301", 
+            "channel_values": [
+                0.009340958605664489, 
+                0.008823529411764706, 
+                0.18867102396514163
+            ], 
+            "key_words": [
+                "fog"
+            ], 
+            "actual_name": "foggy", 
+            "file_path": "Images/DCM/1f301.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003213507625272331, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f302.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f302", 
+            "channel_values": [
+                0.006672113289760348, 
+                0.005337690631808279, 
+                0.1832244008714597
+            ], 
+            "key_words": [
+                "clothing", 
+                "rain", 
+                "umbrella"
+            ], 
+            "actual_name": "closed umbrella", 
+            "file_path": "Images/DCM/1f302.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0031862745098039215, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f303.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f303", 
+            "channel_values": [
+                0.21802832244008713, 
+                0.21802832244008713, 
+                0.21802832244008713
+            ], 
+            "key_words": [
+                "night", 
+                "star"
+            ], 
+            "actual_name": "night with stars", 
+            "file_path": "Images/DCM/1f303.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.001715686274509804, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f30a.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f30a", 
+            "channel_values": [
+                0.011928104575163398, 
+                0.008169934640522876, 
+                0.5603213507625273
+            ], 
+            "key_words": [
+                "ocean", 
+                "water", 
+                "wave"
+            ], 
+            "actual_name": "water wave", 
+            "file_path": "Images/DCM/1f30a.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0008714596949891067, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f311.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f311", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "dark", 
+                "moon"
+            ], 
+            "actual_name": "new moon", 
+            "file_path": "Images/DCM/1f311.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003594771241830065, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f313.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f313", 
+            "channel_values": [
+                0.3076525054466231, 
+                0.3076525054466231, 
+                0.3076525054466231
+            ], 
+            "key_words": [
+                "moon", 
+                "quarter"
+            ], 
+            "actual_name": "first quarter moon", 
+            "file_path": "Images/DCM/1f313.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0034041394335511985, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f314.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f314", 
+            "channel_values": [
+                0.4249455337690632, 
+                0.4249455337690632, 
+                0.4249455337690632
+            ], 
+            "key_words": [
+                "gibbous", 
+                "moon", 
+                "waxing"
+            ], 
+            "actual_name": "waxing gibbous moon", 
+            "file_path": "Images/DCM/1f314.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00392156862745098, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f315.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f315", 
+            "channel_values": [
+                0.5555283224400872, 
+                0.5555283224400872, 
+                0.5555283224400872
+            ], 
+            "key_words": [
+                "full", 
+                "moon"
+            ], 
+            "actual_name": "full moon", 
+            "file_path": "Images/DCM/1f315.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00394880174291939, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f319.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f319", 
+            "channel_values": [
+                0.2181100217864924, 
+                0.2181100217864924, 
+                0.2181100217864924
+            ], 
+            "key_words": [
+                "crescent", 
+                "moon"
+            ], 
+            "actual_name": "crescent moon", 
+            "file_path": "Images/DCM/1f319.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0030501089324618735, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f331.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f331", 
+            "channel_values": [
+                0.009422657952069716, 
+                0.13897058823529412, 
+                0.011683006535947713
+            ], 
+            "key_words": [
+                "young"
+            ], 
+            "actual_name": "seedling", 
+            "file_path": "Images/DCM/1f331.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0020152505446623093, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f337.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f337", 
+            "channel_values": [
+                0.4859204793028323, 
+                0.008741830065359477, 
+                0.012254901960784314
+            ], 
+            "key_words": [
+                "flower"
+            ], 
+            "actual_name": "tulip", 
+            "file_path": "Images/DCM/1f337.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0026688453159041396, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f338.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f338", 
+            "channel_values": [
+                0.2651143790849673, 
+                0.13434095860566447, 
+                0.32562636165577347
+            ], 
+            "key_words": [
+                "blossom", 
+                "cherry", 
+                "flower"
+            ], 
+            "actual_name": "cherry blossom", 
+            "file_path": "Images/DCM/1f338.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0022603485838779956, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f340.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f340", 
+            "channel_values": [
+                0.013425925925925926, 
+                0.259041394335512, 
+                0.015631808278867104
+            ], 
+            "key_words": [
+                "4", 
+                "clover", 
+                "four", 
+                "leaf"
+            ], 
+            "actual_name": "four leaf clover", 
+            "file_path": "Images/DCM/1f340.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002750544662309368, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f341.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f341", 
+            "channel_values": [
+                0.30130718954248364, 
+                0.007026143790849673, 
+                0.012391067538126362
+            ], 
+            "key_words": [
+                "falling", 
+                "leaf", 
+                "maple"
+            ], 
+            "actual_name": "maple leaf", 
+            "file_path": "Images/DCM/1f341.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0025871459694989107, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f34c.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f34c", 
+            "channel_values": [
+                0.3449618736383442, 
+                0.2107298474945534, 
+                0.013071895424836602
+            ], 
+            "key_words": [
+                "fruit"
+            ], 
+            "actual_name": "banana", 
+            "file_path": "Images/DCM/1f34c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0018246187363834424, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f34e.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f34e", 
+            "channel_values": [
+                0.5319172113289761, 
+                0.008306100217864923, 
+                0.012717864923747275
+            ], 
+            "key_words": [
+                "apple", 
+                "fruit", 
+                "red"
+            ], 
+            "actual_name": "red apple", 
+            "file_path": "Images/DCM/1f34e.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002505446623093682, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f352.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f352", 
+            "channel_values": [
+                0.3641884531590414, 
+                0.007979302832244009, 
+                0.01514161220043573
+            ], 
+            "key_words": [
+                "cherry", 
+                "fruit"
+            ], 
+            "actual_name": "cherries", 
+            "file_path": "Images/DCM/1f352.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0017973856209150326, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f354.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f354", 
+            "channel_values": [
+                0.5402777777777779, 
+                0.3283769063180828, 
+                0.011356209150326799
+            ], 
+            "key_words": [
+                "burger"
+            ], 
+            "actual_name": "hamburger", 
+            "file_path": "Images/DCM/1f354.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0023965141612200436, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f359.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f359", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "ball", 
+                "Japanese", 
+                "rice"
+            ], 
+            "actual_name": "rice ball", 
+            "file_path": "Images/DCM/1f359.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002777777777777778, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f35c.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f35c", 
+            "channel_values": [
+                0.29787581699346405, 
+                0.1820533769063181, 
+                0.014842047930283224
+            ], 
+            "key_words": [
+                "bowl", 
+                "noodle", 
+                "ramen", 
+                "steaming"
+            ], 
+            "actual_name": "steaming bowl", 
+            "file_path": "Images/DCM/1f35c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0022058823529411764, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f35e.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f35e", 
+            "channel_values": [
+                0.3832788671023965, 
+                0.1917755991285403, 
+                0.15405773420479302
+            ], 
+            "key_words": [
+                "loaf"
+            ], 
+            "actual_name": "bread", 
+            "file_path": "Images/DCM/1f35e.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002096949891067538, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f370.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f370", 
+            "channel_values": [
+                0.46492374727668845, 
+                0.008932461873638343, 
+                0.01258169934640523
+            ], 
+            "key_words": [
+                "cake", 
+                "dessert", 
+                "pastry", 
+                "slice", 
+                "sweet"
+            ], 
+            "actual_name": "shortcake", 
+            "file_path": "Images/DCM/1f370.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.005964052287581699, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f374.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f374", 
+            "channel_values": [
+                0.04891067538126361, 
+                0.04891067538126361, 
+                0.04891067538126361
+            ], 
+            "key_words": [
+                "cooking", 
+                "fork", 
+                "knife"
+            ], 
+            "actual_name": "fork and knife", 
+            "file_path": "Images/DCM/1f374.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003022875816993464, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f375.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f375", 
+            "channel_values": [
+                0.01241830065359477, 
+                0.14428104575163397, 
+                0.01315359477124183
+            ], 
+            "key_words": [
+                "beverage", 
+                "cup", 
+                "drink", 
+                "tea", 
+                "teacup"
+            ], 
+            "actual_name": "teacup without handle", 
+            "file_path": "Images/DCM/1f375.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029956427015250544, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f376.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f376", 
+            "channel_values": [
+                0.20849673202614377, 
+                0.10580065359477124, 
+                0.08551198257080611
+            ], 
+            "key_words": [
+                "bar", 
+                "beverage", 
+                "bottle", 
+                "cup", 
+                "drink"
+            ], 
+            "actual_name": "sake", 
+            "file_path": "Images/DCM/1f376.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0024237472766884534, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f377.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f377", 
+            "channel_values": [
+                0.20111655773420478, 
+                0.007434640522875817, 
+                0.20147058823529412
+            ], 
+            "key_words": [
+                "bar", 
+                "beverage", 
+                "drink", 
+                "glass", 
+                "wine"
+            ], 
+            "actual_name": "wine glass", 
+            "file_path": "Images/DCM/1f377.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0064542483660130715, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f378.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f378", 
+            "channel_values": [
+                0.27314814814814814, 
+                0.1514161220043573, 
+                0.32911220043572986
+            ], 
+            "key_words": [
+                "bar", 
+                "cocktail", 
+                "drink", 
+                "glass"
+            ], 
+            "actual_name": "cocktail glass", 
+            "file_path": "Images/DCM/1f378.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.004847494553376907, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f37a.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f37a", 
+            "channel_values": [
+                0.6100217864923747, 
+                0.4308823529411765, 
+                0.1631263616557734
+            ], 
+            "key_words": [
+                "bar", 
+                "beer", 
+                "drink", 
+                "mug"
+            ], 
+            "actual_name": "beer mug", 
+            "file_path": "Images/DCM/1f37a.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0027233115468409583, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f380.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f380", 
+            "channel_values": [
+                0.3084150326797385, 
+                0.008959694989106754, 
+                0.015550108932461873
+            ], 
+            "key_words": [
+                "celebration"
+            ], 
+            "actual_name": "ribbon", 
+            "file_path": "Images/DCM/1f380.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0017973856209150326, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f381.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f381", 
+            "channel_values": [
+                0.5395697167755991, 
+                0.008251633986928105, 
+                0.013180827886710239
+            ], 
+            "key_words": [
+                "box", 
+                "celebration", 
+                "gift", 
+                "present", 
+                "wrapped"
+            ], 
+            "actual_name": "wrapped gift", 
+            "file_path": "Images/DCM/1f381.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002696078431372549, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f382.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f382", 
+            "channel_values": [
+                0.31655773420479305, 
+                0.007325708061002178, 
+                0.01181917211328976
+            ], 
+            "key_words": [
+                "birthday", 
+                "cake", 
+                "celebration", 
+                "dessert", 
+                "pastry", 
+                "sweet"
+            ], 
+            "actual_name": "birthday cake", 
+            "file_path": "Images/DCM/1f382.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0027233115468409583, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f384.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f384", 
+            "channel_values": [
+                0.009831154684095861, 
+                0.18850762527233114, 
+                0.011410675381263616
+            ], 
+            "key_words": [
+                "celebration", 
+                "Christmas", 
+                "tree"
+            ], 
+            "actual_name": "Christmas tree", 
+            "file_path": "Images/DCM/1f384.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029411764705882353, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3a0.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3a0", 
+            "channel_values": [
+                0.2558551198257081, 
+                0.15656318082788673, 
+                0.014079520697167756
+            ], 
+            "key_words": [
+                "carousel", 
+                "horse"
+            ], 
+            "actual_name": "carousel horse", 
+            "file_path": "Images/DCM/1f3a0.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0065904139433551195, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3a4.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3a4", 
+            "channel_values": [
+                0.05024509803921569, 
+                0.05024509803921569, 
+                0.05024509803921569
+            ], 
+            "key_words": [
+                "karaoke", 
+                "mic"
+            ], 
+            "actual_name": "microphone", 
+            "file_path": "Images/DCM/1f3a4.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00394880174291939, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3a5.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3a5", 
+            "channel_values": [
+                0.27322984749455337, 
+                0.27322984749455337, 
+                0.27322984749455337
+            ], 
+            "key_words": [
+                "camera", 
+                "cinema", 
+                "movie"
+            ], 
+            "actual_name": "movie camera", 
+            "file_path": "Images/DCM/1f3a5.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002777777777777778, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3a7.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3a7", 
+            "channel_values": [
+                0.0105119825708061, 
+                0.009477124183006535, 
+                0.29534313725490197
+            ], 
+            "key_words": [
+                "earbud"
+            ], 
+            "actual_name": "headphone", 
+            "file_path": "Images/DCM/1f3a7.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00196078431372549, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3a8.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3a8", 
+            "channel_values": [
+                0.4069989106753813, 
+                0.20460239651416123, 
+                0.5021514161220044
+            ], 
+            "key_words": [
+                "art", 
+                "museum", 
+                "painting", 
+                "palette"
+            ], 
+            "actual_name": "artist palette", 
+            "file_path": "Images/DCM/1f3a8.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.005010893246187364, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3a9.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3a9", 
+            "channel_values": [
+                0.05008169934640523, 
+                0.05008169934640523, 
+                0.05008169934640523
+            ], 
+            "key_words": [
+                "clothing", 
+                "hat", 
+                "top", 
+                "tophat"
+            ], 
+            "actual_name": "top hat", 
+            "file_path": "Images/DCM/1f3a9.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0020697167755991284, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3aa.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3aa", 
+            "channel_values": [
+                0.4717320261437909, 
+                0.008850762527233116, 
+                0.012717864923747275
+            ], 
+            "key_words": [
+                "circus", 
+                "tent"
+            ], 
+            "actual_name": "circus tent", 
+            "file_path": "Images/DCM/1f3aa.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0017429193899782135, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3ab.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3ab", 
+            "channel_values": [
+                0.5540577342047931, 
+                0.3369281045751634, 
+                0.00784313725490196
+            ], 
+            "key_words": [
+                "admission"
+            ], 
+            "actual_name": "ticket", 
+            "file_path": "Images/DCM/1f3ab.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.005065359477124183, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3ac.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3ac", 
+            "channel_values": [
+                0.18695533769063183, 
+                0.18695533769063183, 
+                0.18695533769063183
+            ], 
+            "key_words": [
+                "clapper", 
+                "movie"
+            ], 
+            "actual_name": "clapper board", 
+            "file_path": "Images/DCM/1f3ac.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.005773420479302832, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3ae.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3ae", 
+            "channel_values": [
+                0.07167755991285403, 
+                0.07167755991285403, 
+                0.07167755991285403
+            ], 
+            "key_words": [
+                "controller", 
+                "game"
+            ], 
+            "actual_name": "video game", 
+            "file_path": "Images/DCM/1f3ae.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003159041394335512, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3b5.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3b5", 
+            "channel_values": [
+                0.20103485838779955, 
+                0.008714596949891068, 
+                0.016966230936819173
+            ], 
+            "key_words": [
+                "music", 
+                "note"
+            ], 
+            "actual_name": "musical note", 
+            "file_path": "Images/DCM/1f3b5.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0031862745098039215, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3b6.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3b6", 
+            "channel_values": [
+                0.19471677559912853, 
+                0.00727124183006536, 
+                0.01454248366013072
+            ], 
+            "key_words": [
+                "music", 
+                "note", 
+                "notes"
+            ], 
+            "actual_name": "musical notes", 
+            "file_path": "Images/DCM/1f3b6.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.004874727668845316, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3bd.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3bd", 
+            "channel_values": [
+                0.5558006535947712, 
+                0.32410130718954244, 
+                0.6638888888888889
+            ], 
+            "key_words": [
+                "athletics", 
+                "running", 
+                "sash", 
+                "shirt"
+            ], 
+            "actual_name": "running shirt", 
+            "file_path": "Images/DCM/1f3bd.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002696078431372549, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3be.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3be", 
+            "channel_values": [
+                0.013480392156862746, 
+                0.19335511982570808, 
+                0.013916122004357299
+            ], 
+            "key_words": [
+                "ball", 
+                "racquet"
+            ], 
+            "actual_name": "tennis", 
+            "file_path": "Images/DCM/1f3be.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003213507625272331, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3bf.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3bf", 
+            "channel_values": [
+                0.006127450980392157, 
+                0.0065904139433551195, 
+                0.18815359477124183
+            ], 
+            "key_words": [
+                "ski", 
+                "snow"
+            ], 
+            "actual_name": "skis", 
+            "file_path": "Images/DCM/1f3bf.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002832244008714597, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3c0.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3c0", 
+            "channel_values": [
+                0.2839869281045752, 
+                0.17426470588235293, 
+                0.014324618736383441
+            ], 
+            "key_words": [
+                "ball", 
+                "hoop"
+            ], 
+            "actual_name": "basketball", 
+            "file_path": "Images/DCM/1f3c0.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.004738562091503268, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3c1.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3c1", 
+            "channel_values": [
+                0.2506263616557734, 
+                0.2506263616557734, 
+                0.2506263616557734
+            ], 
+            "key_words": [
+                "checkered", 
+                "chequered", 
+                "racing"
+            ], 
+            "actual_name": "chequered flag", 
+            "file_path": "Images/DCM/1f3c1.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002233115468409586, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3c2.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3c2", 
+            "channel_values": [
+                0.010702614379084967, 
+                0.009667755991285403, 
+                0.4307461873638344
+            ], 
+            "key_words": [
+                "ski", 
+                "snow", 
+                "snowboard"
+            ], 
+            "actual_name": "snowboarder", 
+            "file_path": "Images/DCM/1f3c2.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0030773420479302833, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3c3.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3c3", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "marathon", 
+                "running"
+            ], 
+            "actual_name": "person running", 
+            "file_path": "Images/DCM/1f3c3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00130718954248366, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3e0.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3e0", 
+            "channel_values": [
+                0.660702614379085, 
+                0.008224400871459696, 
+                0.012772331154684097
+            ], 
+            "key_words": [
+                "home", 
+                "house"
+            ], 
+            "actual_name": "house", 
+            "file_path": "Images/DCM/1f3e0.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0023965141612200436, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3e2.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3e2", 
+            "channel_values": [
+                0.007979302832244009, 
+                0.007461873638344226, 
+                0.39101307189542484
+            ], 
+            "key_words": [
+                "building"
+            ], 
+            "actual_name": "office building", 
+            "file_path": "Images/DCM/1f3e2.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002233115468409586, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3e3.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3e3", 
+            "channel_values": [
+                0.4297930283224401, 
+                0.009095860566448802, 
+                0.01258169934640523
+            ], 
+            "key_words": [
+                "Japanese", 
+                "post"
+            ], 
+            "actual_name": "Japanese post office", 
+            "file_path": "Images/DCM/1f3e3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002178649237472767, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3e5.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3e5", 
+            "channel_values": [
+                0.443818082788671, 
+                0.008278867102396514, 
+                0.013208061002178648
+            ], 
+            "key_words": [
+                "doctor", 
+                "medicine"
+            ], 
+            "actual_name": "hospital", 
+            "file_path": "Images/DCM/1f3e5.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002233115468409586, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3e6.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3e6", 
+            "channel_values": [
+                0.35068082788671023, 
+                0.17600762527233116, 
+                0.432380174291939
+            ], 
+            "key_words": [
+                "building"
+            ], 
+            "actual_name": "bank", 
+            "file_path": "Images/DCM/1f3e6.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0019335511982570806, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3e7.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3e7", 
+            "channel_values": [
+                0.5052287581699347, 
+                0.008169934640522876, 
+                0.0125
+            ], 
+            "key_words": [
+                "atm", 
+                "automated", 
+                "bank", 
+                "teller"
+            ], 
+            "actual_name": "ATM sign", 
+            "file_path": "Images/DCM/1f3e7.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0024509803921568627, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3e8.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3e8", 
+            "channel_values": [
+                0.01377995642701525, 
+                0.2312363834422658, 
+                0.014651416122004357
+            ], 
+            "key_words": [
+                "building"
+            ], 
+            "actual_name": "hotel", 
+            "file_path": "Images/DCM/1f3e8.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0023420479302832245, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3ea.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3ea", 
+            "channel_values": [
+                0.011410675381263616, 
+                0.010375816993464054, 
+                0.4036764705882353
+            ], 
+            "key_words": [
+                "convenience", 
+                "store"
+            ], 
+            "actual_name": "convenience store", 
+            "file_path": "Images/DCM/1f3ea.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0022603485838779956, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f3eb.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f3eb", 
+            "channel_values": [
+                0.013534858387799564, 
+                0.25974945533769067, 
+                0.015468409586056645
+            ], 
+            "key_words": [
+                "building"
+            ], 
+            "actual_name": "school", 
+            "file_path": "Images/DCM/1f3eb.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0023420479302832245, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f40c.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f40c", 
+            "channel_values": [
+                0.35185185185185186, 
+                0.17810457516339867, 
+                0.14183006535947712
+            ], 
+            "key_words": [
+                "snail"
+            ], 
+            "actual_name": "snail", 
+            "file_path": "Images/DCM/1f40c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002750544662309368, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f41f.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f41f", 
+            "channel_values": [
+                0.01181917211328976, 
+                0.009885620915032681, 
+                0.30324074074074076
+            ], 
+            "key_words": [
+                "Pisces", 
+                "zodiac"
+            ], 
+            "actual_name": "fish", 
+            "file_path": "Images/DCM/1f41f.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029956427015250544, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f424.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f424", 
+            "channel_values": [
+                0.24406318082788672, 
+                0.14929193899782134, 
+                0.01377995642701525
+            ], 
+            "key_words": [
+                "baby", 
+                "chick"
+            ], 
+            "actual_name": "baby chick", 
+            "file_path": "Images/DCM/1f424.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002178649237472767, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f427.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f427", 
+            "channel_values": [
+                0.007788671023965142, 
+                0.0071623093681917206, 
+                0.30299564270152507
+            ], 
+            "key_words": [
+                "penguin"
+            ], 
+            "actual_name": "penguin", 
+            "file_path": "Images/DCM/1f427.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029956427015250544, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f431.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f431", 
+            "channel_values": [
+                0.24311002178649238, 
+                0.14948257080610022, 
+                0.014079520697167756
+            ], 
+            "key_words": [
+                "cat", 
+                "face", 
+                "pet"
+            ], 
+            "actual_name": "cat face", 
+            "file_path": "Images/DCM/1f431.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0027233115468409583, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f434.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f434", 
+            "channel_values": [
+                0.27058823529411763, 
+                0.13545751633986927, 
+                0.11143790849673203
+            ], 
+            "key_words": [
+                "face", 
+                "horse"
+            ], 
+            "actual_name": "horse face", 
+            "file_path": "Images/DCM/1f434.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0032679738562091504, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f436.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f436", 
+            "channel_values": [
+                0.17233115468409585, 
+                0.10629084967320263, 
+                0.012854030501089323
+            ], 
+            "key_words": [
+                "dog", 
+                "face", 
+                "pet"
+            ], 
+            "actual_name": "dog face", 
+            "file_path": "Images/DCM/1f436.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0031045751633986926, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f437.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f437", 
+            "channel_values": [
+                0.2162037037037037, 
+                0.13311546840958605, 
+                0.013916122004357299
+            ], 
+            "key_words": [
+                "face", 
+                "pig"
+            ], 
+            "actual_name": "pig face", 
+            "file_path": "Images/DCM/1f437.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029411764705882353, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f440.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f440", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "eye", 
+                "face"
+            ], 
+            "actual_name": "eyes", 
+            "file_path": "Images/DCM/1f440.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0031318082788671024, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f442.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f442", 
+            "channel_values": [
+                0.20751633986928103, 
+                0.12745098039215685, 
+                0.01309912854030501
+            ], 
+            "key_words": [
+                "body"
+            ], 
+            "actual_name": "ear", 
+            "file_path": "Images/DCM/1f442.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002750544662309368, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f44a.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f44a", 
+            "channel_values": [
+                0.30269607843137253, 
+                0.00721677559912854, 
+                0.014215686274509804
+            ], 
+            "key_words": [
+                "clenched", 
+                "fist", 
+                "hand", 
+                "punch"
+            ], 
+            "actual_name": "oncoming fist", 
+            "file_path": "Images/DCM/1f44a.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0025871459694989107, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f44d.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f44d", 
+            "channel_values": [
+                0.34438997821350764, 
+                0.2093954248366013, 
+                0.012663398692810458
+            ], 
+            "key_words": [
+                "+1", 
+                "hand", 
+                "thumb", 
+                "up"
+            ], 
+            "actual_name": "thumbs up", 
+            "file_path": "Images/DCM/1f44d.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002505446623093682, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f451.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f451", 
+            "channel_values": [
+                0.365958605664488, 
+                0.222739651416122, 
+                0.012772331154684097
+            ], 
+            "key_words": [
+                "clothing", 
+                "king", 
+                "queen"
+            ], 
+            "actual_name": "crown", 
+            "file_path": "Images/DCM/1f451.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0031318082788671024, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f453.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f453", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "clothing", 
+                "eye", 
+                "eyeglasses", 
+                "eyewear"
+            ], 
+            "actual_name": "glasses", 
+            "file_path": "Images/DCM/1f453.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0027233115468409583, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f455.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f455", 
+            "channel_values": [
+                0.009014161220043573, 
+                0.008251633986928105, 
+                0.3088235294117647
+            ], 
+            "key_words": [
+                "clothing", 
+                "shirt", 
+                "tshirt"
+            ], 
+            "actual_name": "t-shirt", 
+            "file_path": "Images/DCM/1f455.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0014978213507625272, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f456.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f456", 
+            "channel_values": [
+                0.00727124183006536, 
+                0.008142701525054466, 
+                0.4158496732026144
+            ], 
+            "key_words": [
+                "clothing", 
+                "pants", 
+                "trousers"
+            ], 
+            "actual_name": "jeans", 
+            "file_path": "Images/DCM/1f456.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0014978213507625272, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f45b.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f45b", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "clothing", 
+                "coin"
+            ], 
+            "actual_name": "purse", 
+            "file_path": "Images/DCM/1f45b.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0020152505446623093, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f45c.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f45c", 
+            "channel_values": [
+                0.4843681917211329, 
+                0.008251633986928105, 
+                0.014351851851851852
+            ], 
+            "key_words": [
+                "bag", 
+                "clothing", 
+                "purse"
+            ], 
+            "actual_name": "handbag", 
+            "file_path": "Images/DCM/1f45c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.004302832244008715, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f45d.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f45d", 
+            "channel_values": [
+                0.403921568627451, 
+                0.403921568627451, 
+                0.403921568627451
+            ], 
+            "key_words": [
+                "bag", 
+                "clothing", 
+                "pouch"
+            ], 
+            "actual_name": "clutch bag", 
+            "file_path": "Images/DCM/1f45d.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002559912854030501, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f45f.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f45f", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "athletic", 
+                "clothing", 
+                "shoe", 
+                "sneaker"
+            ], 
+            "actual_name": "running shoe", 
+            "file_path": "Images/DCM/1f45f.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029956427015250544, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f460.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f460", 
+            "channel_values": [
+                0.24196623093681915, 
+                0.007706971677559913, 
+                0.013044662309368191
+            ], 
+            "key_words": [
+                "clothing", 
+                "heel", 
+                "shoe", 
+                "woman"
+            ], 
+            "actual_name": "high-heeled shoe", 
+            "file_path": "Images/DCM/1f460.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0027233115468409583, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f463.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f463", 
+            "channel_values": [
+                0.30999455337690635, 
+                0.18799019607843137, 
+                0.011111111111111112
+            ], 
+            "key_words": [
+                "clothing", 
+                "footprint", 
+                "print"
+            ], 
+            "actual_name": "footprints", 
+            "file_path": "Images/DCM/1f463.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.004466230936819172, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f464.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f464", 
+            "channel_values": [
+                0.30645424836601304, 
+                0.30645424836601304, 
+                0.30645424836601304
+            ], 
+            "key_words": [
+                "bust", 
+                "silhouette"
+            ], 
+            "actual_name": "bust in silhouette", 
+            "file_path": "Images/DCM/1f464.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003022875816993464, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f484.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f484", 
+            "channel_values": [
+                0.23423202614379085, 
+                0.007706971677559913, 
+                0.011683006535947713
+            ], 
+            "key_words": [
+                "cosmetics", 
+                "makeup"
+            ], 
+            "actual_name": "lipstick", 
+            "file_path": "Images/DCM/1f484.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0031045751633986926, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f48b.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f48b", 
+            "channel_values": [
+                0.21124727668845317, 
+                0.004547930283224401, 
+                0.009259259259259259
+            ], 
+            "key_words": [
+                "kiss", 
+                "lips"
+            ], 
+            "actual_name": "kiss mark", 
+            "file_path": "Images/DCM/1f48b.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002696078431372549, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f48c.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f48c", 
+            "channel_values": [
+                0.31636710239651417, 
+                0.00860566448801743, 
+                0.01315359477124183
+            ], 
+            "key_words": [
+                "heart", 
+                "letter", 
+                "love", 
+                "mail"
+            ], 
+            "actual_name": "love letter", 
+            "file_path": "Images/DCM/1f48c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0020697167755991284, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f48d.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f48d", 
+            "channel_values": [
+                0.38534858387799564, 
+                0.19381808278867105, 
+                0.4729575163398693
+            ], 
+            "key_words": [
+                "diamond"
+            ], 
+            "actual_name": "ring", 
+            "file_path": "Images/DCM/1f48d.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029684095860566446, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f493.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f493", 
+            "channel_values": [
+                0.247739651416122, 
+                0.007734204793028322, 
+                0.013371459694989107
+            ], 
+            "key_words": [
+                "beating", 
+                "heartbeat", 
+                "pulsating"
+            ], 
+            "actual_name": "beating heart", 
+            "file_path": "Images/DCM/1f493.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00196078431372549, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f494.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f494", 
+            "channel_values": [
+                0.4987200435729848, 
+                0.007761437908496732, 
+                0.013398692810457516
+            ], 
+            "key_words": [
+                "break", 
+                "broken"
+            ], 
+            "actual_name": "broken heart", 
+            "file_path": "Images/DCM/1f494.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003159041394335512, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f495.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f495", 
+            "channel_values": [
+                0.19940087145969498, 
+                0.007380174291938998, 
+                0.013235294117647059
+            ], 
+            "key_words": [
+                "love"
+            ], 
+            "actual_name": "two hearts", 
+            "file_path": "Images/DCM/1f495.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0030501089324618735, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4a0.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4a0", 
+            "channel_values": [
+                0.1875272331154684, 
+                0.09610566448801743, 
+                0.23186274509803922
+            ], 
+            "key_words": [
+                "comic", 
+                "diamond", 
+                "geometric", 
+                "inside"
+            ], 
+            "actual_name": "diamond with a dot", 
+            "file_path": "Images/DCM/1f4a0.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0030773420479302833, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4a1.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4a1", 
+            "channel_values": [
+                0.22004357298474947, 
+                0.13518518518518519, 
+                0.012200435729847494
+            ], 
+            "key_words": [
+                "bulb", 
+                "comic", 
+                "electric", 
+                "idea", 
+                "light"
+            ], 
+            "actual_name": "light bulb", 
+            "file_path": "Images/DCM/1f4a1.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003485838779956427, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4a2.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4a2", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "angry", 
+                "comic", 
+                "mad"
+            ], 
+            "actual_name": "anger symbol", 
+            "file_path": "Images/DCM/1f4a2.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0023148148148148147, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4a3.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4a3", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "comic"
+            ], 
+            "actual_name": "bomb", 
+            "file_path": "Images/DCM/1f4a3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0031862745098039215, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4a4.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4a4", 
+            "channel_values": [
+                0.011410675381263616, 
+                0.00789760348583878, 
+                0.19498910675381265
+            ], 
+            "key_words": [
+                "comic", 
+                "sleep"
+            ], 
+            "actual_name": "zzz", 
+            "file_path": "Images/DCM/1f4a4.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0033224400871459695, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4a5.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4a5", 
+            "channel_values": [
+                0.15939542483660132, 
+                0.0072984749455337694, 
+                0.01446078431372549
+            ], 
+            "key_words": [
+                "boom", 
+                "comic"
+            ], 
+            "actual_name": "collision", 
+            "file_path": "Images/DCM/1f4a5.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003540305010893246, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4a6.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4a6", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "comic", 
+                "splashing", 
+                "sweat"
+            ], 
+            "actual_name": "sweat droplets", 
+            "file_path": "Images/DCM/1f4a6.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003458605664488017, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4a7.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4a7", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "cold", 
+                "comic", 
+                "drop", 
+                "sweat"
+            ], 
+            "actual_name": "droplet", 
+            "file_path": "Images/DCM/1f4a7.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0032679738562091504, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4a8.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4a8", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "comic", 
+                "dash", 
+                "running"
+            ], 
+            "actual_name": "dashing away", 
+            "file_path": "Images/DCM/1f4a8.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0023965141612200436, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4b0.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4b0", 
+            "channel_values": [
+                0.3417755991285403, 
+                0.1712690631808279, 
+                0.13703703703703704
+            ], 
+            "key_words": [
+                "bag", 
+                "dollar", 
+                "money", 
+                "moneybag"
+            ], 
+            "actual_name": "money bag", 
+            "file_path": "Images/DCM/1f4b0.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0022875816993464053, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4b4.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4b4", 
+            "channel_values": [
+                0.41688453159041394, 
+                0.0085239651416122, 
+                0.014869281045751633
+            ], 
+            "key_words": [
+                "bank", 
+                "banknote", 
+                "bill", 
+                "currency", 
+                "money", 
+                "note", 
+                "yen"
+            ], 
+            "actual_name": "yen banknote", 
+            "file_path": "Images/DCM/1f4b4.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003213507625272331, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4ba.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4ba", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "chair"
+            ], 
+            "actual_name": "seat", 
+            "file_path": "Images/DCM/1f4ba.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0026688453159041396, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4bb.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4bb", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "computer", 
+                "pc", 
+                "personal"
+            ], 
+            "actual_name": "laptop computer", 
+            "file_path": "Images/DCM/1f4bb.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00264161220043573, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4bf.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4bf", 
+            "channel_values": [
+                0.01247276688453159, 
+                0.009640522875816994, 
+                0.3293300653594771
+            ], 
+            "key_words": [
+                "cd", 
+                "computer", 
+                "disk", 
+                "optical"
+            ], 
+            "actual_name": "optical disk", 
+            "file_path": "Images/DCM/1f4bf.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029411764705882353, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4ce.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4ce", 
+            "channel_values": [
+                0.009313725490196078, 
+                0.006617647058823529, 
+                0.2553649237472767
+            ], 
+            "key_words": [
+                "paperclip"
+            ], 
+            "actual_name": "paperclip", 
+            "file_path": "Images/DCM/1f4ce.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00392156862745098, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4d6.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4d6", 
+            "channel_values": [
+                0.7383986928104574, 
+                0.5497276688453159, 
+                0.2627995642701525
+            ], 
+            "key_words": [
+                "book", 
+                "open"
+            ], 
+            "actual_name": "open book", 
+            "file_path": "Images/DCM/1f4d6.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0025871459694989107, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4dd.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4dd", 
+            "channel_values": [
+                0.3448529411764706, 
+                0.21094771241830065, 
+                0.013208061002178648
+            ], 
+            "key_words": [
+                "pencil"
+            ], 
+            "actual_name": "memo", 
+            "file_path": "Images/DCM/1f4dd.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00264161220043573, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4df.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4df", 
+            "channel_values": [
+                0.2706971677559913, 
+                0.1375544662309368, 
+                0.33153594771241834
+            ], 
+            "key_words": [
+                "pager"
+            ], 
+            "actual_name": "pager", 
+            "file_path": "Images/DCM/1f4df.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002777777777777778, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4e0.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4e0", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "fax"
+            ], 
+            "actual_name": "fax machine", 
+            "file_path": "Images/DCM/1f4e0.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002832244008714597, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4e9.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4e9", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "arrow", 
+                "down", 
+                "e-mail", 
+                "email", 
+                "envelope", 
+                "letter", 
+                "mail", 
+                "outgoing", 
+                "sent"
+            ], 
+            "actual_name": "envelope with arrow", 
+            "file_path": "Images/DCM/1f4e9.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.006263616557734205, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4f1.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4f1", 
+            "channel_values": [
+                0.043055555555555555, 
+                0.043055555555555555, 
+                0.043055555555555555
+            ], 
+            "key_words": [
+                "cell", 
+                "mobile", 
+                "phone", 
+                "telephone"
+            ], 
+            "actual_name": "mobile phone", 
+            "file_path": "Images/DCM/1f4f1.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.004847494553376907, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4f2.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4f2", 
+            "channel_values": [
+                0.02516339869281046, 
+                0.02516339869281046, 
+                0.02516339869281046
+            ], 
+            "key_words": [
+                "arrow", 
+                "call", 
+                "cell", 
+                "mobile", 
+                "phone", 
+                "receive", 
+                "telephone"
+            ], 
+            "actual_name": "mobile phone with arrow", 
+            "file_path": "Images/DCM/1f4f2.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003976034858387799, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4f7.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4f7", 
+            "channel_values": [
+                0.18327886710239652, 
+                0.18327886710239652, 
+                0.18327886710239652
+            ], 
+            "key_words": [
+                "video"
+            ], 
+            "actual_name": "camera", 
+            "file_path": "Images/DCM/1f4f7.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002233115468409586, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f4fa.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f4fa", 
+            "channel_values": [
+                0.010757080610021785, 
+                0.009994553376906318, 
+                0.4301742919389978
+            ], 
+            "key_words": [
+                "tv", 
+                "video"
+            ], 
+            "actual_name": "television", 
+            "file_path": "Images/DCM/1f4fa.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003159041394335512, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f50d.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f50d", 
+            "channel_values": [
+                0.011437908496732025, 
+                0.010157952069716775, 
+                0.2033769063180828
+            ], 
+            "key_words": [
+                "glass", 
+                "magnifying", 
+                "search", 
+                "tool"
+            ], 
+            "actual_name": "left-pointing magnifying glass", 
+            "file_path": "Images/DCM/1f50d.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002750544662309368, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f511.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f511", 
+            "channel_values": [
+                0.30062636165577344, 
+                0.007570806100217865, 
+                0.011328976034858388
+            ], 
+            "key_words": [
+                "lock", 
+                "password"
+            ], 
+            "actual_name": "key", 
+            "file_path": "Images/DCM/1f511.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002832244008714597, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f514.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f514", 
+            "channel_values": [
+                0.2834967320261438, 
+                0.1733115468409586, 
+                0.01326252723311547
+            ], 
+            "key_words": [
+                "bell"
+            ], 
+            "actual_name": "bell", 
+            "file_path": "Images/DCM/1f514.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0019335511982570806, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f51a.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f51a", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "arrow", 
+                "end"
+            ], 
+            "actual_name": "END arrow", 
+            "file_path": "Images/DCM/1f51a.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0016884531590413943, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f51b.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f51b", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "arrow", 
+                "mark", 
+                "on"
+            ], 
+            "actual_name": "ON! arrow", 
+            "file_path": "Images/DCM/1f51b.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0018518518518518517, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f51c.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f51c", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "arrow", 
+                "soon"
+            ], 
+            "actual_name": "SOON arrow", 
+            "file_path": "Images/DCM/1f51c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0028594771241830064, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f527.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f527", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "spanner", 
+                "tool", 
+                "wrench"
+            ], 
+            "actual_name": "wrench", 
+            "file_path": "Images/DCM/1f527.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0022058823529411764, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f5fb.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f5fb", 
+            "channel_values": [
+                0.00784313725490196, 
+                0.007516339869281046, 
+                0.43752723311546843
+            ], 
+            "key_words": [
+                "fuji", 
+                "mountain"
+            ], 
+            "actual_name": "mount fuji", 
+            "file_path": "Images/DCM/1f5fb.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0032679738562091504, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f601.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f601", 
+            "channel_values": [
+                0.17532679738562093, 
+                0.10776143790849674, 
+                0.013807189542483661
+            ], 
+            "key_words": [
+                "eye", 
+                "face", 
+                "grin", 
+                "smile"
+            ], 
+            "actual_name": "grinning face with smiling eyes", 
+            "file_path": "Images/DCM/1f601.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0033769063180827887, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f603.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f603", 
+            "channel_values": [
+                0.12178649237472768, 
+                0.06372549019607843, 
+                0.1500272331154684
+            ], 
+            "key_words": [
+                "face", 
+                "mouth", 
+                "open", 
+                "smile"
+            ], 
+            "actual_name": "smiling face with open mouth", 
+            "file_path": "Images/DCM/1f603.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0031318082788671024, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f605.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f605", 
+            "channel_values": [
+                0.00855119825708061, 
+                0.007979302832244009, 
+                0.2065359477124183
+            ], 
+            "key_words": [
+                "cold", 
+                "face", 
+                "open", 
+                "smile", 
+                "sweat"
+            ], 
+            "actual_name": "smiling face with open mouth & cold sweat", 
+            "file_path": "Images/DCM/1f605.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003159041394335512, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f606.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f606", 
+            "channel_values": [
+                0.1662309368191721, 
+                0.0857570806100218, 
+                0.2042483660130719
+            ], 
+            "key_words": [
+                "face", 
+                "laugh", 
+                "mouth", 
+                "open", 
+                "satisfied", 
+                "smile"
+            ], 
+            "actual_name": "smiling face with open mouth & closed eyes", 
+            "file_path": "Images/DCM/1f606.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003458605664488017, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f609.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f609", 
+            "channel_values": [
+                0.10446623093681917, 
+                0.055936819172113295, 
+                0.1304466230936819
+            ], 
+            "key_words": [
+                "face", 
+                "wink"
+            ], 
+            "actual_name": "winking face", 
+            "file_path": "Images/DCM/1f609.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003485838779956427, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f60b.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f60b", 
+            "channel_values": [
+                0.11868191721132898, 
+                0.07382897603485838, 
+                0.009694989106753813
+            ], 
+            "key_words": [
+                "delicious", 
+                "face", 
+                "savouring", 
+                "smile", 
+                "um", 
+                "yum"
+            ], 
+            "actual_name": "face savouring delicious food", 
+            "file_path": "Images/DCM/1f60b.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003594771241830065, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f60c.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f60c", 
+            "channel_values": [
+                0.0763888888888889, 
+                0.04057734204793028, 
+                0.09406318082788671
+            ], 
+            "key_words": [
+                "face", 
+                "relieved"
+            ], 
+            "actual_name": "relieved face", 
+            "file_path": "Images/DCM/1f60c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0030501089324618735, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f60d.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f60d", 
+            "channel_values": [
+                0.1883442265795207, 
+                0.09577886710239651, 
+                0.23311546840958605
+            ], 
+            "key_words": [
+                "eye", 
+                "face", 
+                "love", 
+                "smile"
+            ], 
+            "actual_name": "smiling face with heart-eyes", 
+            "file_path": "Images/DCM/1f60d.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0033769063180827887, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f60f.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f60f", 
+            "channel_values": [
+                0.14814814814814814, 
+                0.09104030501089325, 
+                0.014106753812636166
+            ], 
+            "key_words": [
+                "face", 
+                "smirk"
+            ], 
+            "actual_name": "smirking face", 
+            "file_path": "Images/DCM/1f60f.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003622004357298475, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f612.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f612", 
+            "channel_values": [
+                0.049291938997821354, 
+                0.008333333333333333, 
+                0.048257080610021784
+            ], 
+            "key_words": [
+                "face", 
+                "unamused", 
+                "unhappy"
+            ], 
+            "actual_name": "unamused face", 
+            "file_path": "Images/DCM/1f612.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0034041394335511985, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f613.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f613", 
+            "channel_values": [
+                0.007870370370370371, 
+                0.006535947712418301, 
+                0.1394063180827887
+            ], 
+            "key_words": [
+                "cold", 
+                "face", 
+                "sweat"
+            ], 
+            "actual_name": "face with cold sweat", 
+            "file_path": "Images/DCM/1f613.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0036492374727668847, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f614.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f614", 
+            "channel_values": [
+                0.011465141612200436, 
+                0.0491557734204793, 
+                0.012854030501089323
+            ], 
+            "key_words": [
+                "dejected", 
+                "face", 
+                "pensive"
+            ], 
+            "actual_name": "pensive face", 
+            "file_path": "Images/DCM/1f614.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003540305010893246, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f616.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f616", 
+            "channel_values": [
+                0.011301742919389979, 
+                0.06584967320261438, 
+                0.01625816993464052
+            ], 
+            "key_words": [
+                "confounded", 
+                "face"
+            ], 
+            "actual_name": "confounded face", 
+            "file_path": "Images/DCM/1f616.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0032679738562091504, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f61c.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f61c", 
+            "channel_values": [
+                0.17429193899782133, 
+                0.008932461873638343, 
+                0.0150599128540305
+            ], 
+            "key_words": [
+                "eye", 
+                "face", 
+                "joke", 
+                "tongue", 
+                "wink"
+            ], 
+            "actual_name": "face with stuck-out tongue & winking eye", 
+            "file_path": "Images/DCM/1f61c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003594771241830065, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f61e.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f61e", 
+            "channel_values": [
+                0.011056644880174292, 
+                0.009340958605664489, 
+                0.09733115468409585
+            ], 
+            "key_words": [
+                "disappointed", 
+                "face"
+            ], 
+            "actual_name": "disappointed face", 
+            "file_path": "Images/DCM/1f61e.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003594771241830065, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f620.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f620", 
+            "channel_values": [
+                0.09351851851851851, 
+                0.00721677559912854, 
+                0.014950980392156863
+            ], 
+            "key_words": [
+                "angry", 
+                "face", 
+                "mad"
+            ], 
+            "actual_name": "angry face", 
+            "file_path": "Images/DCM/1f620.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003431372549019608, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f621.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f621", 
+            "channel_values": [
+                0.1338779956427015, 
+                0.008877995642701525, 
+                0.013997821350762527
+            ], 
+            "key_words": [
+                "angry", 
+                "face", 
+                "mad", 
+                "pouting", 
+                "rage", 
+                "red"
+            ], 
+            "actual_name": "pouting face", 
+            "file_path": "Images/DCM/1f621.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0035130718954248367, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f622.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f622", 
+            "channel_values": [
+                0.011056644880174292, 
+                0.010021786492374727, 
+                0.11598583877995643
+            ], 
+            "key_words": [
+                "cry", 
+                "face", 
+                "sad", 
+                "tear"
+            ], 
+            "actual_name": "crying face", 
+            "file_path": "Images/DCM/1f622.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003159041394335512, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f623.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f623", 
+            "channel_values": [
+                0.008469498910675381, 
+                0.009014161220043573, 
+                0.1397875816993464
+            ], 
+            "key_words": [
+                "face", 
+                "persevere"
+            ], 
+            "actual_name": "persevering face", 
+            "file_path": "Images/DCM/1f623.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029411764705882353, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f62d.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f62d", 
+            "channel_values": [
+                0.010185185185185186, 
+                0.008959694989106754, 
+                0.25457516339869285
+            ], 
+            "key_words": [
+                "cry", 
+                "face", 
+                "sad", 
+                "sob", 
+                "tear"
+            ], 
+            "actual_name": "loudly crying face", 
+            "file_path": "Images/DCM/1f62d.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00264161220043573, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f631.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f631", 
+            "channel_values": [
+                0.17227668845315905, 
+                0.006781045751633987, 
+                0.17282135076252722
+            ], 
+            "key_words": [
+                "face", 
+                "fear", 
+                "fearful", 
+                "munch", 
+                "scared", 
+                "scream"
+            ], 
+            "actual_name": "face screaming in fear", 
+            "file_path": "Images/DCM/1f631.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003431372549019608, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f635.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f635", 
+            "channel_values": [
+                0.010266884531590413, 
+                0.008088235294117648, 
+                0.13436819172113287
+            ], 
+            "key_words": [
+                "dizzy", 
+                "face"
+            ], 
+            "actual_name": "dizzy face", 
+            "file_path": "Images/DCM/1f635.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002369281045751634, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f683.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f683", 
+            "channel_values": [
+                0.01247276688453159, 
+                0.2437908496732026, 
+                0.01369825708061002
+            ], 
+            "key_words": [
+                "car", 
+                "electric", 
+                "railway", 
+                "train", 
+                "tram", 
+                "trolleybus"
+            ], 
+            "actual_name": "railway car", 
+            "file_path": "Images/DCM/1f683.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002886710239651416, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f684.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f684", 
+            "channel_values": [
+                0.01045751633986928, 
+                0.009150326797385621, 
+                0.2695261437908497
+            ], 
+            "key_words": [
+                "railway", 
+                "shinkansen", 
+                "speed", 
+                "train"
+            ], 
+            "actual_name": "high-speed train", 
+            "file_path": "Images/DCM/1f684.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0023965141612200436, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f68c.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f68c", 
+            "channel_values": [
+                0.39019607843137255, 
+                0.006889978213507625, 
+                0.013943355119825708
+            ], 
+            "key_words": [
+                "vehicle"
+            ], 
+            "actual_name": "bus", 
+            "file_path": "Images/DCM/1f68c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00261437908496732, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f697.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f697", 
+            "channel_values": [
+                0.665223311546841, 
+                0.665223311546841, 
+                0.665223311546841
+            ], 
+            "key_words": [
+                "car"
+            ], 
+            "actual_name": "automobile", 
+            "file_path": "Images/DCM/1f697.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0025326797385620916, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f699.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f699", 
+            "channel_values": [
+                0.011383442265795206, 
+                0.21868191721132896, 
+                0.013316993464052289
+            ], 
+            "key_words": [
+                "recreational", 
+                "sport utility"
+            ], 
+            "actual_name": "sport utility vehicle", 
+            "file_path": "Images/DCM/1f699.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002559912854030501, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f6a2.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f6a2", 
+            "channel_values": [
+                0.010675381263616559, 
+                0.01053921568627451, 
+                0.35013616557734206
+            ], 
+            "key_words": [
+                "boat", 
+                "passenger"
+            ], 
+            "actual_name": "ship", 
+            "file_path": "Images/DCM/1f6a2.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0050381263616557734, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f6a5.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f6a5", 
+            "channel_values": [
+                0.19512527233115468, 
+                0.19512527233115468, 
+                0.19512527233115468
+            ], 
+            "key_words": [
+                "light", 
+                "signal", 
+                "traffic"
+            ], 
+            "actual_name": "horizontal traffic light", 
+            "file_path": "Images/DCM/1f6a5.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0032407407407407406, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f6a9.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f6a9", 
+            "channel_values": [
+                0.18216230936819172, 
+                0.009340958605664489, 
+                0.016040305010893246
+            ], 
+            "key_words": [
+                "post"
+            ], 
+            "actual_name": "triangular flag", 
+            "file_path": "Images/DCM/1f6a9.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002505446623093682, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f6aa.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f6aa", 
+            "channel_values": [
+                0.3179466230936819, 
+                0.16067538126361655, 
+                0.1292483660130719
+            ], 
+            "key_words": [
+                "door"
+            ], 
+            "actual_name": "door", 
+            "file_path": "Images/DCM/1f6aa.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.006917211328976034, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f6ac.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f6ac", 
+            "channel_values": [
+                0.023447712418300654, 
+                0.023447712418300654, 
+                0.023447712418300654
+            ], 
+            "key_words": [
+                "smoking"
+            ], 
+            "actual_name": "cigarette", 
+            "file_path": "Images/DCM/1f6ac.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0023965141612200436, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f6ad.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f6ad", 
+            "channel_values": [
+                0.38973311546840955, 
+                0.008251633986928105, 
+                0.012826797385620916
+            ], 
+            "key_words": [
+                "forbidden", 
+                "no", 
+                "not", 
+                "prohibited", 
+                "smoking"
+            ], 
+            "actual_name": "no smoking", 
+            "file_path": "Images/DCM/1f6ad.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00264161220043573, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f6b2.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f6b2", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "bike"
+            ], 
+            "actual_name": "bicycle", 
+            "file_path": "Images/DCM/1f6b2.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002096949891067538, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/1f6bb.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0001f6bb", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "lavatory", 
+                "restroom", 
+                "WC"
+            ], 
+            "actual_name": "restroom", 
+            "file_path": "Images/DCM/1f6bb.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002886710239651416, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/203c.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x000203c", 
+            "channel_values": [
+                0.2656590413943355, 
+                0.006781045751633987, 
+                0.011328976034858388
+            ], 
+            "key_words": [
+                "bangbang", 
+                "exclamation", 
+                "mark", 
+                "punctuation"
+            ], 
+            "actual_name": "double exclamation mark", 
+            "file_path": "Images/DCM/203c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002777777777777778, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2049.jpg", 
+            "year_introduced": "2000", 
             "html_name": "&#x0002049", 
+            "channel_values": [
+                0.24311002178649238, 
+                0.12235838779956427, 
+                0.2974673202614379
+            ], 
+            "key_words": [
+                "exclamation", 
+                "interrobang", 
+                "mark", 
+                "punctuation", 
+                "question"
+            ], 
+            "actual_name": "exclamation question mark", 
+            "file_path": "Images/DCM/2049.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003213507625272331, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2122.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002122", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "mark", 
+                "tm", 
+                "trademark"
+            ], 
+            "actual_name": "trade mark", 
+            "file_path": "Images/DCM/2122.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0027233115468409583, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2194.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002194", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "arrow"
+            ], 
+            "actual_name": "left-right arrow", 
+            "file_path": "Images/DCM/2194.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0027233115468409583, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2195.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002195", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "arrow"
+            ], 
+            "actual_name": "up-down arrow", 
+            "file_path": "Images/DCM/2195.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003540305010893246, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2196.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002196", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "arrow", 
+                "direction", 
+                "intercardinal", 
+                "northwest"
+            ], 
+            "actual_name": "up-left arrow", 
+            "file_path": "Images/DCM/2196.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003540305010893246, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2197.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002197", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "arrow", 
+                "direction", 
+                "intercardinal", 
+                "northeast"
+            ], 
+            "actual_name": "up-right arrow", 
+            "file_path": "Images/DCM/2197.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003540305010893246, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2198.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002198", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "arrow", 
+                "direction", 
+                "intercardinal", 
+                "southeast"
+            ], 
+            "actual_name": "down-right arrow", 
+            "file_path": "Images/DCM/2198.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003540305010893246, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2199.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002199", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "arrow", 
+                "direction", 
+                "intercardinal", 
+                "southwest"
+            ], 
+            "actual_name": "down-left arrow", 
+            "file_path": "Images/DCM/2199.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0022603485838779956, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/21a9.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x00021a9", 
+            "channel_values": [
+                0.4251089324618736, 
+                0.007679738562091503, 
+                0.011437908496732025
+            ], 
+            "key_words": [
+                "arrow"
+            ], 
+            "actual_name": "right arrow curving left", 
+            "file_path": "Images/DCM/21a9.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029956427015250544, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/231a.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x000231a", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "clock"
+            ], 
+            "actual_name": "watch", 
+            "file_path": "Images/DCM/231a.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003730936819172113, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/23f0.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x00023f0", 
+            "channel_values": [
+                0.5071078431372549, 
+                0.5071078431372549, 
+                0.5071078431372549
+            ], 
+            "key_words": [
+                "alarm", 
+                "clock"
+            ], 
+            "actual_name": "alarm clock", 
+            "file_path": "Images/DCM/23f0.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0027233115468409583, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/23f3.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x00023f3", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "hourglass", 
+                "sand", 
+                "timer"
+            ], 
+            "actual_name": "hourglass with flowing sand", 
+            "file_path": "Images/DCM/23f3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00196078431372549, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/24c2.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x00024c2", 
+            "channel_values": [
+                0.4998910675381264, 
+                0.2889433551198257, 
+                0.011764705882352941
+            ], 
+            "key_words": [
+                "circle", 
+                "m"
+            ], 
+            "actual_name": "circled M", 
+            "file_path": "Images/DCM/24c2.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00261437908496732, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2600.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002600", 
+            "channel_values": [
+                0.9875544662309368, 
+                0.6634803921568627, 
+                0.6589596949891068
+            ], 
+            "key_words": [
+                "bright", 
+                "rays", 
+                "sunny"
+            ], 
+            "actual_name": "sun", 
+            "file_path": "Images/DCM/2600.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.005147058823529412, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2601.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002601", 
+            "channel_values": [
+                0.2612745098039216, 
+                0.26064814814814813, 
+                0.43025599128540304
+            ], 
+            "key_words": [
+                "weather"
+            ], 
+            "actual_name": "cloud", 
+            "file_path": "Images/DCM/2601.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002559912854030501, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/260e.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x000260e", 
+            "channel_values": [
+                0.4585511982570806, 
+                0.4585511982570806, 
+                0.4585511982570806
+            ], 
+            "key_words": [
+                "phone"
+            ], 
+            "actual_name": "telephone", 
+            "file_path": "Images/DCM/260e.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0023420479302832245, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2614.jpg", 
+            "year_introduced": "2003", 
             "html_name": "&#x0002614", 
+            "channel_values": [
+                0.00855119825708061, 
+                0.0085239651416122, 
+                0.40269607843137256
+            ], 
+            "key_words": [
+                "clothing", 
+                "drop", 
+                "rain", 
+                "umbrella"
+            ], 
+            "actual_name": "umbrella with rain drops", 
+            "file_path": "Images/DCM/2614.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00528322440087146, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2615.jpg", 
+            "year_introduced": "2003", 
             "html_name": "&#x0002615", 
+            "channel_values": [
+                0.09223856209150326, 
+                0.37726034858387797, 
+                0.09311002178649239
+            ], 
+            "key_words": [
+                "beverage", 
+                "coffee", 
+                "drink", 
+                "hot", 
+                "steaming", 
+                "tea"
+            ], 
+            "actual_name": "hot beverage", 
+            "file_path": "Images/DCM/2615.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029956427015250544, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2648.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002648", 
+            "channel_values": [
+                0.2383714596949891, 
+                0.0050381263616557734, 
+                0.010675381263616559
+            ], 
+            "key_words": [
+                "ram", 
+                "zodiac"
+            ], 
+            "actual_name": "Aries", 
+            "file_path": "Images/DCM/2648.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003159041394335512, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2649.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002649", 
+            "channel_values": [
+                0.20405773420479303, 
+                0.12461873638344227, 
+                0.01454248366013072
+            ], 
+            "key_words": [
+                "bull", 
+                "ox", 
+                "zodiac"
+            ], 
+            "actual_name": "Taurus", 
+            "file_path": "Images/DCM/2649.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002832244008714597, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/264a.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x000264a", 
+            "channel_values": [
+                0.011900871459694989, 
+                0.1732843137254902, 
+                0.015305010893246186
+            ], 
+            "key_words": [
+                "twins", 
+                "zodiac"
+            ], 
+            "actual_name": "Gemini", 
+            "file_path": "Images/DCM/264a.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002886710239651416, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/264b.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x000264b", 
+            "channel_values": [
+                0.012037037037037037, 
+                0.009422657952069716, 
+                0.269744008714597
+            ], 
+            "key_words": [
+                "crab", 
+                "zodiac"
+            ], 
+            "actual_name": "Cancer", 
+            "file_path": "Images/DCM/264b.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003022875816993464, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/264c.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x000264c", 
+            "channel_values": [
+                0.2355119825708061, 
+                0.008278867102396514, 
+                0.013752723311546842
+            ], 
+            "key_words": [
+                "lion", 
+                "zodiac"
+            ], 
+            "actual_name": "Leo", 
+            "file_path": "Images/DCM/264c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0028050108932461872, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/264d.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x000264d", 
+            "channel_values": [
+                0.2910947712418301, 
+                0.17824074074074073, 
+                0.014324618736383441
+            ], 
+            "key_words": [
+                "zodiac"
+            ], 
+            "actual_name": "Virgo", 
+            "file_path": "Images/DCM/264d.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029411764705882353, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/264e.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x000264e", 
+            "channel_values": [
+                0.00721677559912854, 
+                0.15375816993464053, 
+                0.008769063180827886
+            ], 
+            "key_words": [
+                "balance", 
+                "justice", 
+                "scales", 
+                "zodiac"
+            ], 
+            "actual_name": "Libra", 
+            "file_path": "Images/DCM/264e.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0026688453159041396, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/264f.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x000264f", 
+            "channel_values": [
+                0.010702614379084967, 
+                0.010021786492374727, 
+                0.3235838779956427
+            ], 
+            "key_words": [
+                "scorpio", 
+                "scorpion", 
+                "zodiac"
+            ], 
+            "actual_name": "Scorpius", 
+            "file_path": "Images/DCM/264f.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0031862745098039215, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2650.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002650", 
+            "channel_values": [
+                0.1931644880174292, 
+                0.007924836601307191, 
+                0.012799564270152506
+            ], 
+            "key_words": [
+                "archer", 
+                "zodiac"
+            ], 
+            "actual_name": "Sagittarius", 
+            "file_path": "Images/DCM/2650.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0030501089324618735, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2651.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002651", 
+            "channel_values": [
+                0.23050108932461874, 
+                0.14139433551198258, 
+                0.012772331154684097
+            ], 
+            "key_words": [
+                "goat", 
+                "zodiac"
+            ], 
+            "actual_name": "Capricorn", 
+            "file_path": "Images/DCM/2651.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002886710239651416, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2652.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002652", 
+            "channel_values": [
+                0.012227668845315903, 
+                0.16563180827886712, 
+                0.014651416122004357
+            ], 
+            "key_words": [
+                "bearer", 
+                "water", 
+                "zodiac"
+            ], 
+            "actual_name": "Aquarius", 
+            "file_path": "Images/DCM/2652.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003159041394335512, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2653.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002653", 
+            "channel_values": [
+                0.009395424836601309, 
+                0.009613289760348583, 
+                0.2023420479302832
+            ], 
+            "key_words": [
+                "fish", 
+                "zodiac"
+            ], 
+            "actual_name": "Pisces", 
+            "file_path": "Images/DCM/2653.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0022603485838779956, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2660.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002660", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "card", 
+                "game"
+            ], 
+            "actual_name": "spade suit", 
+            "file_path": "Images/DCM/2660.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0027233115468409583, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2663.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002663", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "card", 
+                "game"
+            ], 
+            "actual_name": "club suit", 
+            "file_path": "Images/DCM/2663.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002478213507625272, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2665.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002665", 
+            "channel_values": [
+                0.37026143790849675, 
+                0.008877995642701525, 
+                0.016557734204793027
+            ], 
+            "key_words": [
+                "card", 
+                "game"
+            ], 
+            "actual_name": "heart suit", 
+            "file_path": "Images/DCM/2665.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003022875816993464, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2666.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002666", 
+            "channel_values": [
+                0.2344226579520697, 
+                0.007107843137254902, 
+                0.013180827886710239
+            ], 
+            "key_words": [
+                "card", 
+                "game"
+            ], 
+            "actual_name": "diamond suit", 
+            "file_path": "Images/DCM/2666.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029684095860566446, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2668.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002668", 
+            "channel_values": [
+                0.24863834422657952, 
+                0.008278867102396514, 
+                0.017483660130718955
+            ], 
+            "key_words": [
+                "hot", 
+                "hotsprings", 
+                "springs", 
+                "steaming"
+            ], 
+            "actual_name": "hot springs", 
+            "file_path": "Images/DCM/2668.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002233115468409586, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/267b.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x000267b", 
+            "channel_values": [
+                0.011710239651416121, 
+                0.2630718954248366, 
+                0.013807189542483661
+            ], 
+            "key_words": [
+                "recycle"
+            ], 
+            "actual_name": "recycling symbol", 
+            "file_path": "Images/DCM/267b.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003022875816993464, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/267f.jpg", 
+            "year_introduced": "2005", 
             "html_name": "&#x000267f", 
+            "channel_values": [
+                0.011056644880174292, 
+                0.009477124183006535, 
+                0.23782679738562093
+            ], 
+            "key_words": [
+                "access"
+            ], 
+            "actual_name": "wheelchair symbol", 
+            "file_path": "Images/DCM/267f.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029411764705882353, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/26a0.jpg", 
+            "year_introduced": "2003", 
             "html_name": "&#x00026a0", 
+            "channel_values": [
+                0.255718954248366, 
+                0.1568082788671024, 
+                0.013997821350762527
+            ], 
+            "key_words": [
+                "warning"
+            ], 
+            "actual_name": "warning", 
+            "file_path": "Images/DCM/26a0.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029411764705882353, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/26a1.jpg", 
+            "year_introduced": "2003", 
             "html_name": "&#x00026a1", 
+            "channel_values": [
+                0.25449346405228757, 
+                0.15612745098039216, 
+                0.012636165577342049
+            ], 
+            "key_words": [
+                "danger", 
+                "electric", 
+                "electricity", 
+                "lightning", 
+                "voltage", 
+                "zap"
+            ], 
+            "actual_name": "high voltage", 
+            "file_path": "Images/DCM/26a1.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003622004357298475, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/26bd.jpg", 
+            "year_introduced": "2009", 
             "html_name": "&#x00026bd", 
+            "channel_values": [
+                0.3002450980392157, 
+                0.3002450980392157, 
+                0.3002450980392157
+            ], 
+            "key_words": [
+                "ball", 
+                "football", 
+                "soccer"
+            ], 
+            "actual_name": "soccer ball", 
+            "file_path": "Images/DCM/26bd.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003458605664488017, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/26be.jpg", 
+            "year_introduced": "2009", 
             "html_name": "&#x00026be", 
+            "channel_values": [
+                0.45108932461873635, 
+                0.45108932461873635, 
+                0.45108932461873635
+            ], 
+            "key_words": [
+                "ball"
+            ], 
+            "actual_name": "baseball", 
+            "file_path": "Images/DCM/26be.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.004302832244008715, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/26c4.jpg", 
+            "year_introduced": "2009", 
             "html_name": "&#x00026c4", 
+            "channel_values": [
+                0.3504084967320262, 
+                0.3496459694989107, 
+                0.5538398692810457
+            ], 
+            "key_words": [
+                "cold", 
+                "snow", 
+                "snowman"
+            ], 
+            "actual_name": "snowman without snow", 
+            "file_path": "Images/DCM/26c4.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0065904139433551195, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/26f3.jpg", 
+            "year_introduced": "2009", 
             "html_name": "&#x00026f3", 
+            "channel_values": [
+                0.034640522875816995, 
+                0.03469498910675381, 
+                0.2963235294117647
+            ], 
+            "key_words": [
+                "golf", 
+                "hole"
+            ], 
+            "actual_name": "flag in hole", 
+            "file_path": "Images/DCM/26f3.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.006318082788671024, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/26f5.jpg", 
+            "year_introduced": "2009", 
             "html_name": "&#x00026f5", 
+            "channel_values": [
+                0.047058823529411764, 
+                0.04940087145969499, 
+                0.349400871459695
+            ], 
+            "key_words": [
+                "boat", 
+                "resort", 
+                "sea", 
+                "yacht"
+            ], 
+            "actual_name": "sailboat", 
+            "file_path": "Images/DCM/26f5.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002505446623093682, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/26fd.jpg", 
+            "year_introduced": "2009", 
             "html_name": "&#x00026fd", 
+            "channel_values": [
+                0.2982570806100218, 
+                0.15051742919389977, 
+                0.3659313725490196
+            ], 
+            "key_words": [
+                "fuel", 
+                "fuelpump", 
+                "gas", 
+                "pump", 
+                "station"
+            ], 
+            "actual_name": "fuel pump", 
+            "file_path": "Images/DCM/26fd.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002886710239651416, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2702.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002702", 
+            "channel_values": [
+                0.011165577342047931, 
+                0.009586056644880174, 
+                0.2699074074074074
+            ], 
+            "key_words": [
+                "cutting", 
+                "tool"
+            ], 
+            "actual_name": "scissors", 
+            "file_path": "Images/DCM/2702.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002832244008714597, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2708.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002708", 
+            "channel_values": [
+                0.010266884531590413, 
+                0.009586056644880174, 
+                0.284041394335512
+            ], 
+            "key_words": [
+                "aeroplane", 
+                "airplane"
+            ], 
+            "actual_name": "airplane", 
+            "file_path": "Images/DCM/2708.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0029411764705882353, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2709.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002709", 
+            "channel_values": [
+                0.41683006535947714, 
+                0.41683006535947714, 
+                0.41683006535947714
+            ], 
+            "key_words": [
+                "email", 
+                "letter"
+            ], 
+            "actual_name": "envelope", 
+            "file_path": "Images/DCM/2709.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002777777777777778, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/270a.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x000270a", 
+            "channel_values": [
+                0.29754901960784313, 
+                0.18161764705882352, 
+                0.014869281045751633
+            ], 
+            "key_words": [
+                "clenched", 
+                "fist", 
+                "hand", 
+                "punch"
+            ], 
+            "actual_name": "raised fist", 
+            "file_path": "Images/DCM/270a.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.00261437908496732, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/270b.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x000270b", 
+            "channel_values": [
+                0.3374183006535948, 
+                0.20563725490196078, 
+                0.01511437908496732
+            ], 
+            "key_words": [
+                "hand"
+            ], 
+            "actual_name": "raised hand", 
+            "file_path": "Images/DCM/270b.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0026688453159041396, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/270c.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x000270c", 
+            "channel_values": [
+                0.32584422657952067, 
+                0.1985838779956427, 
+                0.012091503267973857
+            ], 
+            "key_words": [
+                "hand", 
+                "v", 
+                "victory"
+            ], 
+            "actual_name": "victory hand", 
+            "file_path": "Images/DCM/270c.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.002696078431372549, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/270f.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x000270f", 
+            "channel_values": [
+                0.013507625272331155, 
+                0.19400871459694988, 
+                0.01639433551198257
+            ], 
+            "key_words": [
+                "pencil"
+            ], 
+            "actual_name": "pencil", 
+            "file_path": "Images/DCM/270f.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.004248366013071895, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2712.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002712", 
+            "channel_values": [
+                0.376797385620915, 
+                0.376797385620915, 
+                0.376797385620915
+            ], 
+            "key_words": [
+                "nib", 
+                "pen"
+            ], 
+            "actual_name": "black nib", 
+            "file_path": "Images/DCM/2712.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0033769063180827887, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2728.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x0002728", 
+            "channel_values": [
+                0.14891067538126362, 
+                0.09104030501089325, 
+                0.013725490196078431
+            ], 
+            "key_words": [
+                "sparkle", 
+                "star"
+            ], 
+            "actual_name": "sparkles", 
+            "file_path": "Images/DCM/2728.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0034041394335511985, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2757.jpg", 
+            "year_introduced": "2009", 
             "html_name": "&#x0002757", 
+            "channel_values": [
+                0.13657407407407407, 
+                0.005691721132897603, 
+                0.009831154684095861
+            ], 
+            "key_words": [
+                "exclamation", 
+                "mark", 
+                "punctuation"
+            ], 
+            "actual_name": "exclamation mark", 
+            "file_path": "Images/DCM/2757.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.005473856209150326, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2764.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0002764", 
+            "channel_values": [
+                0.5641612200435729, 
+                0.0414760348583878, 
+                0.04569716775599129
+            ], 
+            "key_words": [
+                "heart"
+            ], 
+            "actual_name": "red heart", 
+            "file_path": "Images/DCM/2764.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003431372549019608, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/27b0.jpg", 
+            "year_introduced": "2010", 
             "html_name": "&#x00027b0", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "curl", 
+                "loop"
+            ], 
+            "actual_name": "curly loop", 
+            "file_path": "Images/DCM/27b0.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0031862745098039215, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2934.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0002934", 
+            "channel_values": [
+                0.19245642701525054, 
+                0.005936819172113289, 
+                0.013943355119825708
+            ], 
+            "key_words": [
+                "arrow"
+            ], 
+            "actual_name": "right arrow curving up", 
+            "file_path": "Images/DCM/2934.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0031862745098039215, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/2935.jpg", 
+            "year_introduced": "2002", 
             "html_name": "&#x0002935", 
+            "channel_values": [
+                0.009477124183006535, 
+                0.008741830065359477, 
+                0.19526143790849673
+            ], 
+            "key_words": [
+                "arrow", 
+                "down"
+            ], 
+            "actual_name": "right arrow curving down", 
+            "file_path": "Images/DCM/2935.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.003594771241830065, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/3030.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0003030", 
+            "channel_values": [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "key_words": [
+                "dash", 
+                "punctuation", 
+                "wavy"
+            ], 
+            "actual_name": "wavy dash", 
+            "file_path": "Images/DCM/3030.jpg", 
             "size": [
                 12, 
                 12
             ]
         }, 
         {
-            "channel_values": 0.0019880174291938995, 
             "number_of_combined_emojis": 1, 
-            "file_path": "Images/DCM/3299.jpg", 
+            "year_introduced": "1995", 
             "html_name": "&#x0003299", 
+            "channel_values": [
+                0.4914760348583878, 
+                0.008387799564270153, 
+                0.014161220043572984
+            ], 
+            "key_words": [
+                "secret", 
+                "ideograph", 
+                "Japanese", 
+                ""
+            ], 
+            "actual_name": "Japanese \u201csecret\u201d button", 
+            "file_path": "Images/DCM/3299.jpg", 
             "size": [
                 12, 
                 12

@@ -7,18 +7,20 @@ from robobrowser import RoboBrowser
 
 def process_base_64_file(file_name,
                          base64_image):
-    with open("Images/%s.jpg" % file_name, 'w') as f:
+    with open("Images/%s.png" % file_name, 'w') as f:
         f.write(base64.b64decode(base64_image));        
 
+def company_names():
+    return ["Brow", "Chart",
+            "Appl", "Goog",
+            "Twtr", "One",
+            "FB","FBM",
+            "Sams","Wind",
+            "GMail","SB",
+            "DCM","KDDI"]
+
 def get_company_name(i):
-    names = ["Brow", "Chart",
-             "Appl", "Goog",
-             "Twtr", "One",
-             "FB","FBM",
-             "Sams","Wind",
-             "GMail","SB",
-             "DCM","KDDI"]
-    return names[i - 2];
+    return company_names()[i - 2];
 
 # Crawls the unicode website to get all images.
 def fetch_from_the_unicode_website():
@@ -27,16 +29,23 @@ def fetch_from_the_unicode_website():
     bs.open('http://unicode.org/emoji/charts/full-emoji-list.html')
     table_rows = bs.find_all("tr");
     print "Number of Rows %d" % len(table_rows);
+    meta_data_dictionary = {};
     for row in table_rows:
 
         row_cols = row.find_all("td");
         if len(row_cols) == 0:
             continue;
-
-        print "number of Cols: %d" % len(row_cols);
         
         unicode_name = row_cols[1].find("a").attrs["name"];
-        print unicode_name
+
+        meta_data_dictionary[unicode_name] = {
+            'actual_name': row_cols[16].contents[0],
+            'year_introduced': row_cols[17].contents[0][:4],
+            'key_words': map(lambda x : x.contents[0].encode(
+                'ascii', 'ignore'),
+                             row_cols[18].find_all("a"))
+            }
+
         for i in range(2,len(row_cols)):
             images = row_cols[i].find_all("img");
             if len(images) == 0:
@@ -47,7 +56,19 @@ def fetch_from_the_unicode_website():
                 "%s/%s" % (get_company_name(i), unicode_name) , 
                 base64_value);
 
+    # Write Cross Company MetaData to file.
+    with open("MetaDataInfo.json", "w") as f_meta:
+        f_meta.write(json.dumps(
+            meta_data_dictionary,
+            sort_keys = True,
+            indent = 4));
+
+    # Convert all Images to .jpg.
+    for company in company_names():
+        os.system("mogrify -flatten -format jpg Images/%s/*.png -quality 99"
+                  % company)
+        os.system("rm Images/%s/*.png" % company)
 
 if __name__ == "__main__":
     print "Fetching"
-    fetch_from_unicode_website();
+    fetch_from_the_unicode_website();
