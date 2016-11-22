@@ -154,17 +154,3 @@ def jpg_to_emoji(
     link = "https://s3.amazonaws.com/jpg-to-emoji/%s" % output_html
     print "Link to view: %s" % link    
     
-def main():
-    jpg_to_emoji(
-        original_image = "../Resources/Israel.jpg",
-        work_location = "/tmp/Emojis",
-        output_html = "Israel.html",
-        company_name = "Appl",
-        emojis_in_width = 60,
-        emoji_font_size = 5,
-        do_preprocessing = False);
-                 
-    # upload_file("Poland");
-    
-if __name__ == "__main__":
-    main();
