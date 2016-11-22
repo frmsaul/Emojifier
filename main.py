@@ -5,21 +5,15 @@ from google.apputils import app
 
 FLAGS = gflags.FLAGS
 
-# Flag names are globally defined!  So in general, we need to be
-# careful to pick names that are unlikely to be used by other libraries.
-# If there is a conflict, we'll get an error at import time.
 gflags.DEFINE_string('src_image',
                      '',
                      'the image you want to transform')
-
 gflags.DEFINE_string('work_location',
                      "/tmp/Emojis",
                      'the location where the emojis will be generated')
-
 gflags.DEFINE_string('output_html',
                      'output.html',
                      'The output html')
-
 gflags.DEFINE_enum('company',
                    'Appl',
                    ["Brow", "Chart",
@@ -30,21 +24,14 @@ gflags.DEFINE_enum('company',
                     "GMail","SB",
                     "DCM","KDDI"],
                    'the emoji implementation')
-
 gflags.DEFINE_integer('emojis_in_width',
                       60,
                       'Number of emojis to compose',
                       lower_bound=0)
-
 gflags.DEFINE_integer('font_size',
                       5,
                       'The font size in the resulting html',
                       lower_bound=0)
-
-gflags.DEFINE_boolean('debug',
-                      False,
-                      'produces debugging output')
-
 gflags.DEFINE_boolean('do_preprocessing',
                       False,
                       'should you refetch the emojis')
