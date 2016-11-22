@@ -5,6 +5,8 @@ from numpy import linalg as LA
 import json
 import os
 
+import PreProcessor.PreProcessor as PreProcessor
+
 ## Uses a Brute force solution to find the single emoji that most
 ## resembles the image.
 def get_closest_emoji(img,
@@ -149,11 +151,16 @@ def jpg_to_emoji(
     print "Link to view: %s" % link    
     
 def main():
-    jpg_to_emoji(original_image = "../Resources/Donald.jpg",
-                 work_location = "/tmp/Emojis",
-                 output_html = "Donald.html",
+    current_work_location = "/tmp/Emojis";
+    do_preprocessing = True;
+    if (do_preprocessing):
+        PreProcessor.preprocess_emojis(current_work_location);
+    
+    jpg_to_emoji(original_image = "../Resources/Israel.jpg",
+                 work_location = current_work_location,
+                 output_html = "Israel.html",
                  company_name = "Appl",
-                 emojis_in_width = 240,
+                 emojis_in_width = 60,
                  emoji_font_size = 5);
                  
     # upload_file("Poland");
