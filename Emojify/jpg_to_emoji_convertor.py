@@ -128,7 +128,11 @@ def jpg_to_emoji(
         output_html,
         company_name,
         emojis_in_width,
-        emoji_font_size):
+        emoji_font_size,
+        do_preprocessing):
+    
+    if (do_preprocessing):
+        PreProcessor.preprocess_emojis(work_location);
     
     emoji_list = get_filtered_emoji_list(work_location, company_name)
     valid_emojis_dict = {"emojis": emoji_list};
@@ -151,17 +155,14 @@ def jpg_to_emoji(
     print "Link to view: %s" % link    
     
 def main():
-    current_work_location = "/tmp/Emojis";
-    do_preprocessing = True;
-    if (do_preprocessing):
-        PreProcessor.preprocess_emojis(current_work_location);
-    
-    jpg_to_emoji(original_image = "../Resources/Israel.jpg",
-                 work_location = current_work_location,
-                 output_html = "Israel.html",
-                 company_name = "Appl",
-                 emojis_in_width = 60,
-                 emoji_font_size = 5);
+    jpg_to_emoji(
+        original_image = "../Resources/Israel.jpg",
+        work_location = "/tmp/Emojis",
+        output_html = "Israel.html",
+        company_name = "Appl",
+        emojis_in_width = 60,
+        emoji_font_size = 5,
+        do_preprocessing = False);
                  
     # upload_file("Poland");
     
