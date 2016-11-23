@@ -2,6 +2,7 @@ from Emojify.jpg_to_emoji_convertor import jpg_to_emoji
 
 import gflags
 import wget
+import os
 from google.apputils import app
 
 FLAGS = gflags.FLAGS
@@ -48,6 +49,7 @@ def main(argv):
         wget.download(FLAGS.src_image, out=tmp_file_name);
     else:
         tmp_file_name = FLAGS.src_image
+
     jpg_to_emoji(
         original_image = tmp_file_name,
         work_location = FLAGS.work_location,
@@ -56,6 +58,12 @@ def main(argv):
         emojis_in_width = FLAGS.emojis_in_width,
         emoji_font_size = FLAGS.font_size,
         do_preprocessing = FLAGS.do_preprocessing);
+
+    # Write into AWS s3. Used by Saul for debugging.
+    os.system("aws s3 cp %s s3://jpg-to-emoji --region us-east-1" %
+              FLAGS.output_html);
+    link = "https://s3.amazonaws.com/jpg-to-emoji/%s" % FLAGS.output_html
+    print "Link to view: %s" % link    
 
 if __name__ == '__main__':
   app.run()

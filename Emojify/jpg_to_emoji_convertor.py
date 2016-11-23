@@ -3,7 +3,6 @@ import numpy as np
 from numpy import linalg as LA
 
 import json
-import os
 
 import PreProcessor.PreProcessor as PreProcessor
 
@@ -74,6 +73,8 @@ def image_to_emoji_grid(original,
             emoji_grid[row].append(mapping(grid_section))
     return emoji_grid; 
 
+# Given a grid of emojis, this will produce an html file in the file_name
+# location. The emoji font size would be set to font_size.
 def emoji_grid_to_html_file(emoji_grid,
                             file_name,
                             font_size):
@@ -104,6 +105,8 @@ def emoji_grid_to_html_file(emoji_grid,
         f.write("</div> </body>")
         f.write("</html>")
 
+# Return a list of filtered emojis. Some emojis didn't make the list, either
+# because they look ugly, or they arent widely supported. 
 def get_filtered_emoji_list(work_location,
                             company_name):
     def emoji_isnt_too_new(emoji):
@@ -122,6 +125,8 @@ def get_filtered_emoji_list(work_location,
                       emoji_isnt_blood_type(x),
                       all_emojis["emojis"]);
 
+# Most important function in this file.
+# Takes care of the conversion process. 
 def jpg_to_emoji(
         original_image,
         work_location,
@@ -147,10 +152,4 @@ def jpg_to_emoji(
     # Write into local html file.
     emoji_grid_to_html_file(emoji_grid,
                             output_html,
-                            emoji_font_size);
-
-    # Write into AWS s3
-    os.system("aws s3 cp %s s3://jpg-to-emoji --region us-east-1" % output_html);
-    link = "https://s3.amazonaws.com/jpg-to-emoji/%s" % output_html
-    print "Link to view: %s" % link    
-    
+                            emoji_font_size);    
