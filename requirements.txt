@@ -60,4 +60,5 @@ traitlets==4.2.2
 Wand==0.4.4
 wcwidth==0.1.7
 Werkzeug==0.11.11
+wget==3.2
 widgetsnbextension==1.2.6

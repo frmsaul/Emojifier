@@ -1,6 +1,7 @@
 from Emojify.jpg_to_emoji_convertor import jpg_to_emoji
 
 import gflags
+import wget
 from google.apputils import app
 
 FLAGS = gflags.FLAGS
@@ -41,8 +42,14 @@ def main(argv):
         print "src_image can't be empty"
         return 1;
 
+    if(FLAGS.src_image.startswith("http")):
+        # Download image
+        tmp_file_name = "/tmp/%s" % (FLAGS.src_image.split("/")[-1])
+        wget.download(FLAGS.src_image, out=tmp_file_name);
+    else:
+        tmp_file_name = FLAGS.src_image
     jpg_to_emoji(
-        original_image = FLAGS.src_image,
+        original_image = tmp_file_name,
         work_location = FLAGS.work_location,
         output_html = FLAGS.output_html,
         company_name = FLAGS.company,
