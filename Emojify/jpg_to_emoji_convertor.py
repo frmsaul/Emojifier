@@ -50,9 +50,8 @@ def get_closest_emoji(img,
         print json.dumps(min_emoji,
                          indent = 4)
         print "============="
-    
-    return (min_emoji["actual_name"].encode('ascii', 'ignore'),
-            min_emoji["html_name"].encode('ascii', 'ignore'))
+
+    return min_emoji
 
 # Given an image, the function returns a two dimensional array
 # of emojis that ressemble the image.
@@ -98,8 +97,10 @@ def emoji_grid_to_html_file(emoji_grid,
         f.write("<body> <div>")
         for row in emoji_grid:
             for emoji in row:
-                f.write("""<span class = \"emoji\" title = \"%s\">%s</span>""" %
-                        emoji);
+                f.write("<span class = \"emoji\""
+                        "title = \"%s\">%s</span>" %
+                        (emoji["actual_name"].encode('ascii', 'ignore'),
+                         emoji["html_name"].encode('ascii', 'ignore')));
             f.write("<br />")
 
         f.write("</div> </body>")
@@ -114,6 +115,9 @@ def get_filtered_emoji_list(work_location,
 
     def emoji_isnt_blood_type(emoji):
         return "blood type" not in emoji["key_words"]
+
+    def emoji_isnt_white_small_square(emoji):
+        return emoji["actual_name"] != "white small square"
     
     with open("%s/%s/EmojisMetaData.json" %
               (work_location, company_name),
@@ -122,7 +126,8 @@ def get_filtered_emoji_list(work_location,
     
         return filter(lambda x:
                       emoji_isnt_too_new(x) and
-                      emoji_isnt_blood_type(x),
+                      emoji_isnt_blood_type(x) and
+                      emoji_isnt_white_small_square(x),
                       all_emojis["emojis"]);
 
 # Most important function in this file.
