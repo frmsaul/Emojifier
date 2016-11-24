@@ -61,15 +61,24 @@ def image_to_emoji_grid(original,
     height, width, rgb_channels = original.shape
     print (height, width, rgb_channels)
     square_size = width / horizontal_grid_size;
-    emoji_grid = []
-    for row in range(height / square_size):
-        emoji_grid.append([])
-        for col in range(horizontal_grid_size):
-            grid_section = original[
-                row * square_size : (row + 1) * square_size,
-                col * square_size : (col + 1) * square_size,
-                ::]
-            emoji_grid[row].append(mapping(grid_section))
+    vertical_grid_size = height / square_size
+
+    # Pre allocated list 
+    emoji_grid = [[None for col in range(horizontal_grid_size)]
+                  for row in range(vertical_grid_size)]
+    positions_to_process = [(row,col) for col in range(horizontal_grid_size)
+                            for row in range(vertical_grid_size)]
+    
+    def assign_emoji(row_col_tuple):
+        (row, col) = row_col_tuple
+        grid_section = original[
+            row * square_size : (row + 1) * square_size,
+            col * square_size : (col + 1) * square_size,
+            ::]
+        emoji_grid[row][col] = mapping(grid_section)
+
+    map(assign_emoji, positions_to_process);
+    
     return emoji_grid; 
 
 # Given a grid of emojis, this will produce an html file in the file_name
@@ -112,12 +121,30 @@ def get_filtered_emoji_list(work_location,
                             company_name):
     def emoji_isnt_too_new(emoji):
         return emoji["year_introduced"] != "2016";
-
+    
+    def emoji_isnt_too_old(emoji):
+        return emoji["year_introduced"] != "1995";
+    
     def emoji_isnt_blood_type(emoji):
         return "blood type" not in emoji["key_words"]
 
-    def emoji_isnt_white_small_square(emoji):
-        return emoji["actual_name"] != "white small square"
+    def emoji_isnt_a_square(emoji):
+        return (emoji["actual_name"] != "white small square" and
+                emoji["actual_name"] != "black medium square" and
+                emoji["actual_name"] != "black small square" and
+                emoji["actual_name"] != "white medium square")
+    
+    def emoji_isnt_japanese_alphabet(emoji):
+        return ("katakana" not in emoji["key_words"] and
+                "ideograph" not in emoji["key_words"])
+    
+    def emoji_isnt_bullshit(emoji):
+        return ("information" != emoji["actual_name"] and
+                "warning" != emoji["actual_name"] and
+                "baseball" != emoji["actual_name"])
+
+    def emoji_isnt_punctioation(emoji):
+        return "punctuation" not in emoji["key_words"]
     
     with open("%s/%s/EmojisMetaData.json" %
               (work_location, company_name),
@@ -127,7 +154,11 @@ def get_filtered_emoji_list(work_location,
         return filter(lambda x:
                       emoji_isnt_too_new(x) and
                       emoji_isnt_blood_type(x) and
-                      emoji_isnt_white_small_square(x),
+                      emoji_isnt_a_square(x) and
+                      emoji_isnt_too_old(x) and
+                      emoji_isnt_japanese_alphabet(x) and
+                      emoji_isnt_bullshit(x) and
+                      emoji_isnt_punctioation,
                       all_emojis["emojis"]);
 
 # Most important function in this file.
