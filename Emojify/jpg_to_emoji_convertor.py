@@ -5,80 +5,41 @@ from numpy import linalg as LA
 import json
 
 import PreProcessor.PreProcessor as PreProcessor
-
-## Uses a Brute force solution to find the single emoji that most
-## resembles the image.
-def get_closest_emoji(img,
-                      emoji_dict = None,
-                      verbose = False):
-
-    def l2_metric(v1, v2):
-        return ((v1[0] - v2[0])**2
-                + (v1[1] - v2[1])**2
-                + (v1[2] - v2[2])**2)
-
-    def l1_metric(v1, v2):
-        return (abs(v1[0] - v2[0])
-                + abs(v1[1] - v2[1])
-                + abs(v1[2] - v2[2]))
-
-    total_image_size = img.shape[0] * img.shape[1];
-    color_sums = np.sum(img, axis=(0,1));
-
-    channel_values  = (color_sums / (float(total_image_size) * 255.0) );
-    ## Find best emoji index
-    min_emoji = min(
-        emoji_dict["emojis"],
-        key = lambda x:
-           l1_metric(x["channel_values"], channel_values)
-    )
-    if verbose:
-        # Used for Debugging
-        def get_rgb_hex(color_array):
-            hex_array = map(lambda num:
-                            hex(int(num * 255))[2:],
-                            color_array)
-            concat = reduce(
-                lambda x,y: x + y, hex_array);
-            return concat
-
-        rgb_channel_values = get_rgb_hex(channel_values)
-        print rgb_channel_values
-        print channel_values
-        print "Min Emoji"
-        print get_rgb_hex(min_emoji["channel_values"])
-        print json.dumps(min_emoji,
-                         indent = 4)
-        print "============="
-
-    return min_emoji
+import EmojiMapper
 
 # Given an image, the function returns a two dimensional array
 # of emojis that ressemble the image.
 def image_to_emoji_grid(original,
                         horizontal_grid_size,
-                        mapping):
+                        emoji_mapper):
     height, width, rgb_channels = original.shape
     print (height, width, rgb_channels)
     square_size = width / horizontal_grid_size;
     vertical_grid_size = height / square_size
 
     # Pre allocated list 
-    emoji_grid = [[None for col in range(horizontal_grid_size)]
-                  for row in range(vertical_grid_size)]
-    positions_to_process = [(row,col) for col in range(horizontal_grid_size)
+    squares_to_process = [original[
+        row * square_size : (row + 1) * square_size,
+        col * square_size : (col + 1) * square_size,
+        ::]
+                            for col in range(horizontal_grid_size)
                             for row in range(vertical_grid_size)]
     
-    def assign_emoji(row_col_tuple):
-        (row, col) = row_col_tuple
-        grid_section = original[
-            row * square_size : (row + 1) * square_size,
-            col * square_size : (col + 1) * square_size,
-            ::]
-        emoji_grid[row][col] = mapping(grid_section)
-
-    map(assign_emoji, positions_to_process);
+    emojis = map(emoji_mapper.get_closest_emoji, squares_to_process);
+    print "Done Peralllel"
     
+    # We now need to reshape the emojis.
+    emoji_grid = [[None for col in range(horizontal_grid_size)]
+                  for row in range(vertical_grid_size)]
+
+    for row in range(vertical_grid_size):
+        for col in range(horizontal_grid_size):
+            emoji_grid[row][col] = (
+                emojis[col * vertical_grid_size + row])
+
+    print len(emoji_grid), len(emoji_grid[0])
+    print vertical_grid_size, horizontal_grid_size
+            
     return emoji_grid; 
 
 # Given a grid of emojis, this will produce an html file in the file_name
@@ -158,7 +119,7 @@ def get_filtered_emoji_list(work_location,
                       emoji_isnt_too_old(x) and
                       emoji_isnt_japanese_alphabet(x) and
                       emoji_isnt_bullshit(x) and
-                      emoji_isnt_punctioation,
+                      emoji_isnt_punctioation(x),
                       all_emojis["emojis"]);
 
 # Most important function in this file.
@@ -178,12 +139,11 @@ def jpg_to_emoji(
     emoji_list = get_filtered_emoji_list(work_location, company_name)
     valid_emojis_dict = {"emojis": emoji_list};
 
+
+    emoji_mapper = EmojiMapper.EmojiMapper(emoji_dict = valid_emojis_dict)
     emoji_grid = image_to_emoji_grid(misc.imread(original_image),
                                      emojis_in_width,
-                                     lambda x:
-                                     get_closest_emoji(
-                                         x,
-                                         emoji_dict = valid_emojis_dict))
+                                     emoji_mapper)
    
     # Write into local html file.
     emoji_grid_to_html_file(emoji_grid,
