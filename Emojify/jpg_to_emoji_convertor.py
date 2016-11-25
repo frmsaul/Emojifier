@@ -36,18 +36,15 @@ def image_to_emoji_grid(original,
         for col in range(horizontal_grid_size):
             emoji_grid[row][col] = (
                 emojis[col * vertical_grid_size + row])
-
-    print len(emoji_grid), len(emoji_grid[0])
-    print vertical_grid_size, horizontal_grid_size
             
     return emoji_grid; 
 
-# Given a grid of emojis, this will produce an html file in the file_name
+# Given a grid of emojis, this will produce an html file in the output_file_name
 # location. The emoji font size would be set to font_size.
 def emoji_grid_to_html_file(emoji_grid,
-                            file_name,
+                            output_file_name,
                             font_size):
-    with open(file_name, 'w') as f:
+    with open(output_file_name, 'w') as f:
         f.write("<html>");
         css = """
                  div {
@@ -76,6 +73,38 @@ def emoji_grid_to_html_file(emoji_grid,
         f.write("</div> </body>")
         f.write("</html>")
 
+# Given a grid of emojis, this will produce a jpg file in the file_name
+# location. The emoji font size would be set to font_size.
+def emoji_grid_to_image(emoji_grid,
+                        output_file_name,
+                        emoji_size):
+
+    emoji_file_to_np_array_dict = {}
+    def get_emoji_nparray(emoji_file_name):
+        if (emoji_file_to_np_array_dict.get(emoji_file_name) is
+            None):
+            emoji_np_array = misc.imresize(misc.imread(emoji_file_name),
+                                           size = (emoji_size, emoji_size))
+            emoji_file_to_np_array_dict[emoji_file_name] = emoji_np_array
+    
+        return emoji_file_to_np_array_dict[emoji_file_name]
+
+    np_arrays = map(lambda row:
+                    map(lambda emoji:
+                        get_emoji_nparray(emoji["file_path"]),
+                        row),
+                    emoji_grid)
+    
+    rows = map(lambda row: np.concatenate(row, axis = 1),
+               np_arrays)
+
+    image_array = np.concatenate(rows,
+                                 axis = 0)
+
+    # Write image to file
+    misc.imsave(output_file_name, image_array)
+    print 
+        
 # Return a list of filtered emojis. Some emojis didn't make the list, either
 # because they look ugly, or they arent widely supported. 
 def get_filtered_emoji_list(work_location,
@@ -106,7 +135,11 @@ def get_filtered_emoji_list(work_location,
 
     def emoji_isnt_punctioation(emoji):
         return "punctuation" not in emoji["key_words"]
-    
+
+    def emoji_has_standard_size(emoji):
+        return (emoji["size"][0] == 72 and
+                emoji["size"][1] == 72)
+        
     with open("%s/%s/EmojisMetaData.json" %
               (work_location, company_name),
               "r") as f:
@@ -119,7 +152,8 @@ def get_filtered_emoji_list(work_location,
                       emoji_isnt_too_old(x) and
                       emoji_isnt_japanese_alphabet(x) and
                       emoji_isnt_bullshit(x) and
-                      emoji_isnt_punctioation(x),
+                      emoji_isnt_punctioation(x) and
+                      emoji_has_standard_size(x),
                       all_emojis["emojis"]);
 
 # Most important function in this file.
@@ -127,10 +161,10 @@ def get_filtered_emoji_list(work_location,
 def jpg_to_emoji(
         original_image,
         work_location,
-        output_html,
+        output_file,
         company_name,
         emojis_in_width,
-        emoji_font_size,
+        emoji_size,
         do_preprocessing):
     
     if (do_preprocessing):
@@ -139,13 +173,21 @@ def jpg_to_emoji(
     emoji_list = get_filtered_emoji_list(work_location, company_name)
     valid_emojis_dict = {"emojis": emoji_list};
 
-
     emoji_mapper = EmojiMapper.EmojiMapper(emoji_dict = valid_emojis_dict)
     emoji_grid = image_to_emoji_grid(misc.imread(original_image),
                                      emojis_in_width,
                                      emoji_mapper)
    
-    # Write into local html file.
-    emoji_grid_to_html_file(emoji_grid,
-                            output_html,
-                            emoji_font_size);    
+    if (output_file.endswith(".html")):
+        # Write into local html file.
+        emoji_grid_to_html_file(emoji_grid,
+                                output_file,
+                                emoji_size);
+    elif(output_file.endswith(".png")):
+        # Write to png
+        emoji_grid_to_image(emoji_grid,
+                            output_file,
+                            emoji_size);
+    else:
+        print "UnknownFileName"
+        

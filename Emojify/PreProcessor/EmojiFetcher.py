@@ -72,11 +72,15 @@ def fetch_from_the_unicode_website(work_location):
             sort_keys = True,
             indent = 4));
 
-    # Convert all Images to .jpg.
+    # Convert all Images to RGB .jpg.
     for company in company_names():
         os.system("mogrify -flatten -format jpg %s/%s/*.png -quality 99"
                   % (work_location, company))
         os.system("rm %s/%s/*.png" % (work_location, company))
+        os.system("mogrify -colorspace sRGB -type truecolor %s/%s/*.jpg"
+                  % (work_location, company))
+
+        
 
 def fetch_files(work_location):
     create_work_directory(work_location)

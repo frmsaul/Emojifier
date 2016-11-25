@@ -13,9 +13,9 @@ gflags.DEFINE_string('src_image',
 gflags.DEFINE_string('work_location',
                      "/tmp/Emojis",
                      'the location where the emojis will be generated')
-gflags.DEFINE_string('output_html',
+gflags.DEFINE_string('output_file',
                      'output.html',
-                     'The output html')
+                     'The output file')
 gflags.DEFINE_enum('company',
                    'Appl',
                    ["Brow", "Chart",
@@ -30,9 +30,11 @@ gflags.DEFINE_integer('emojis_in_width',
                       60,
                       'Number of emojis to compose',
                       lower_bound=0)
-gflags.DEFINE_integer('font_size',
+gflags.DEFINE_integer('emoji_size',
                       5,
-                      'The font size in the resulting html',
+                      ('The font size in the resulting html.'
+                       'May also be the size in pixels of each emoji.'
+                       'outputed by the converter.'),
                       lower_bound=0)
 gflags.DEFINE_boolean('do_preprocessing',
                       False,
@@ -53,16 +55,16 @@ def main(argv):
     jpg_to_emoji(
         original_image = tmp_file_name,
         work_location = FLAGS.work_location,
-        output_html = FLAGS.output_html,
+        output_file = FLAGS.output_file,
         company_name = FLAGS.company,
         emojis_in_width = FLAGS.emojis_in_width,
-        emoji_font_size = FLAGS.font_size,
+        emoji_size = FLAGS.emoji_size,
         do_preprocessing = FLAGS.do_preprocessing);
 
     # Write into AWS s3. Used by Saul for debugging.
     os.system("aws s3 cp %s s3://jpg-to-emoji --region us-east-1" %
-              FLAGS.output_html);
-    link = "https://s3.amazonaws.com/jpg-to-emoji/%s" % FLAGS.output_html
+              FLAGS.output_file);
+    link = "https://s3.amazonaws.com/jpg-to-emoji/%s" % FLAGS.output_file
     print "Link to view: %s" % link    
 
 if __name__ == '__main__':
