@@ -165,7 +165,8 @@ def jpg_to_emoji(
         company_name,
         emojis_in_width,
         emoji_size,
-        do_preprocessing):
+        do_preprocessing,
+        use_kd_tree):
     
     if (do_preprocessing):
         PreProcessor.preprocess_emojis(work_location);
@@ -173,7 +174,8 @@ def jpg_to_emoji(
     emoji_list = get_filtered_emoji_list(work_location, company_name)
     valid_emojis_dict = {"emojis": emoji_list};
 
-    emoji_mapper = EmojiMapper.EmojiMapper(emoji_dict = valid_emojis_dict)
+    emoji_mapper = EmojiMapper.EmojiMapper(emoji_dict = valid_emojis_dict,
+                                           use_kd_tree = use_kd_tree)
     emoji_grid = image_to_emoji_grid(misc.imread(original_image),
                                      emojis_in_width,
                                      emoji_mapper)

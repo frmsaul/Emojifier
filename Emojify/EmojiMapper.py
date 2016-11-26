@@ -1,4 +1,5 @@
 import numpy as np
+import scipy.spatial as sp
 
 def l2_metric(v1, v2):
     return ((v1[0] - v2[0])**2
@@ -11,8 +12,15 @@ def l1_metric(v1, v2):
             + abs(v1[2] - v2[2]))
 
 class EmojiMapper:
-    def __init__(self, emoji_dict):
+    def __init__(self,
+                 emoji_dict,
+                 use_kd_tree):
         self.emoji_dict = emoji_dict
+        self.use_kd_tree = use_kd_tree
+        if(use_kd_tree):
+            data_points = map(lambda x: x["channel_values"],
+                              self.emoji_dict["emojis"])
+            self.kd_tree = sp.KDTree(data_points)
     
     # Given an image, returns the emoji that most ressembles it.
     def get_closest_emoji(self,
@@ -23,12 +31,18 @@ class EmojiMapper:
         color_sums = np.sum(img, axis=(0,1));
 
         channel_values  = (color_sums / (float(total_image_size) * 255.0) );
-        ## Find best emoji index
-        min_emoji = min(
-            self.emoji_dict["emojis"],
-            key = lambda x:
-            l1_metric(x["channel_values"], channel_values)
-        )
+        
+        ## Find best emoji.
+        if self.use_kd_tree:
+            distance_to_best, best_index = self.kd_tree.query(
+                channel_values)
+            min_emoji = self.emoji_dict["emojis"][best_index]
+        else:
+            min_emoji = min(
+                self.emoji_dict["emojis"],
+                key = lambda x:
+                l1_metric(x["channel_values"], channel_values)
+            )
         if verbose:
             # Used for Debugging
             def get_rgb_hex(color_array):

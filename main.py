@@ -39,6 +39,9 @@ gflags.DEFINE_integer('emoji_size',
 gflags.DEFINE_boolean('do_preprocessing',
                       False,
                       'should you refetch the emojis')
+gflags.DEFINE_boolean('use_kd_tree',
+                      False,
+                      'Use kd_tree instead of brute force.')
 
 def main(argv):
     if(len(FLAGS.src_image) == 0):
@@ -59,7 +62,8 @@ def main(argv):
         company_name = FLAGS.company,
         emojis_in_width = FLAGS.emojis_in_width,
         emoji_size = FLAGS.emoji_size,
-        do_preprocessing = FLAGS.do_preprocessing);
+        do_preprocessing = FLAGS.do_preprocessing,
+        use_kd_tree = FLAGS.use_kd_tree);
 
     # Write into AWS s3. Used by Saul for debugging.
     os.system("aws s3 cp %s s3://jpg-to-emoji --region us-east-1" %
