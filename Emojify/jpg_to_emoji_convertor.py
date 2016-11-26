@@ -3,6 +3,7 @@ import numpy as np
 from numpy import linalg as LA
 
 import json
+import time
 
 import PreProcessor.PreProcessor as PreProcessor
 import EmojiMapper
@@ -176,10 +177,15 @@ def jpg_to_emoji(
 
     emoji_mapper = EmojiMapper.EmojiMapper(emoji_dict = valid_emojis_dict,
                                            use_kd_tree = use_kd_tree)
+    t_before_getting_grid = time.time();
     emoji_grid = image_to_emoji_grid(misc.imread(original_image),
                                      emojis_in_width,
                                      emoji_mapper)
-   
+    t_after_getting_grid = time.time();
+
+    print("Time to Get Emoji grid: %s" %
+          str(t_after_getting_grid - t_before_getting_grid))
+    
     if (output_file.endswith(".html")):
         # Write into local html file.
         emoji_grid_to_html_file(emoji_grid,
@@ -192,4 +198,8 @@ def jpg_to_emoji(
                             emoji_size);
     else:
         print "UnknownFileName"
+        
+    t_after_getting_output_file = time.time();    
+    print("Time to Build output file: %s" %
+          str(t_after_getting_output_file - t_after_getting_grid))
         
