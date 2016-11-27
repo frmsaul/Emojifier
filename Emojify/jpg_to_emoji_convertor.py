@@ -74,20 +74,20 @@ def emoji_grid_to_html_file(emoji_grid,
         f.write("</div> </body>")
         f.write("</html>")
 
+emoji_file_to_np_array_dict = {}
+def get_emoji_nparray(emoji_file_name):
+    global emoji_file_to_np_array_dict;
+    if (emoji_file_to_np_array_dict.get(emoji_file_name) is
+        None):
+        emoji_np_array = misc.imresize(misc.imread(emoji_file_name),
+                                       size = (emoji_size, emoji_size))
+        emoji_file_to_np_array_dict[emoji_file_name] = emoji_np_array
+        
+    return emoji_file_to_np_array_dict[emoji_file_name]
+
 # Given a grid of emojis, this will produce a np array and return it.
 def emoji_grid_to_image(emoji_grid,
                         emoji_size):
-
-    emoji_file_to_np_array_dict = {}
-    def get_emoji_nparray(emoji_file_name):
-        if (emoji_file_to_np_array_dict.get(emoji_file_name) is
-            None):
-            emoji_np_array = misc.imresize(misc.imread(emoji_file_name),
-                                           size = (emoji_size, emoji_size))
-            emoji_file_to_np_array_dict[emoji_file_name] = emoji_np_array
-    
-        return emoji_file_to_np_array_dict[emoji_file_name]
-
     np_arrays = map(lambda row:
                     map(lambda emoji:
                         get_emoji_nparray(emoji["file_path"]),
