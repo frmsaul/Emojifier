@@ -74,10 +74,8 @@ def emoji_grid_to_html_file(emoji_grid,
         f.write("</div> </body>")
         f.write("</html>")
 
-# Given a grid of emojis, this will produce a jpg file in the file_name
-# location. The emoji font size would be set to font_size.
+# Given a grid of emojis, this will produce a np array and return it.
 def emoji_grid_to_image(emoji_grid,
-                        output_file_name,
                         emoji_size):
 
     emoji_file_to_np_array_dict = {}
@@ -103,8 +101,7 @@ def emoji_grid_to_image(emoji_grid,
                                  axis = 0)
 
     # Write image to file
-    misc.imsave(output_file_name, image_array)
-    print 
+    return image_array
         
 # Return a list of filtered emojis. Some emojis didn't make the list, either
 # because they look ugly, or they arent widely supported. 
@@ -193,9 +190,9 @@ def jpg_to_emoji(
                                 emoji_size);
     elif(output_file.endswith(".png")):
         # Write to png
-        emoji_grid_to_image(emoji_grid,
-                            output_file,
-                            emoji_size);
+        image_array = emoji_grid_to_image(emoji_grid,
+                                          emoji_size)
+        misc.imsave(output_file, image_array)
     else:
         print "UnknownFileName"
         
