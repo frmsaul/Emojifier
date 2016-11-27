@@ -74,8 +74,11 @@ def emoji_grid_to_html_file(emoji_grid,
         f.write("</div> </body>")
         f.write("</html>")
 
+# Makes sure we don't have to reload emojis from memory by using
+# memoization.
 emoji_file_to_np_array_dict = {}
-def get_emoji_nparray(emoji_file_name):
+def get_emoji_nparray(emoji_file_name,
+                      emoji_size):
     global emoji_file_to_np_array_dict;
     if (emoji_file_to_np_array_dict.get(emoji_file_name) is
         None):
@@ -88,20 +91,23 @@ def get_emoji_nparray(emoji_file_name):
 # Given a grid of emojis, this will produce a np array and return it.
 def emoji_grid_to_image(emoji_grid,
                         emoji_size):
-    np_arrays = map(lambda row:
-                    map(lambda emoji:
-                        get_emoji_nparray(emoji["file_path"]),
-                        row),
-                    emoji_grid)
-    
-    rows = map(lambda row: np.concatenate(row, axis = 1),
-               np_arrays)
-
-    image_array = np.concatenate(rows,
-                                 axis = 0)
-
-    # Write image to file
-    return image_array
+    if (len(emoji_grid) == 0):
+        print "Shouldn't happen"
+    elif (len(emoji_grid) == 1):
+        np_arrays = map(lambda emoji:
+                        get_emoji_nparray(emoji["file_path"], emoji_size),
+                        emoji_grid[0])
+        return np.concatenate(np_arrays, axis = 1)
+    else: # Divide and conqure.
+        mid = len(emoji_grid) / 2
+        part_1 = emoji_grid_to_image(emoji_grid[:mid],
+                                     emoji_size)
+        part_2 = emoji_grid_to_image(emoji_grid[mid:],
+                                     emoji_size)
+        image_array = np.concatenate((part_1, part_2),
+                                     axis = 0)
+        # Write image to file
+        return image_array
         
 # Return a list of filtered emojis. Some emojis didn't make the list, either
 # because they look ugly, or they arent widely supported. 
