@@ -80,10 +80,10 @@ def main(argv):
             use_kd_tree = FLAGS.use_kd_tree);
 
     # Write into AWS s3. Used by Saul for debugging.
-    #os.system("aws s3 cp %s s3://jpg-to-emoji --region us-east-1" %
-    #        FLAGS.output_file);
-    #link = "https://s3.amazonaws.com/jpg-to-emoji/%s" % FLAGS.output_file
-    #print "Link to view: %s" % link    
+    os.system("aws s3 cp %s s3://jpg-to-emoji --region us-east-1" %
+              FLAGS.output_file);
+    link = "https://s3.amazonaws.com/jpg-to-emoji/%s" % FLAGS.output_file
+    print "Link to view: %s" % link    
 
 if __name__ == '__main__':
   app.run()
