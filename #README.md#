@@ -41,5 +41,16 @@ Where the flags are specified here:
   --work_location: the location where the emojis will be generated
     (default: '/tmp/Emojis')
 
-A few examples:
+A Few Examples:
+
+1. Basic usage, produce a .jpg
+
+2. Basic usage, produce an .html
+
+3. 
+
+4. 
+
+
+
 

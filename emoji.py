@@ -9,13 +9,14 @@ FLAGS = gflags.FLAGS
 
 gflags.DEFINE_string('src_image',
                     '',
-                     'the image you want to transform')
+                     'the image you want to transform, it may be either ' +
+                     'a local image or an image from the world wide web')
 gflags.DEFINE_string('work_location',
                      "/tmp/Emojis",
                      'the location where the emojis will be generated')
 gflags.DEFINE_string('output_file',
                      'output.html',
-                     'The output file')
+                     'The output file, can be either .png or .html')
 gflags.DEFINE_enum('company',
                    'Appl',
                    ["Brow", "Chart",
