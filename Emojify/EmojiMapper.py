@@ -29,13 +29,15 @@ class EmojiMapper:
 
         total_image_size = img.shape[0] * img.shape[1];
         color_sums = np.sum(img, axis=(0,1));
-
-        channel_values  = (color_sums / (float(total_image_size) * 255.0) );
+        if total_image_size == 0:
+            channel_values = [0,0,0]
+        else:
+            channel_values  = (color_sums / (float(total_image_size) * 255.0) );
         
         ## Find best emoji.
         if self.use_kd_tree:
             distance_to_best, best_index = self.kd_tree.query(
-                channel_values)
+                channel_values[:3])
             min_emoji = self.emoji_dict["emojis"][best_index]
         else:
             min_emoji = min(

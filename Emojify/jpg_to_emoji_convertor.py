@@ -15,30 +15,22 @@ def image_to_emoji_grid(original,
                         emoji_mapper):
     height, width, rgb_channels = original.shape
     print (height, width, rgb_channels)
-    square_size = width / horizontal_grid_size;
-    vertical_grid_size = height / square_size
-
-    # Pre allocated list 
-    squares_to_process = [original[
-        row * square_size : (row + 1) * square_size,
-        col * square_size : (col + 1) * square_size,
-        ::]
-                            for col in range(horizontal_grid_size)
-                            for row in range(vertical_grid_size)]
-    
-    emojis = map(emoji_mapper.get_closest_emoji, squares_to_process);
-    print "Done Peralllel"
-    
+    square_size = 1 + width / horizontal_grid_size;
+    actual_emojis_in_width = (1 + width / square_size)
+    print "Actual Emojis in Width: %d" % actual_emojis_in_width
     # We now need to reshape the emojis.
-    emoji_grid = [[None for col in range(horizontal_grid_size)]
-                  for row in range(vertical_grid_size)]
-
-    for row in range(vertical_grid_size):
-        for col in range(horizontal_grid_size):
+    emoji_grid = [[None for col in range(actual_emojis_in_width)]
+                  for row in range(height / square_size)]
+    for row in range(height / square_size):
+        for col in range(actual_emojis_in_width):
+            grid_section = original[
+                row * square_size: (row + 1) * square_size,
+                col * square_size: (col + 1) * square_size,
+                ::]
             emoji_grid[row][col] = (
-                emojis[col * vertical_grid_size + row])
-            
-    return emoji_grid; 
+                emoji_mapper.get_closest_emoji(
+                    grid_section))
+    return emoji_grid;
 
 # Given a grid of emojis, this will produce an html file in the output_file_name
 # location. The emoji font size would be set to font_size.
