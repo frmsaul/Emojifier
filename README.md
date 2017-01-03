@@ -32,14 +32,26 @@ Where the flags are specified here:
   --emojis_in_width: Number of emojis to compose
     (default: '60')
     (a non-negative integer)
-  --output_file: The output file
+  --output_file: The output file, can be either .png or .html
     (default: 'output.html')
-  --src_image: the image you want to transform
+  --src_image: the image you want to transform, it may be either a local image or an
+    image from the world wide web
     (default: '')
   --[no]use_kd_tree: Use kd_tree instead of brute force.
     (default: 'true')
   --work_location: the location where the emojis will be generated
     (default: '/tmp/Emojis')
 
-A few examples:
+A Few Examples:
 
+1. Produce a .jpg
+python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealLenna.jpg --output_file Lenna.png
+
+2. Produce an .html
+python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealLenna.jpg --output_file Lenna.html
+
+3. Higher Emojis in width
+python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealLenna.jpg --output_file Lenna.html --emojis_in_width 130
+
+4. Large Emoji Size
+python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealLenna.jpg --output_file Lenna.png --emojis_in_width 130 --emoji_size 50
