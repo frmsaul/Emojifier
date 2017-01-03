@@ -45,13 +45,13 @@ Where the flags are specified here:
 A Few Examples:
 
 1. Produce a .jpg
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealLenna.jpg --output_file Lenna.png
+python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png
 
 2. Produce an .html
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealLenna.jpg --output_file Lenna.html
+python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.html
 
 3. Higher Emojis in width
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealLenna.jpg --output_file Lenna.html --emojis_in_width 130
+python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.html --emojis_in_width 130
 
 4. Large Emoji Size
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealLenna.jpg --output_file Lenna.png --emojis_in_width 130 --emoji_size 50
+python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png --emojis_in_width 130 --emoji_size 50

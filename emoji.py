@@ -64,6 +64,11 @@ def main(argv):
             do_preprocessing = False,
             use_kd_tree = FLAGS.use_kd_tree);
     except IOError:
+        print "Need to preprocess this may take a while"
+        print "luckly, you only need to do this once for every workspace"
+        print "If you are using the default workspace, this will be done"
+        print "everytime you restart your computer"
+        
         jpg_to_emoji(
             original_image = tmp_file_name,
             work_location = FLAGS.work_location,
@@ -74,11 +79,11 @@ def main(argv):
             do_preprocessing = True,
             use_kd_tree = FLAGS.use_kd_tree);
 
-    #Write into AWS s3. Used by Saul for debugging.
-    os.system("aws s3 cp %s s3://jpg-to-emoji --region us-east-1" %
-            FLAGS.output_file);
-    link = "https://s3.amazonaws.com/jpg-to-emoji/%s" % FLAGS.output_file
-    print "Link to view: %s" % link    
+    # Write into AWS s3. Used by Saul for debugging.
+    #os.system("aws s3 cp %s s3://jpg-to-emoji --region us-east-1" %
+    #        FLAGS.output_file);
+    #link = "https://s3.amazonaws.com/jpg-to-emoji/%s" % FLAGS.output_file
+    #print "Link to view: %s" % link    
 
 if __name__ == '__main__':
   app.run()
