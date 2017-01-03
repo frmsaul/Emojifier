@@ -1,27 +1,29 @@
-#####################################INTRO#####################################
+# Emojifier
+You can use Emojifier to turn your images into beutiful "Emoji Mosaics".
 
-ImgToEmoji Converter
+The Emojifier works as follows: Images are divided to a grid, and finds the "best fit" emoji for each square in the grid using an Octree 🐙🌲.
 
-The
+You can try it yourself [here](http://www.img2emoji.com)!!
 
-####################################INSTALL#####################################
+# Install
 
 1. Install python and pip
 
 2. Install packages (specified at requirements.txt)
-   You can install everything by running "pip install -r requirements.txt"
+   You can install everything by running ```pip install -r requirements.txt```
 
 3. Install Install the ImageMagick CLI.
 
 If you have trouble installing, talk to me (@frmsaul). I always have trouble
 setting up software too, so would love to help a fellow struggler. 
 
-#####################################HOW TO USE#################################
+# Usage
 You can emojify by running:
 
-"python emoji.py [FLAGS]"
+```python emoji.py [FLAGS]```
 
 Where the flags are specified here:
+```
   --company: <Brow|Chart|Appl|Goog|Twtr|One|FB|FBM|Sams|Wind|GMail|SB|DCM|KDDI>: the
     emoji implementation
     (default: 'Appl')
@@ -41,17 +43,123 @@ Where the flags are specified here:
     (default: 'true')
   --work_location: the location where the emojis will be generated
     (default: '/tmp/Emojis')
+```
+## Usage Examples:
 
-A Few Examples:
+### Produce a .jpg:
 
-1. Produce a .jpg
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png
+```python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png```
 
-2. Produce an .html
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.html
+### Produce an .html:
 
-3. Higher Emojis in width
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.html --emojis_in_width 130
+```python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.html```
 
-4. Large Emoji Size
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png --emojis_in_width 130 --emoji_size 50
+### Higher Emojis in width:
+
+```python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.html --emojis_in_width 130```
+
+### Large Emoji Size:
+
+```python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png --emojis_in_width 130 --emoji_size 50```
+
+# Examples: 
+
+## Google 
+🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩  
+🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🐖🚨🌺🌺❌📌🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩  
+🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩📮🆘🆘🆘🆘🆘🆘🔴💉🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩  
+🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩❌🆘🆘🆘🔴🔴🆘🆘🌺💭🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩  
+🌩🌩🌩🌩🌩🌩🌩🌩🌩⛱🆘🆘🔴🐖🌩🌩🍸🚫💭🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩  
+🌩🌩🌩🌩🌩🌩🌩🌩🌩📴📳🆘🔖🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩  
+🌩🌩🌩🌩🌩🌩🌩🌩🌩📳📳🤗🌩🌩🌩💙💙💙💙💙💙🌬🌩🌩🌩🌩🌩🌩🌩🌩  
+🌩🌩🌩🌩🌩🌩🌩🌩🌩📳📳🤔🌩🌩🌩🛄🚹🚹🚹🚹🚹🌧🌩🌩🌩🌩🌩🌩🌩🌩  
+🌩🌩🌩🌩🌩🌩🌩🌩🌩📳📳👩🌩🌩🌩💙💙💙🛄🚹🛂🌬🌩🌩🌩🌩🌩🌩🌩🌩  
+🌩🌩🌩🌩🌩🌩🌩🌩🌩🌕🖼💹🏌🌩🌩🌩🌩🌬🛄🚹🛄🌩🌩🌩🌩🌩🌩🌩🌩🌩  
+🌩🌩🌩🌩🌩🌩🌩🌩🌩🏝✅✅💹🏄🌩🌩🗡📘🚹🚹🌀🌩🌩🌩🌩🌩🌩🌩🌩🌩   
+🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩♻✅✅✅💹💹✅✅🏧🛄🌬🌩🌩🌩🌩🌩🌩🌩🌩🌩   
+🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌲💹✅✅✅✅✅🚛🗯🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩   
+🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🗯🌲♻♻♻🏌🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩   
+
+## Facebook 
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🆕🚈🚈⏩🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🚆🌌🎦🔠🌌🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌌🎣🖱🖌🌌🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱⛴🌌🖱🌩🛰🌑🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌌⛴🖱🍴🚈⏩🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🎣🌌🖱🖱💬🌃🎦🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖲🚆🖱🖱🗡🌃🎦🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱    
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🛬🌌🖱🖱🖱🔧🌃🎦🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌃🔄🖱🖱🖱🍴🚈🌌🌌🌌🌌🌃🛫🖱🖱🖱🖱🖱    
+🖱🌌⚫⚫⚫⚫⚫⚫🖲🖱🌨🌃🌑🖱🖱🖱🖱🖱🖱🍬🍬🍬🍬🔄🌌🍬🖱🖱🖱🖱    
+🖱🌌🌃🌃🌃🌃🌃🌃🌌🌃🌌🚈🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌌🎐🖱🖱🖱🖱    
+🖱🌌🌃🌃🌃🌃🌃🌃🌌👥🍬🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌌🎐🖱🖱🖱🖱    
+🖱🌌🌌🌌🌌🌌🌌🌌🌌🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌌🎐🖱🖱🖱🖱    
+🖱🌌🌌🌌🌌🌌🌌🌌🌌🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌌🎐🖱🖱🖱🖱    
+🖱🌌🌌🌌🌌🌌🌌🌌🌌🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌌🎐🖱🖱🖱🖱    
+🖱🌌🌌🌌🌌🌌🌌🌌🌌🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌌🎐🖱🖱🖱🖱     
+🖱🌌🌌🌌🌌🌌🌌🌌🌌🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌌🎐🖱🖱🖱🖱    
+🖱🌌🌌🌌🌌🌌🌌🌌🌌🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🚽🌌🎐🖱🖱🖱🖱    
+🖱🌌🌌🌌🌌🌌🌌🌌🌌🍶🍶🍶🍶🍽🖱🖱🖱🖱🖱🖱🖱🖱💬🍶🌌🎐🖱🖱🖱🖱    
+🖱🌌🌌🌌🌌🌌🌌🌌🌌🔢🔢🆓🔠🔨🍶🏳⛏⛏⛏⛏⛏🍶🍶📖🌌🎐🖱🖱🖱🖱    
+🖱🌌🌌🌌🌌🌌🌌🌌🌌🚈🚈🆕🌑🌌📖🍶🍶🍶🍶🍶🍶🍶🗜🌌⤴🖱🖱🖱🖱🖱   
+🖱🌌⚫⚫⚫⚫⚫⚫🖲🖱🖱🖱🖱🔢🌌🌑🌑🌑🌑🌑🌑🌑🌌🚆🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱📐📨📨📨📨📨📨📨🛫🖱🖱🖱🖱🖱🖱🖱   
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+
+## Twitter 
+🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌨🐳🎽🛃🛅🎽💦🖱🖱🖱🖱💧🖱    
+🖱💧🐬🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱💧🛄🛃🛃🛃🛃🛃🛃🎽💧🐳🛄💎🖱   
+🖱🐳🛃💦🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌨♿🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🐳🖱🌨   
+🖱🎽🛃🛃🌀🖱🖱🖱🖱🖱🖱🖱🖱🖱🐳🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🎽🐳🎽💧   
+🖱🎽🛃🛃🛃🎽🌧🖱🖱🖱🖱🖱🖱🖱🛄🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛅💧🖱    
+🖱🐳🛃🛃🛃🛃🛅🐳🌨🖱🖱🖱🖱🖱🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛄🌧🖱🖱    
+🖱💧🛃🛃🛃🛃🛃🛃🛃🎽🐬🌧🖱🖱🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🎽🖱🖱🖱    
+🖱🖱🎽🛃🛃🛃🛃🛃🛃🛃🛃🛃🛅🎽🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🐳🖱🖱🖱    
+🖱🐳💦🎽🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🐳🖱🖱🖱    
+🖱🎽🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🐬🖱🖱🖱    
+🖱🐬🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🌧🖱🖱🖱     
+🖱🖱🎽🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛄🖱🖱🖱🖱     
+🖱🖱🌧🎽🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🐳🖱🖱🖱🖱    
+🖱🖱🖱🖱🐳🛄🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🌧🖱🖱🖱🖱    
+🖱🖱🖱🐳🎽🛅🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🎽🖱🖱🖱🖱🖱   
+🖱🖱🖱🌧🅿🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛅🌧🖱🖱🖱🖱🖱    
+🖱🖱🖱🖱💦🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🐬🖱🖱🖱🖱🖱🖱    
+🖱🖱🖱🖱🖱📏🎽🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🐳🖱🖱🖱🖱🖱🖱🖱    
+🖱🖱🖱🖱🖱🖱🖱🌧🎽🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🎽🖱🖱🖱🖱🖱🖱🖱🖱    
+🖱🖱🖱🖱🖱🌨🐳🛅🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🐳🖱🖱🖱🖱🖱🖱🖱🖱🖱    
+💧💎🐬🐳🎽🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛅🐬🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱    
+🖱🌀🛄🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛃🛅🐳🌨🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱    
+🖱🖱🖱💎🐳🎽🛃🛃🛃🛃🛃🛃🛄🎽🐬🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱   
+
+## Snapchat 
+⬛⚫📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳🌰⬛⬛   
+⚫📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳⬛   
+📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳👪    
+📳📳📳📳📳📳📳📳📳📳📳📳📳🌕🌕📳📳📳📳📳📳📳📳📳📳📳📳📳📳    
+📳📳📳📳📳📳📳📳📳📳🌕👃🖱🖱🖱🖱✨🌕📳📳📳📳📳📳📳📳📳📳📳    
+📳📳📳📳📳📳📳📳📳🌕🖱🖱🖱🖱🖱🖱🖱🖱👃📳📳📳📳📳📳📳📳📳📳    
+📳📳📳📳📳📳📳📳📳💡🖱🖱🖱🖱🖱🖱🖱🖱🖱🌝📳📳📳📳📳📳📳📳📳    
+📳📳📳📳📳📳📳📳🌝🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱📳📳📳📳📳📳📳📳📳    
+📳📳📳📳📳📳📳📳🌙🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌕📳📳📳📳📳📳📳📳    
+📳📳📳📳📳📳📳📳✨🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌕📳📳📳📳📳📳📳📳    
+📳📳📳📳📳📳📳📳⚡🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌕📳📳📳📳📳📳📳📳    
+📳📳📳📳📳📳📳📳🌙🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌕📳📳📳📳📳📳📳📳    
+📳📳📳📳📳🌕🌟🌝✨🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱👂👃👃📳📳📳📳📳📳    
+📳📳📳📳📳🌕✨🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱👃📳📳📳📳📳📳    
+📳📳📳📳📳📳📳🌕🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌟🌕📳📳📳📳📳📳📳   
+📳📳📳📳📳📳📳📳🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱😶📳📳📳📳📳📳📳📳    
+📳📳📳📳📳📳📳🌕🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱✨📳📳📳📳📳📳📳📳    
+📳📳📳📳📳📳🌕🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖐📳📳📳📳📳📳📳    
+📳📳📳📳📳🌕✨🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖐📳📳📳📳📳📳    
+📳📳📳🌕👃🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱✨🌝📳📳📳📳    
+📳📳📳🌝🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱💫📳📳📳📳    
+📳📳📳📳📳🌕✨🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🖱🌝🌕📳📳📳📳📳    
+📳📳📳📳📳📳🌝🌟👂🌟🖱🖱🖱🖱🖱🖱🖱🖱✨👃👃🌟📳📳📳📳📳📳📳   
+📳📳📳📳📳📳📳📳📳📳🌕🌙🖱🖱🖱🖱🖱🌝📳📳📳📳📳📳📳📳📳📳📳   
+📳📳📳📳📳📳📳📳📳📳📳📳🌕👂👂🌝📳📳📳📳📳📳📳📳📳📳📳📳📳   
+📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳   
+🌰📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳⬛   
+⬛📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳📳⚫⬛   
