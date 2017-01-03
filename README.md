@@ -1,10 +1,9 @@
-#####################################INTRO#####################################
-
+# Emojifier
 ImgToEmoji Converter
 
 The
 
-####################################INSTALL#####################################
+# Install
 
 1. Install python and pip
 
@@ -16,10 +15,10 @@ The
 If you have trouble installing, talk to me (@frmsaul). I always have trouble
 setting up software too, so would love to help a fellow struggler. 
 
-#####################################HOW TO USE#################################
+# Usage
 You can emojify by running:
 
-python emoji.py [FLAGS]
+```python emoji.py [FLAGS]```
 
 Where the flags are specified here:
 ```
@@ -43,16 +42,19 @@ Where the flags are specified here:
   --work_location: the location where the emojis will be generated
     (default: '/tmp/Emojis')
 ```
-A Few Examples:
+## Usage Examples:
 
 1. Produce a .jpg
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png
+```python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png```
 
 2. Produce an .html
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.html
+```python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.html```
 
 3. Higher Emojis in width
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.html --emojis_in_width 130
+```python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.html --emojis_in_width 130```
 
 4. Large Emoji Size
-python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png --emojis_in_width 130 --emoji_size 50
+```python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png --emojis_in_width 130 --emoji_size 50```
+
+# Results Examples:
+
