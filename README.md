@@ -65,7 +65,7 @@ Where the flags are specified here:
 # Examples: 
 If you are using a small screen (like on a phone), these might not look too good because of breaklines. If this is the case, I recommend checking this out on a larger screen. Meanwhile enjoy this [html example](https://s3.amazonaws.com/jpg-to-emoji/like.html), and this image:
 
-![alt text](https://s3.amazonaws.com/jpg-to-emoji/like.png "Like")
+![alt text](https://s3.amazonaws.com/jpg-to-emoji/smile.png "Warhol soup can")
 
 ## Google 
 🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩  
