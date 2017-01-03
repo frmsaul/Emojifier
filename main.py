@@ -8,7 +8,7 @@ from google.apputils import app
 FLAGS = gflags.FLAGS
 
 gflags.DEFINE_string('src_image',
-                     '',
+                    '',
                      'the image you want to transform')
 gflags.DEFINE_string('work_location',
                      "/tmp/Emojis",
@@ -36,9 +36,6 @@ gflags.DEFINE_integer('emoji_size',
                        'May also be the size in pixels of each emoji.'
                        'outputed by the converter.'),
                       lower_bound=0)
-gflags.DEFINE_boolean('do_preprocessing',
-                      False,
-                      'should you refetch the emojis')
 gflags.DEFINE_boolean('use_kd_tree',
                       False,
                       'Use kd_tree instead of brute force.')
@@ -55,15 +52,27 @@ def main(argv):
     else:
         tmp_file_name = FLAGS.src_image
 
-    jpg_to_emoji(
-        original_image = tmp_file_name,
-        work_location = FLAGS.work_location,
-        output_file = FLAGS.output_file,
-        company_name = FLAGS.company,
-        emojis_in_width = FLAGS.emojis_in_width,
-        emoji_size = FLAGS.emoji_size,
-        do_preprocessing = FLAGS.do_preprocessing,
-        use_kd_tree = FLAGS.use_kd_tree);
+    try:
+        jpg_to_emoji(
+            original_image = tmp_file_name,
+            work_location = FLAGS.work_location,
+            output_file = FLAGS.output_file,
+            company_name = FLAGS.company,
+            emojis_in_width = FLAGS.emojis_in_width,
+            emoji_size = FLAGS.emoji_size,
+            do_preprocessing = False,
+            use_kd_tree = FLAGS.use_kd_tree);
+    except IOError:
+        jpg_to_emoji(
+            original_image = tmp_file_name,
+            work_location = FLAGS.work_location,
+            output_file = FLAGS.output_file,
+            company_name = FLAGS.company,
+            emojis_in_width = FLAGS.emojis_in_width,
+            emoji_size = FLAGS.emoji_size,
+            do_preprocessing = True,
+            use_kd_tree = FLAGS.use_kd_tree);
+
 
     # Write into AWS s3. Used by Saul for debugging.
     os.system("aws s3 cp %s s3://jpg-to-emoji --region us-east-1" %
