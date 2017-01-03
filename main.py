@@ -37,7 +37,7 @@ gflags.DEFINE_integer('emoji_size',
                        'outputed by the converter.'),
                       lower_bound=0)
 gflags.DEFINE_boolean('use_kd_tree',
-                      False,
+                      True,
                       'Use kd_tree instead of brute force.')
 
 def main(argv):
