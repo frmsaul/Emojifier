@@ -1,5 +1,5 @@
 # Emojifier
-You can use Emojifier to turn your images into beutiful "Emoji Mosaics".
+You can use Emojifier to turn your images into beautiful "Emoji Mosaics".
 
 The Emojifier works as follows: Images are divided to a grid, and finds the "best fit" emoji for each square in the grid using an Octree 🐙🌲.
 
@@ -15,7 +15,7 @@ You can try it yourself [here](http://www.img2emoji.com)!!
 3. Install Install the ImageMagick CLI.
 
 If you have trouble installing, talk to me (@frmsaul). I always have trouble
-setting up software too, so would love to help a fellow struggler. 
+setting up software too, so would love to help a fellow straggler. 
 
 # Usage
 You can emojify by running:
@@ -63,7 +63,7 @@ Where the flags are specified here:
 ```python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png --emojis_in_width 130 --emoji_size 50```
 
 # Examples: 
-If you are using a small screen (like on a phone), these might not look too good because of breaklines. If this is the case, I recommend checking this out on a larger screen. Meanwhile enjoy this [html example](https://s3.amazonaws.com/jpg-to-emoji/like.html), and this image:
+If you are using a small screen (like on a phone), these might not look too good because of break lines. If this is the case, I recommend checking this out on a larger screen. Meanwhile enjoy this [html example](https://s3.amazonaws.com/jpg-to-emoji/like.html), and this image:
 
 ![alt text](https://s3.amazonaws.com/jpg-to-emoji/smile.png "Warhol soup can")
 
