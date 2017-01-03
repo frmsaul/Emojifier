@@ -135,6 +135,9 @@ def get_filtered_emoji_list(work_location,
     def emoji_has_standard_size(emoji):
         return (emoji["size"][0] == 72 and
                 emoji["size"][1] == 72)
+
+    def emoji_isnt_double_emoji(emoji):
+        return emoji["number_of_combined_emojis"] == 1
         
     with open("%s/%s/EmojisMetaData.json" %
               (work_location, company_name),
@@ -149,7 +152,8 @@ def get_filtered_emoji_list(work_location,
                       emoji_isnt_japanese_alphabet(x) and
                       emoji_isnt_bullshit(x) and
                       emoji_isnt_punctioation(x) and
-                      emoji_has_standard_size(x),
+                      emoji_has_standard_size(x) and
+                      emoji_isnt_double_emoji(x),
                       all_emojis["emojis"]);
 
 # Most important function in this file.
