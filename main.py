@@ -31,11 +31,11 @@ gflags.DEFINE_integer('emojis_in_width',
                       'Number of emojis to compose',
                       lower_bound=0)
 gflags.DEFINE_integer('emoji_size',
-                      5,
+                      10,
                       ('The font size in the resulting html.'
                        'May also be the size in pixels of each emoji.'
                        'outputed by the converter.'),
-                      lower_bound=0)
+                      lower_bound=1)
 gflags.DEFINE_boolean('use_kd_tree',
                       True,
                       'Use kd_tree instead of brute force.')

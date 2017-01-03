@@ -1,7 +1,4 @@
 1. Rename main.py
-2. Change default of emoji_size to 10
-3. Change use_kd_tree default to True
-4. Add an error resolver to
 7. Remove TODO
 8. UPDATE the Docs
 9. Remove S3 stuff
