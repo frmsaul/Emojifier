@@ -63,7 +63,9 @@ Where the flags are specified here:
 ```python emoji.py --src_image https://s3.amazonaws.com/jpg-to-emoji/RealPink.png --output_file DarkSide.png --emojis_in_width 130 --emoji_size 50```
 
 # Examples: 
-If you are using a small screen (like on a phone), these might not look too good because of breaklines. If this is the case, I recommend checking this out on a larger screen. Meanwhile enjoy [this](https://s3.amazonaws.com/jpg-to-emoji/output.html)
+If you are using a small screen (like on a phone), these might not look too good because of breaklines. If this is the case, I recommend checking this out on a larger screen. Meanwhile enjoy this [html example](https://s3.amazonaws.com/jpg-to-emoji/like.html), and this image:
+
+![alt text](https://s3.amazonaws.com/jpg-to-emoji/like.png "Like")
 
 ## Google 
 🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩  
