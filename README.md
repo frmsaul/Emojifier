@@ -9,7 +9,7 @@ The
 1. Install python and pip
 
 2. Install packages (specified at requirements.txt)
-   You can install everything by running "pip install -r requirements.txt"
+   You can install everything by running ```pip install -r requirements.txt```
 
 3. Install Install the ImageMagick CLI.
 
@@ -19,9 +19,10 @@ setting up software too, so would love to help a fellow struggler.
 #####################################HOW TO USE#################################
 You can emojify by running:
 
-"python emoji.py [FLAGS]"
+python emoji.py [FLAGS]
 
 Where the flags are specified here:
+```
   --company: <Brow|Chart|Appl|Goog|Twtr|One|FB|FBM|Sams|Wind|GMail|SB|DCM|KDDI>: the
     emoji implementation
     (default: 'Appl')
@@ -41,7 +42,7 @@ Where the flags are specified here:
     (default: 'true')
   --work_location: the location where the emojis will be generated
     (default: '/tmp/Emojis')
-
+```
 A Few Examples:
 
 1. Produce a .jpg
