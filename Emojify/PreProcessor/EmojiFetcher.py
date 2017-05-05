@@ -32,11 +32,11 @@ def create_work_directory(work_location):
 def fetch_from_the_unicode_website(work_location):
     bs = RoboBrowser(history=True,
                      parser="html.parser")
-    bs.open('http://unicode.org/emoji/charts/full-emoji-list.html')
+    bs.open('https://web.archive.org/web/20161205225113/http://unicode.org/emoji/charts/full-emoji-list.html')
     table_rows = bs.find_all("tr");
     print "Number of Rows %d" % len(table_rows);
     meta_data_dictionary = {};
-    for row in table_rows:
+    for row in table_rows[12:]:
 
         row_cols = row.find_all("td");
         if len(row_cols) == 0:
