@@ -3,8 +3,6 @@ You can use Emojifier to turn your images into beautiful "Emoji Mosaics".
 
 The Emojifier works as follows: Images are divided to a grid, and finds the "best fit" emoji for each square in the grid using an Octree 🐙🌲.
 
-You can try it yourself [here](http://www.img2emoji.com)!!
-
 # Install
 
 1. Install python and pip
